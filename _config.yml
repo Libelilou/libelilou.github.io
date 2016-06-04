@@ -1,33 +1,38 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Princesse RH
-email:
-description: >
-  Un petit blog sur des petites choses liées à la RH et au recrutement
+description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://libelilou.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Princess RH
+user_description: RH, Comptable, un peu codeuse…
+user_title: Princess RH
+email:
 twitter_username: libellule
 github_username:  libelilou
+disqus_username: princesserh
+repository: ""
 
 # Build settings
 markdown: kramdown
 
-# Exclusions
-exclude:
-  - ".bundle"
-  - "vendor"
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Accueil
+    url: /
+  - title: Tags
+    url: /tags
+  - title: À propos de moi
+    url: /a-propos
 
 #Defaults
 defaults:
@@ -36,3 +41,23 @@ defaults:
       type: "posts"
     values:
       layout: post
+  -
+    scope:
+      path: "_posts/princesse"
+    values:
+      main-class: princesse
+      color: "#B31917"
+  -
+    scope:
+      path: "_posts/rh"
+    values:
+      main-class: rh
+      color: "#2DA0C3"
+  -
+    scope:
+      path: "_posts/divers"
+    values:
+      main-class: divers
+      color: "#7AAB13"
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules', '.bundle', '.git', 'vendor', 'Gemfile', 'Gemfile.lock','gulpfile']
