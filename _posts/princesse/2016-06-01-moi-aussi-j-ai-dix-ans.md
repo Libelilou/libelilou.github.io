@@ -1,8 +1,6 @@
 ---
 title : "Moi aussi j'ai 10 ans"
-introduction: "Le petit texte d'intro sur la carte"
-tags:
-- "tag 1"
+introduction: "Je l'admets : j'adoooooore les surprises ! Les surprises en tous genres, du moment que c'est une surprise ! Alors, un des petits plaisirs…"
 ---
 
 Je l'admets : j'adoooooore les surprises ! Les surprises en tous genres, du moment que c'est une surprise ! Alors, un des petits plaisirs
