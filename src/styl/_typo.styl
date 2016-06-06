@@ -5,8 +5,17 @@ mainFont(weight = 800)
     font-weight weight
     font-style normal
 
+@font-face
+    font-family 'redressedregular'
+    src url('../fonts/redressedregular/redressed.eot')
+    src url('../fonts/redressedregular/redressed.eot?#iefix') format('embedded-opentype'),url('../fonts/redressedregular/redressed.woff') format('woff'),url('../fonts/redressedregular/redressed.ttf') format('truetype'),url('../fonts/redressedregular/redressed.svg#apercu-regular') format('svg')
+    font-weight 400
+    font-style normal
+    font-stretch normal
+
 h1,h2,h3,h4
     mainFont()
-    
+    font-family 'redressedregular' !important
+
 .text-center
   text-align center

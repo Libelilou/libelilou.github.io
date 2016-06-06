@@ -2,7 +2,7 @@
 title: Princesse RH
 description: Mes coups de coeur de princesse, mes coups de gueule de RH !
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://libelilou.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Princesse RH
@@ -12,7 +12,7 @@ email:
 twitter_username: libellule
 github_username:  libelilou
 disqus_username: princesserh
-repository: ""
+repository: "Libelilou/libelilou.github.io.git"
 
 # Build settings
 markdown: kramdown
