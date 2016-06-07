@@ -13,9 +13,15 @@ twitter_username: libellule
 github_username:  libelilou
 disqus_username: princesserh
 repository: "Libelilou/libelilou.github.io.git"
+timezone: Europe/Paris
+encoding: utf-8
+lang: fr
 
 # Build settings
 markdown: kramdown
+kramdown:
+  hard_wrap: true
+  smartquotes:  ["rdquo", "rsquo", "ldquo", "rdquo"]
 
 # html minify
 compress_html:
@@ -59,5 +65,11 @@ defaults:
     values:
       main-class: divers
       color: "#7AAB13"
+  -
+    scope:
+      path: "_posts/cuisine"
+    values:
+      main-class: cuisine
+      color: "#EB7728"
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', '.bundle', '.git', 'vendor', 'Gemfile', 'Gemfile.lock','gulpfile']
