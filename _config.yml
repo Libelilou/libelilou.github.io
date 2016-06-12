@@ -71,5 +71,23 @@ defaults:
     values:
       main-class: cuisine
       color: "#EB7728"
+  - scope:
+      type: decks
+    values:
+      layout: deck
+      theme: clever
+      transition: fade
+  - scope:
+      type: slides
+    values:
+      layout: slide
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', '.bundle', '.git', 'vendor', 'Gemfile', 'Gemfile.lock','gulpfile']
+
+collections:
+  slides :
+    output: true
+    permalink: /:path/
+  decks :
+    output: true
+    permalink: /:path/

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>
+      {% if page.title and page.cursus %}
+        {{ page.title }} | {{ page.cursus.title }} | {{ site.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+
+    <meta name="author" content="{{ site.author }}" />
+
+    <!-- Description -->
+    {% if page.description %}
+      <meta name="description" content="{{ page.description }}" />
+    {% else %}
+      <meta name="description" content="{{ site.description }}">
+    {% endif %}
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="{{ "/assets/revealjs/css/reveal.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/assets/revealjs/css/theme/black.css" | prepend: site.baseurl }}" id="theme"/>
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="{{ "/assets/revealjs/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!--[if lt IE 9]>
+    <script src="lib/js/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <noscript>
+      <h1>{{ page.title }}</h1>
+      <ul>
+        {% assign the_slides=site.slides | where:"deck", page.deck %}
+
+        {% assign previous_depth = 3 %}
+        {% for slide in the_slides %}
+          {% assign the_depth= slide.path | split:"/" | size %}
+          {{ the_depth }}
+          {% if the_depth > previous_depth %}
+            <ul>
+          {% elsif the_depth < previous_depth %}
+            </ul>
+          {% endif %}
+
+          <li>
+            <a href="{{ slide.url | prepend: site.baseurl }}">{{ slide.title }}</a>
+          </li>
+
+          {% assign previous_depth = depth %}
+        {% endfor %}
+      </ul>
+    </noscript>
+    <div class="reveal">
+      <div class="slides">
+        {% assign previous_depth = 3 %}
+        {% for slide in the_slides %}
+          {% assign the_depth= slide.path | split:"/" | size %}
+					{% if the_depth > previous_depth %}
+						<section>
+					{% elsif the_depth < previous_depth %}
+						</section>
+					{% endif %}
+
+					{% include slide.html %}
+
+          {% assign previous_depth = the_depth %}
+				{% endfor %}
+      </div>
+    </div>
+
+    <script src="{{ "/assets/revealjs/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/revealjs/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script>
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: false,
+				slideNumber: true,
+
+        {%if page.transition %}
+          transition: '{{page.transition}}',
+        {% else %}
+          transition: 'slide', // none/fade/slide/convex/concave/zoom
+        {% endif %}
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: '{{ "/assets/revealjs/lib/js/classList.js" | prepend: site.baseurl }}', condition: function() { return !document.body.classList; } },
+          { src: '{{ "/assets/revealjs/plugin/markdown/marked.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{ "/assets/revealjs/plugin/markdown/markdown.js" | prepend: site.baseurl }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: '{{ "/assets/revealjs/plugin/highlight/highlight.js" | prepend: site.baseurl }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: '{{ "/assets/revealjs/plugin/zoom-js/zoom.js" | prepend: site.baseurl }}', async: true },
+          { src: '{{ "/assets/revealjs/plugin/notes/notes.js" | prepend: site.baseurl }}', async: true }
+        ]
+      });
+    </script>
+
+  </body>
+</html>
