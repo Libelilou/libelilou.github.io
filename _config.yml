@@ -21,7 +21,6 @@ lang: fr
 markdown: kramdown
 kramdown:
   hard_wrap: true
-  smartquotes:  ["rdquo", "rsquo", "ldquo", "rdquo"]
 
 # html minify
 compress_html:

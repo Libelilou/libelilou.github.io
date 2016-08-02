@@ -10,27 +10,25 @@ layout: microtypo
       <pre{{ temp3.first | newline_to_br }}</pre>
     {% endif %}
     {% assign t = temp3.last %}
-    {% if page.lang == 'fr' %}
-      {% assign t = t | replace_regex: '(\d)(e|è)(r|me)?([\s.,])', '\1<sup>\2\3</sup>\4' %}
+    {% assign t = t | replace_regex: '(\d)(e|è)(r|me)?([\s.,])', '\1<sup>\2\3</sup>\4' %}
 
-      {% assign t = t | replace: '&ldquo;' , '«&#8239;' %}
-      {% assign t = t | replace: '&rdquo;' , '&#8239;»' %}
-      {% assign t = t | replace: '“' , '«&#8239;' %}
-      {% assign t = t | replace: '”' , '&#8239;»' %}
+    {% assign t = t | replace: '&ldquo;' , '«&#8239;' %}
+    {% assign t = t | replace: '&rdquo;' , '&#8239;»' %}
+    {% assign t = t | replace: '“' , '«&#8239;' %}
+    {% assign t = t | replace: '”' , '&#8239;»' %}
 
-      {% assign t = t | replace: ' :',       '&nbsp;:' %}
-      {% assign t = t | replace: ' %',       '&#8239;%' %}
-      {% assign t = t | replace: ' ;', '&#8239;;' %}
-      {% assign t = t | replace: ' !', '&#8239;!' %}
-      {% assign t = t | replace: ' ?', '&#8239;?' %}
+    {% assign t = t | replace: '?!' , '&#8264;' %}
+    {% assign t = t | replace: '!?' , '&#8265;' %} 
+    {% assign t = t | replace: '!!!' , '&#8252;' %}
+    {% assign t = t | replace: '!!' , '&#8252;' %}
 
-    {% elsif page.lang == 'en' %}
-      {% assign t = t | replace: ' :', ':' %}
-      {% assign t = t | replace: ' %', '%' %}
-      {% assign t = t | replace: ' ;', ';' %}
-      {% assign t = t | replace: ' !', '!' %}
-      {% assign t = t | replace: ' ?', '?' %}
-    {% endif %}
+    {% assign t = t | replace: ' :',       '&nbsp;:' %}
+    {% assign t = t | replace: ' %',       '&#8239;%' %}
+    {% assign t = t | replace: ' ;', '&#8239;;' %}
+    {% assign t = t | replace: ' !', '&#8239;!' %}
+    {% assign t = t | replace: ' ?', '&#8239;?' %}
+    {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?(px|%)(\s|.)', '\1\2&#8239;\4\5' %}
+
     {% assign t = t | replace_regex: '(—|&mdash;)(\s)', '\1&nbsp;' %}
     {% assign t = t | replace: '...' , '&#8230;' %}
     {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?x(\s)?(?=\d)', '\1\2\3&times;\3' %}
