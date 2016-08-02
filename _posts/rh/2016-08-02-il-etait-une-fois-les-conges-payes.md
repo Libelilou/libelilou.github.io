@@ -13,17 +13,41 @@ Les congés payés deviennent alors obligatoires et fixés à deux semaines. En 
 
 ## Idées reçues
 
-- Il faut avoir travaillé X jours / mois / an avant d'acquérir des congés payés : FAUX. Tout salarié acquiert des congés payés dès le premier jour de travail. Bien entendu, ça ne veut pas dire que vous travaillez 1 jour et PAF ! vous avez 1 jour de congé payé, c'est un peu plus compliqué et je vais détailler dans la partie 1.
+> Il faut avoir travaillé X jours / mois / an avant d'acquérir des congés payés
 
-- Il faut attendre le 1er juin N+1 pour pouvoir bénéficier de ses congés payés : FAUX. Comme précisé précédemment, vous acquérez des congés payés dès le premier jour de travail. Si cela vous amuse, vous avez donc le droit de poser 2 jours de congés tous les mois. **Attention,je le répèterai souvent au cours de mes articles, cela peut paraître évident pour la plupart d'entre vous, mais il est rarement inutile de le re-préciser : _avoir le droit de_ ne signifie pas _l'employeur est obligé d'accepter que_.** Vous pouvez bien entendu faire la demande à votre employeur pour profiter de vos 2 jours de congés mensuels, mais il n'est pas obligé de vous les valider. D'ailleurs, idée reçue suivante :
+**FAUX**. Tout salarié acquiert des congés payés dès le premier jour de travail. Bien entendu, ça ne veut pas dire que vous travaillez 1 jour et PAF ! vous avez 1 jour de congé payé, c'est un peu plus compliqué et je vais détailler dans la partie 1.
 
-- L'employeur n'a pas le droit de me refuser mes congés : FAUX... Article 3141-12 et suivants du Code du Travail : l'employeur fixe les dates de départ en congés à défaut de convention ou d'accord de travail collectif. En revanche, sauf cas exceptionnel, ces dates ne peuvent ensuite plus être modifiées à moins d'un mois de la date de départ (sachant que "cas exceptionnel" peut être "raisons de service" mais je ne sais pas si c'est vraiment fréquent).
+---
 
-- Un salarié à mi-temps acquiert moitié moins de congés payés qu'un salarié à temps plein : FAUX. La seule proratisation des congés payés est le _prorata temporis_ (embauche ou départ en cours d'année par exemple). En revanche, une semaine de congés équivaut à 6 jours ouvrables, qu'on soit à temps plein ou temps partiel. La règle est la même pour tout le monde : "les congés commencent le premier jour qui aurait dû être travaillé, et prend fin la veille de la reprise du travail (hors dimanche)".
+> Il faut attendre le 1er juin N+1 pour pouvoir bénéficier de ses congés payés
 
-- Il vaut mieux se faire payer les congés que les prendre car ils rapportent plus : FAUX... enfin, plutôt pas forcément, cela va dépendre de vos contraintes professionnelles (travail le dimanche, la nuit, les jours fériés, astreintes, etc). Idée reçu subsidiaire : lors d'un licenciement ou une rupture conventionnelle, il vaut mieux se faire payer ses congés que les solder avant de partir pour percevoir à la fois les Assedic et les congés... Mouais, mais ça impliquerait que les braves gens qui décident les règles d'indemnisation chômage sont A) philanthropes B) stupides. Or, ils ne sont ni l'un ni l'autre, et donc ils y ont pensé avant vous ! Et c'est notamment pourquoi le nombre de jours de congés restants et indemnisés lors de la clôture du contrat sont indiqués sur votre attestation Pôle Emploi et ils constitueront donc une période de "carence" d'indemnisation. Exemple : votre employeur vous licencie et vous verse donc une "indemnité compensatrice de congés payés" représentant 20 jours de congés payés : le Pôle Emploi considère donc que vous êtes en congés pendant 20 jours et ne commencera donc l'indemnisation chômage qu'à la fin de cette période (en plus de la carence spécifique de Pôle Emploi).
+**FAUX**. Comme précisé précédemment, vous acquérez des congés payés dès le premier jour de travail. Si cela vous amuse, vous avez donc le droit de poser 2 jours de congés tous les mois. **Attention,je le répèterai souvent au cours de mes articles, cela peut paraître évident pour la plupart d'entre vous, mais il est rarement inutile de le re-préciser : _avoir le droit de_ ne signifie pas _l'employeur est obligé d'accepter que_.** Vous pouvez bien entendu faire la demande à votre employeur pour profiter de vos 2 jours de congés mensuels, mais il n'est pas obligé de vous les valider. D'ailleurs, idée reçue suivante :
 
-- Les congés payés doivent apparaître sur le bulletin de salaire : FAUX. Eh oui, il s'agit juste de "décoration". La grande majorité des logiciels le proposent en effet, pour des raisons de lisibilité salariale mais ce n'est en aucun cas une des mentions obligatoires devant figurer sur le bulletin de salaire (elles sont finalement assez peu nombreuses).
+---
+
+> L'employeur n'a pas le droit de me refuser mes congés
+
+**FAUX**... Article 3141-12 et suivants du Code du Travail : l'employeur fixe les dates de départ en congés à défaut de convention ou d'accord de travail collectif. En revanche, sauf cas exceptionnel, ces dates ne peuvent ensuite plus être modifiées à moins d'un mois de la date de départ (sachant que "cas exceptionnel" peut être "raisons de service" mais je ne sais pas si c'est vraiment fréquent).
+
+---
+
+> Un salarié à mi-temps acquiert moitié moins de congés payés qu'un salarié à temps plein
+
+**FAUX**. La seule proratisation des congés payés est le _prorata temporis_ (embauche ou départ en cours d'année par exemple). En revanche, une semaine de congés équivaut à 6 jours ouvrables, qu'on soit à temps plein ou temps partiel. La règle est la même pour tout le monde : "les congés commencent le premier jour qui aurait dû être travaillé, et prend fin la veille de la reprise du travail (hors dimanche)".
+
+---
+
+> Il vaut mieux se faire payer les congés que les prendre car ils rapportent plus
+
+**FAUX... enfin, plutôt pas forcément**, cela va dépendre de vos contraintes professionnelles (travail le dimanche, la nuit, les jours fériés, astreintes, etc). Idée reçu subsidiaire : lors d'un licenciement ou une rupture conventionnelle, il vaut mieux se faire payer ses congés que les solder avant de partir pour percevoir à la fois les Assedic et les congés... Mouais, mais ça impliquerait que les braves gens qui décident les règles d'indemnisation chômage sont A) philanthropes B) stupides. Or, ils ne sont ni l'un ni l'autre, et donc ils y ont pensé avant vous ! Et c'est notamment pourquoi le nombre de jours de congés restants et indemnisés lors de la clôture du contrat sont indiqués sur votre attestation Pôle Emploi et ils constitueront donc une période de "carence" d'indemnisation. Exemple : votre employeur vous licencie et vous verse donc une "indemnité compensatrice de congés payés" représentant 20 jours de congés payés : le Pôle Emploi considère donc que vous êtes en congés pendant 20 jours et ne commencera donc l'indemnisation chômage qu'à la fin de cette période (en plus de la carence spécifique de Pôle Emploi).
+
+---
+
+> Les congés payés doivent apparaître sur le bulletin de salaire
+
+**FAUX**. Eh oui, il s'agit juste de "décoration". La grande majorité des logiciels le proposent en effet, pour des raisons de lisibilité salariale mais ce n'est en aucun cas une des mentions obligatoires devant figurer sur le bulletin de salaire (elles sont finalement assez peu nombreuses).
+
+---
 
 Voici comment fonctionnent les congés payés : (attention, je ne mentionnerai pas ici les spécificités des nombreuses conventions collectives ou autres accords d'entreprise : jours supplémentaires liés à l'ancienneté ou à des contraintes de travail particulières, prime de vacances, etc.). J'en reste aux règles de base du droit du travail (enfin la version de juillet 2016, je n'ai pas encore regardé si le nouveau Code du Travail revenait là-dessus).
 
@@ -55,21 +79,25 @@ Encore une fois, cela peut dépendre des conventions collectives, mais rappelez-
 
 Alors, accrochez-vous, on arrive dans la partie "technique" !!! Les congés payés doivent être valorisés selon la méthode la plus avantageuse (pour le salarié bien sûr, pas pour l'employeur !!!) de ces deux méthodes :
 
- - la méthode du **maintien de salaire** : pendant ses congés payés, le salarié est payé "comme s'il avait normalement travaillé" (ce qui comprend également l'indemnisation des sujétions : travail le dimanche, travail de nuit, astreintes habituelles, etc). Je ne parle volontairement pas des jours fériés tombant sur les périodes de congés payés, ça fera l'objet d'un paragraphe suivant.
+### La méthode du **maintien de salaire**
 
- - la méthode dite des **10%** : il s'agit grosso-modo de 10% de la totalité de votre brut du 1er juin N au 31 mai N+1. Je dis "grosso-modo" car il y a parfois des retraitements à faire. Si par exemple, votre entreprise ne garantit pas le maintien de salaire en cas d'arrêt maladie, et puisque la maladie est légalement assimilée à du travail effectif, votre gentille RH doit reconstituer votre salaire brut pendant votre période de maladie pour calculer les 10%.
+Pendant ses congés payés, le salarié est payé "comme s'il avait normalement travaillé" (ce qui comprend également l'indemnisation des sujétions : travail le dimanche, travail de nuit, astreintes habituelles, etc). Je ne parle volontairement pas des jours fériés tombant sur les périodes de congés payés, ça fera l'objet d'un paragraphe suivant.
 
- Concrètement, comment ça fonctionne ? Si, contrairement à moi, vous avez la chance immense de bénéficier d'un cerveau logique vous aurez réalisé un petit hic :
+### La méthode dite des **10%**
 
- - un salarié est en droit de poser ses congés dès leur acquisition
- - l'employeur doit les valoriser selon la méthode la plus avantageuse entre maintien de salaire et 10%
- - sauf que pour calculer les 10%, il faut attendre la fin du mois de mai !
+Il s'agit grosso-modo de 10% de la totalité de votre brut du 1er juin N au 31 mai N+1. Je dis "grosso-modo" car il y a parfois des retraitements à faire. Si par exemple, votre entreprise ne garantit pas le maintien de salaire en cas d'arrêt maladie, et puisque la maladie est légalement assimilée à du travail effectif, votre gentille RH doit reconstituer votre salaire brut pendant votre période de maladie pour calculer les 10%.
 
- Alors comment savoir en février par exemple, quelle est la méthode la plus avantageuse ? Merci Paulo pour la question à mille balles !
- Rassurez-vous, votre RH a tout prévu :)
- Ce qui se passe en général, c'est qu'on valorise les congés payés "pris par anticipation" (abus de langage pour parler des congés acquis et pris avant le 31 mai) selon la méthode du maintien de salaire. Une fois la paie de mai clôturée, on reprend salarié par salarié tous les congés pris par anticipation et on compare la valorisation du maintien de salaire appliquée au fur et à mesure et la méthode des 10% (ouais, on a un début de mois de juin super passionnant !!!) et si la méthode des 10% est en réalité plus avantageuse, on verse au salarié une "indemnité différentielle de congés payés" qui correspond à la différence entre les deux méthodes.
+Concrètement, comment ça fonctionne ? Si, contrairement à moi, vous avez la chance immense de bénéficier d'un cerveau logique vous aurez réalisé un petit hic :
 
- Alors, pour un salarié "classique" (travail à 35 heures du lundi au vendredi sans variables particulières) c'est très souvent la méthode des 10% qui est plus avantageuse. Mais pour tous les salariés qui ont beaucoup de variables (nuit, dimanche) il arrive assez souvent que ce soit la méthode du maintien de salaire qui soit plus avantageuse.
+- un salarié est en droit de poser ses congés dès leur acquisition
+- l'employeur doit les valoriser selon la méthode la plus avantageuse entre maintien de salaire et 10%
+- sauf que pour calculer les 10%, il faut attendre la fin du mois de mai !
+
+Alors comment savoir en février par exemple, quelle est la méthode la plus avantageuse ? Merci Paulo pour la question à mille balles !  
+Rassurez-vous, votre RH a tout prévu :)  
+Ce qui se passe en général, c'est qu'on valorise les congés payés "pris par anticipation" (abus de langage pour parler des congés acquis et pris avant le 31 mai) selon la méthode du maintien de salaire. Une fois la paie de mai clôturée, on reprend salarié par salarié tous les congés pris par anticipation et on compare la valorisation du maintien de salaire appliquée au fur et à mesure et la méthode des 10% (ouais, on a un début de mois de juin super passionnant !!!) et si la méthode des 10% est en réalité plus avantageuse, on verse au salarié une "indemnité différentielle de congés payés" qui correspond à la différence entre les deux méthodes.
+
+Alors, pour un salarié "classique" (travail à 35 heures du lundi au vendredi sans variables particulières) c'est très souvent la méthode des 10% qui est plus avantageuse. Mais pour tous les salariés qui ont beaucoup de variables (nuit, dimanche) il arrive assez souvent que ce soit la méthode du maintien de salaire qui soit plus avantageuse.
 
 ## 4. Congés payés et CDD
 
@@ -82,8 +110,9 @@ Attention, à ne pas confondre avec ce qu'on appelle communément "les 10% CDD" 
 Déjà, si vous avez tenu jusque là : merci :) !!! Moi ça me passionne mais je sais que c'est pas le truc le plus fun du monde pour le reste de l'humanité !
 
 Alors, dernière partie mais il faut s'accrocher un peu quand-même ! Je vous ai dit un peu plus haut que les congés payés étaient divisés en deux parties :
- - le congé principal de 4 semaines
- - le congé supplémentaire (la cinquième semaine)
+
+- le congé principal de 4 semaines
+- le congé supplémentaire (la cinquième semaine)
 
 En principe, le congé principal doit être posé en totalité pendant la période estivale (du 1er mai au 31 octobre). Lorsque cela n'est pas possible, on parle alors de fractionnement des congés payés et le salarié, qui est donc considéré comme "lésé" bénéficie de jours de congés supplémentaires.
 
