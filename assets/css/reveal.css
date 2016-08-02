@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'redressedregular';
+    src: url("../fonts/redressedregular/redressed.eot");
+    src: url("../fonts/redressedregular/redressed.eot?#iefix") format('embedded-opentype'), url("../fonts/redressedregular/redressed.woff") format('woff'), url("../fonts/redressedregular/redressed.ttf") format('truetype'), url("../fonts/redressedregular/redressed.svg#apercu-regular") format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal
+}
+
+.reveal,
+.slides {
+  text-align: left;
+  font-family: 'Open Sans',sans-serif;
+}
+.reveal ol, .reveal dl, .reveal ul {
+  display: block;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+    font-family: 'redressedregular', 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+}
