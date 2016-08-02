@@ -9,7 +9,7 @@ Quand on pense "congés payés" on pense de suite à 1936... En réalité, dès 
 
 Contrairement à ce qu'on pourrait penser, les congés payés ne faisaient pas partie du programme du Front Populaire en 1936, mais lorsque le parti sort vainqueur des élections législatives le 3 mai, les revendications des travailleurs se font de plus en plus pressantes et les grèves paralysent alors la France (appelées "grèves joyeuses", c'est vous dire...). Les négociations entre salariés et patrons qui s'en suivent aboutissent aux Accords Matignons (créant notamment les Conventions Collectives).
 
-Les congés payés deviennent alors obligatoires et fixés à deux semaines. En 1955, Pierre Dreyfus, à la tête de Renault, accorde à ses salariés une semaine supplémentaire (qui sera ensuite généralisée à tout le pays par la loi du 27 mars 1956), puis une quatrième semaine en 1962 (légalisée le 17 mai 1969). Pierre Dreyfus, ministre de l'Industrie sous Mauroy, instaure alors la cinquière semaine de congés payés par ordonnance du 13 janvier 1982.
+Les congés payés deviennent alors obligatoires et fixés à deux semaines. En 1955, Pierre Dreyfus, à la tête de Renault, accorde à ses salariés une semaine supplémentaire (qui sera ensuite généralisée à tout le pays par la loi du 27 mars 1956), puis une quatrième semaine en 1962 (légalisée le 17 mai 1969). Pierre Dreyfus, ministre de l'Industrie sous Mauroy, instaure alors la cinquième semaine de congés payés par ordonnance du 13 janvier 1982.
 
 ## Idées reçues
 
@@ -21,7 +21,7 @@ Les congés payés deviennent alors obligatoires et fixés à deux semaines. En 
 
 > Il faut attendre le 1er juin N+1 pour pouvoir bénéficier de ses congés payés
 
-**FAUX**. Comme précisé précédemment, vous acquérez des congés payés dès le premier jour de travail. Si cela vous amuse, vous avez donc le droit de poser 2 jours de congés tous les mois. **Attention,je le répèterai souvent au cours de mes articles, cela peut paraître évident pour la plupart d'entre vous, mais il est rarement inutile de le re-préciser : _avoir le droit de_ ne signifie pas _l'employeur est obligé d'accepter que_.** Vous pouvez bien entendu faire la demande à votre employeur pour profiter de vos 2 jours de congés mensuels, mais il n'est pas obligé de vous les valider. D'ailleurs, idée reçue suivante :
+**FAUX**. Comme précisé précédemment, vous acquérez des congés payés dès le premier jour de travail. Si cela vous amuse, vous avez donc le droit de poser 2 jours de congés tous les mois. **Attention,je le répèterai souvent au cours de mes articles, cela peut paraître évident pour la plupart d'entre vous, mais il est rarement inutile de le repréciser : _avoir le droit de_ ne signifie pas _l'employeur est obligé d'accepter que_.** Vous pouvez bien entendu faire la demande à votre employeur pour profiter de vos 2 jours de congés mensuels, mais il n'est pas obligé de vous les valider. D'ailleurs, idée reçue suivante :
 
 ---
 
@@ -33,7 +33,7 @@ Les congés payés deviennent alors obligatoires et fixés à deux semaines. En 
 
 > Un salarié à mi-temps acquiert moitié moins de congés payés qu'un salarié à temps plein
 
-**FAUX**. La seule proratisation des congés payés est le _prorata temporis_ (embauche ou départ en cours d'année par exemple). En revanche, une semaine de congés équivaut à 6 jours ouvrables, qu'on soit à temps plein ou temps partiel. La règle est la même pour tout le monde : "les congés commencent le premier jour qui aurait dû être travaillé, et prend fin la veille de la reprise du travail (hors dimanche)".
+**FAUX**. La seule proratisation des congés payés est le <i lang="lat">prorata temporis</i> (embauche ou départ en cours d'année par exemple). En revanche, une semaine de congés équivaut à 6 jours ouvrables, qu'on soit à temps plein ou temps partiel. La règle est la même pour tout le monde : "les congés commencent le premier jour qui aurait dû être travaillé et prennent fin la veille de la reprise du travail (hors dimanche)".
 
 ---
 
@@ -89,8 +89,8 @@ Il s'agit grosso-modo de 10% de la totalité de votre brut du 1er juin N au 31 m
 
 Concrètement, comment ça fonctionne ? Si, contrairement à moi, vous avez la chance immense de bénéficier d'un cerveau logique vous aurez réalisé un petit hic :
 
-- un salarié est en droit de poser ses congés dès leur acquisition
-- l'employeur doit les valoriser selon la méthode la plus avantageuse entre maintien de salaire et 10%
+- un salarié est en droit de poser ses congés dès leur acquisition ;
+- l'employeur doit les valoriser selon la méthode la plus avantageuse entre maintien de salaire et 10% ;
 - sauf que pour calculer les 10%, il faut attendre la fin du mois de mai !
 
 Alors comment savoir en février par exemple, quelle est la méthode la plus avantageuse ? Merci Paulo pour la question à mille balles !  
@@ -107,7 +107,7 @@ Attention, à ne pas confondre avec ce qu'on appelle communément "les 10% CDD" 
 
 ## 5. Le fractionnement
 
-Déjà, si vous avez tenu jusque là : merci :) !!! Moi ça me passionne mais je sais que c'est pas le truc le plus fun du monde pour le reste de l'humanité !
+Déjà, si vous avez tenu jusque-là : merci :) !!! Moi ça me passionne mais je sais que c'est pas le truc le plus fun du monde pour le reste de l'humanité !
 
 Alors, dernière partie mais il faut s'accrocher un peu quand-même ! Je vous ai dit un peu plus haut que les congés payés étaient divisés en deux parties :
 
