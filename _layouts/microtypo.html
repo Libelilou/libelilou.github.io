@@ -17,10 +17,10 @@ layout: microtypo
     {% assign t = t | replace: '“' , '«&#8239;' %}
     {% assign t = t | replace: '”' , '&#8239;»' %}
 
-    {% assign t = t | replace: '?!' , '&#8264;' %}
-    {% assign t = t | replace: '!?' , '&#8265;' %} 
-    {% assign t = t | replace: '!!!' , '&#8252;' %}
-    {% assign t = t | replace: '!!' , '&#8252;' %}
+    {% assign t = t | replace: ' ?!' , '&#8239;&#8264;' %}
+    {% assign t = t | replace: ' !?' , '&#8239;&#8265;' %}
+    {% assign t = t | replace: ' !!!' , '&#8239;&#8252;' %}
+    {% assign t = t | replace: ' !!' , '&#8239;&#8252;' %}
 
     {% assign t = t | replace: ' :',       '&nbsp;:' %}
     {% assign t = t | replace: ' %',       '&#8239;%' %}
