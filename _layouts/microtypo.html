@@ -21,6 +21,7 @@ layout: microtypo
     {% assign t = t | replace: ' !?' , '&#8239;&#8265;' %}
     {% assign t = t | replace: ' !!!' , '&#8239;&#8252;' %}
     {% assign t = t | replace: ' !!' , '&#8239;&#8252;' %}
+    {% assign t = t | replace: ' x ' , ' &times;&nbsp;' %}
 
     {% assign t = t | replace: ' :',       '&nbsp;:' %}
     {% assign t = t | replace: ' %',       '&#8239;%' %}

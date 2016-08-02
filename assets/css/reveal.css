@@ -8,12 +8,26 @@
 }
 
 .reveal,
-.slides {
+.slides,
+.reveal p,
+.slides p {
   text-align: left;
   font-family: 'Open Sans',sans-serif;
 }
+
+p.centered {
+  text-align: center;
+}
+
+.reveal blockquote {
+  width: 100%;
+}
 .reveal ol, .reveal dl, .reveal ul {
   display: block;
+}
+
+.reveal li {
+  margin: 0.3em 0 0.3em 0;
 }
 
 .reveal h1,
@@ -24,4 +38,9 @@
     font-weight: 800;
     font-style: normal;
     text-transform: none;
+}
+
+.reveal .info {
+  display: inline;
+  font-size: 0.7em;
 }
