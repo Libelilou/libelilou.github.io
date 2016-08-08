@@ -41,7 +41,7 @@ layout: microtypo
       var link = document.createElement( 'link' );
       link.rel = 'stylesheet';
       link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}' : '{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
+      link.href = window.location.search.match( /print-pdf/gi )?'{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}':'{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
@@ -58,40 +58,62 @@ layout: microtypo
     <noscript>
       <h1>{{ page.title }}</h1>
       <ul>
-        {% assign the_slides=site.slides | where:"deck", page.deck %}
+        {% assign the_slides= site.slides | where:"deck", page.deck %}
 
+        {% assign the_first_slide = the_slides | first %}
+        {% assign the_first_path_array = the_first_slide.path | split:"/" %}
         {% assign previous_depth = 3 %}
+        {% assign previous_root = the_first_path_array[2] %}
+
         {% for slide in the_slides %}
-          {% assign the_depth= slide.path | split:"/" | size %}
-          {{ the_depth }}
-          {% if the_depth > previous_depth %}
+
+          {% assign the_path_array = slide.path | split:"/" %}
+          {% assign the_depth = the_path_array | size %}
+          {% assign the_root = the_path_array[2] %}
+
+          {% if the_root != previous_root %}
+            {% assign previous_root = the_root %}
+            </ul><ul>
+          {% elsif the_depth > previous_depth %}
+            {% assign previous_depth = depth %}
             <ul>
           {% elsif the_depth < previous_depth %}
+            {% assign previous_depth = depth %}
             </ul>
           {% endif %}
 
           <li>
             <a href="{{ slide.url | prepend: site.baseurl }}">{{ slide.title }}</a>
           </li>
-
-          {% assign previous_depth = depth %}
         {% endfor %}
       </ul>
     </noscript>
     <div class="reveal">
       <div class="slides">
+
+        {% assign the_first_slide = the_slides | first %}
+        {% assign the_first_path_array = the_first_slide.path | split:"/" %}
         {% assign previous_depth = 3 %}
+        {% assign previous_root = the_first_path_array[2] %}
+
         {% for slide in the_slides %}
-          {% assign the_depth= slide.path | split:"/" | size %}
-					{% if the_depth > previous_depth %}
-						<section>
-					{% elsif the_depth < previous_depth %}
-						</section>
-					{% endif %}
 
-					{% include slide.html %}
+          {% assign the_path_array = slide.path | split:"/" %}
+          {% assign the_depth = the_path_array | size %}
+          {% assign the_root = the_path_array[2] %}
 
-          {% assign previous_depth = the_depth %}
+          {% if the_root != previous_root %}
+            {% assign previous_root = the_root %}
+            </section><section>
+          {% elsif the_depth > previous_depth %}
+            {% assign previous_depth = depth %}
+            <section>
+          {% elsif the_depth < previous_depth %}
+            {% assign previous_depth = depth %}
+            </section>
+          {% endif %}
+
+          {% include slide.html %}
 				{% endfor %}
       </div>
     </div>

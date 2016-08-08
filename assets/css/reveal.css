@@ -30,14 +30,23 @@ p.centered {
   margin: 0.3em 0 0.3em 0;
 }
 
+.reveal abbr[title] {
+    cursor: help;
+    border-bottom: 0.1em dotted #555;
+}
+
 .reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4 {
+.reveal h2 {
     font-family: 'redressedregular', 'Open Sans', sans-serif;
     font-weight: 800;
     font-style: normal;
     text-transform: none;
+}
+
+.reveal h3 {
+  text-transform: none;
+  font-style: italic;
+  font-size: 0.9em;
 }
 
 .reveal .info {
