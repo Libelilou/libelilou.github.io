@@ -17,17 +17,14 @@ layout: microtypo
     {% assign t = t | replace: '“' , '«&#8239;' %}
     {% assign t = t | replace: '”' , '&#8239;»' %}
 
-    {% assign t = t | replace: ' ?!' , '&#8239;&#8264;' %}
-    {% assign t = t | replace: ' !?' , '&#8239;&#8265;' %}
-    {% assign t = t | replace: ' !!!' , '&#8239;&#8252;' %}
-    {% assign t = t | replace: ' !!' , '&#8239;&#8252;' %}
+    {% assign t = t | replace: ' ?!([^\w])' , '&#8239;&#8264;\1' %}
+    {% assign t = t | replace: ' !?([^\w])' , '&#8239;&#8265;\1' %}
+    {% assign t = t | replace: ' !!!([^\w])' , '&#8239;&#8252;\1' %}
+    {% assign t = t | replace: ' !!([^\w])' , '&#8239;&#8252;\1' %}
     {% assign t = t | replace: ' x ' , ' &times;&nbsp;' %}
 
     {% assign t = t | replace: ' :',       '&nbsp;:' %}
-    {% assign t = t | replace: ' %',       '&#8239;%' %}
-    {% assign t = t | replace: ' ;', '&#8239;;' %}
-    {% assign t = t | replace: ' !', '&#8239;!' %}
-    {% assign t = t | replace: ' ?', '&#8239;?' %}
+    {% assign t = t | replace_regex: ' (%|;|\!|\?)([^\w!])', '&#8239;\1\2' %}
     {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?(px|%)(\s|.)', '\1\2&#8239;\4\5' %}
 
     {% assign t = t | replace_regex: '(—|&mdash;)(\s)', '\1&nbsp;' %}
