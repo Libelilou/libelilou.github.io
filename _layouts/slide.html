@@ -25,10 +25,6 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
-
-		<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!--[if lt IE 9]>
@@ -56,6 +52,6 @@
     {% endfor %}
     {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">previous</a>{%endif%}
     {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">next</a>{%endif%}
-    {% javascript analytics %}
+    {% include analytics.html %}
   </body>
 </html>
