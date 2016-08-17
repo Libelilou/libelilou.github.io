@@ -56,5 +56,6 @@
     {% endfor %}
     {%if prevurl%}<a href="{{prevurl | prepend: site.baseurl}}">previous</a>{%endif%}
     {%if nexturl%}<a href="{{nexturl | prepend: site.baseurl}}">next</a>{%endif%}
+    {% javascript analytics %}
   </body>
 </html>
