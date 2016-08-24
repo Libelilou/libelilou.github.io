@@ -46,6 +46,7 @@ defaults:
       type: "posts"
     values:
       layout: post
+      published: true
   -
     scope:
       path: "_posts/princesse"
