@@ -1,6 +1,7 @@
 ---
 title : "Les \"NO WAY\" de la candidature"
 introduction : "Le titre est suffisamment clair : quelques petites choses à éviter quand on postule !"
+published : false
 ---
 
 Entre deux articles dignes d'un roman de Tolstoï, je voulais proposer à mes nombreux (<i lang="en">hope dies last</i>) lecteurs, des articles un peu plus... légers.
