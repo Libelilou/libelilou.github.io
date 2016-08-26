@@ -33,10 +33,10 @@
   </head>
 
   <body>
-    {% assign slide=page %}
-		{% include slide.html %}
-
-    <a href="../">retour</a>
+    <div class="reveal">
+      {% assign slide=page %}
+      {% include slide.html %}
+    </div>
     {% include analytics.html %}
   </body>
 </html>
