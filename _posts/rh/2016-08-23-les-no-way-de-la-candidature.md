@@ -10,20 +10,20 @@ Néanmoins, si j'essaie de faire ça rigolo sur la forme, le fond n'en est pas m
 
 Tout ce que je vais raconter dans cet article n'est ni inventé, ni exagéré, ni déformé... Je ne vous livre ici que de vrais exemples !!!
 
+Le conseil en or : **RELISEZ-VOUS ET FAITES VOUS RELIRE !!!**
+
 Alors, comme dirait Mario : Heeeeere we goooooo !
 
 ## 1. Le CV
 
-Le conseil en or : **RELISEZ-VOUS ET FAITES VOUS RELIRE !!!**
-
 On évite donc :
-- la photo "duckface selfie" (true story!) à moins de postuler chez Elite ou Dorcel
+- la photo "duckface selfie" (true story!) à moins de postuler chez Elite ou Dorcel (enfin Marc, pas Julien !)
 
 - les numéros de téléphone à 9 chiffres (ou 11 chiffres) parce que ça fait tache quand l'employeur essaie de t'appeler et qu'il peut pas !
 
-- les adresses mail du genre yippeekiyaymotherfucker@... ou grossearsouilledelamort@... (on investit dans un mail gratuit et "neutre" type nomprenom... sauf si tu t'appelles Jean Dupont, il va falloir être un peu imaginatif !)
+- les adresses mail du genre yippeekiyaymotherfucker@... ou grossearsouilledelamort@... (on investit dans un mail gratuit et "neutre" type nomprenom... sauf si tu t'appelles Jean Dupont, là il va falloir être un peu imaginatif !)
 
-- la demi-page de centres d'intérêt (2-3 c'est déjà pas mal, laisse l'employeur croire que t'auras quand-même du temps à dégager dans ton agenda de ministre pour faire les 35 heures de boulot qu'il te paiera !)
+- la demi-page de centres d'intérêt (2-3 c'est déjà pas mal, laisse l'employeur croire que t'auras quand-même du temps à dégager dans ton agenda de ministre pour faire les heures de boulot qu'il te paiera !)
 
 
 ## 2. La lettre de motivation
