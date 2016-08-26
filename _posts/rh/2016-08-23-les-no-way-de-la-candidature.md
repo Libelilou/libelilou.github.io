@@ -1,7 +1,6 @@
 ---
 title : "Les \"NO WAY\" de la candidature"
-introduction : ""
-published: false
+introduction : "Le titre est suffisamment clair : quelques petites choses à éviter quand on postule !"
 ---
 
 Entre deux articles dignes d'un roman de Tolstoï, je voulais proposer à mes nombreux (<i lang="en">hope dies last</i>) lecteurs, des articles un peu plus... légers.
@@ -36,7 +35,7 @@ Là encore, on fait attention et on se relit (et si on est une grosse tanche en 
 
 - les phrases "j'ai commencé ma phrase, j'ai changé d'avis quand je suis arrivé au verbe, mais comme je suis généreux, je te laisse les deux verbes et la suite de la phrase qui du coup ne veut plus rien dire, tu feras le tri toi-même, gentille RH !"
 
-- les envolées lyriques "Deadpool moments" ("Hummmmm I'm touching myself tonight") : on calme ses (h)ardeurs, aussi incroyable que cela puisse paraître, l'entreprise pourrait survivre sans toi, d'ailleurs elle le fait très probablement depuis plusieurs années !
+- les envolées lyriques ["Deadpool moments"](https://youtu.be/0Mr8VoqJICY) : on calme ses (h)ardeurs, aussi incroyable que cela puisse paraître, l'entreprise pourrait survivre sans toi, d'ailleurs elle le fait très probablement depuis plusieurs années !
 
 ## 3. Le dépôt de candidature en mains propres
 
@@ -60,7 +59,7 @@ En tout état de cause (j'aime bien cette expression, ça fait cultivé !), si t
 
 - et dans certains milieux (sanitaire ou médico-social par exemple) : les bijoux qui font ton poids, les ongles de 20 cm de long et la clope JUSTE avant d'arriver (ben ouais, ça y joue aussi) ou alors investis dans une bombe de Febreze et des sprays à la menthe. Ah oui, et donc bien évidemment, la clope derrière l'oreille on évite aussi, hein !
 
--  le chewing-gum dans la bouche... on est pas au Salon de l'Agriculture !
+-  le chewing-gum dans la bouche... on est pas au [Salon de l'Agriculture](https://youtu.be/X-JuK9tP2ic) !
 
 - enfin, au-delà de l'apparence physique, préparer aussi un minimum ce qu'on va dire est une bonne idée pour éviter les "ouais, bonjour, bah... euh... ouais je viens déposer une candidature quoi" ou encore pire, le je-te-tends-mon-dossier-sans-te-dire-un-mot (mais c'était peut-être le stress ou alors cette jeune demoiselle s'était dit qu'elle avait déjà expliqué sa venue à la standardiste qui me l'avait redit devant elle au téléphone et que donc j'avais qu'à suivre, qu'elle allait pas se répéter 10 fois non plus !)
 
