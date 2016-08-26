@@ -1,7 +1,6 @@
 ---
 title : "\"Je suis malaaaaaaaaaaaadeeeeeeeeeeeeeeeeuh\""
 introduction: ""
-published: false
 ---
 
 ## Un peu d'histoire
@@ -41,6 +40,7 @@ Heureusement que ces cas sont rares et ne représentent pas la majorité de arr�
 Entrons maintenant dans le vif du sujet : comment ça se passe exactement ?
 
 La procédure _normale_ c'est :
+
 1. je tombe malade (je rappelle que la gueule de bois n'entre pas dans les maladies reconnues par la Sécurité Sociale !!!) ;
 2. je vais voir mon médecin ;
 3. il décrète que mon état ne me permet pas de travailler pendant X jours et me délivre un arrêt maladie de X jours ;
