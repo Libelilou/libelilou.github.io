@@ -60,7 +60,7 @@ En tout état de cause (j'aime bien cette expression, ça fait cultivé !), si t
 
 - et dans certains milieux (sanitaire ou médico-social par exemple) : les bijoux qui font ton poids, les ongles de 20 cm de long et la clope JUSTE avant d'arriver (ben ouais, ça y joue aussi) ou alors investis dans une bombe de Febreze et des sprays à la menthe. Ah oui, et donc bien évidemment, la clope derrière l'oreille on évite aussi, hein !
 
--  le chewing-gum dans la bouche... on est pas des bovins !
+-  le chewing-gum dans la bouche... on est pas au Salon de l'Agriculture !
 
 - enfin, au-delà de l'apparence physique, préparer aussi un minimum ce qu'on va dire est une bonne idée pour éviter les "ouais, bonjour, bah... euh... ouais je viens déposer une candidature quoi" ou encore pire, le je-te-tends-mon-dossier-sans-te-dire-un-mot (mais c'était peut-être le stress ou alors cette jeune demoiselle s'était dit qu'elle avait déjà expliqué sa venue à la standardiste qui me l'avait redit devant elle au téléphone et que donc j'avais qu'à suivre, qu'elle allait pas se répéter 10 fois non plus !)
 
@@ -70,7 +70,7 @@ Pareil, quelques "pièges" à éviter (qui visiblement, ne sont pas si évidents
 
 - ne pas écorcher le nom / l'adresse de l'entreprise sur l'enveloppe ou dans le courrier
 
-- ne pas écorcher le nom / le sexe du destinataire (si tu as fait l'effort de chercher sur Internet ou d'appeler l'entreprise pour savoir à qui l'adresser, c'est comme pour les préliminaires, vas jusqu'au bout de ton effort !)
+- ne pas écorcher le nom / le sexe du destinataire (si tu as fait l'effort de chercher sur Internet ou d'appeler l'entreprise pour savoir à qui l'adresser, c'est comme pour les préliminaires, va jusqu'au bout de ton effort !)
 
 - "tout le monde le fait, tout le monde" (on sait bien que tu postules à plusieurs postes en même temps) mais évite de mettre la lettre de l'entreprise A dans l'enveloppe de l'entreprise B
 
