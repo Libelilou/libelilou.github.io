@@ -38,6 +38,8 @@ links:
     url: /tags
   - title: À propos de moi
     url: /a-propos
+  - title: "[Slides] Le bulletin de paie"
+    url: /bulletin-de-paie
 
 #Defaults
 defaults:
