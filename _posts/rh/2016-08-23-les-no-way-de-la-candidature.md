@@ -27,7 +27,7 @@ On évite donc :
 
 Là encore, on fait attention et on se relit (et si on est une grosse tanche en français, on se fait relire) et on évite :
 
-- les fautes d'orthographe tous les deux mots et plus généralement les fautes de grammaire / d'accord etc. Surtout qu'à l'ère du numérique, y'a quand-même des correcteurs orthographiques et grammaticaux un peu partout... et sinon, investire dans un ami lettré, ou dans un Bescherelle et un petit Robert (le dico, pas le Redford) me semble judicieux ;
+- les fautes d'orthographe tous les deux mots et plus généralement les fautes de grammaire / d'accord etc. Surtout qu'à l'ère du numérique, y'a quand-même des correcteurs orthographiques et grammaticaux un peu partout... et sinon, investir dans un ami lettré, ou dans un Bescherelle et un petit Robert (le dico, pas le Redford) me semble judicieux ;
 - les phrases pas finies (si si, j'ai déjà vu "et c'est pourquoi je serai ravie de. Restant à votre disposition…") ;
 - les phrases "j'ai commencé ma phrase, j'ai changé d'avis quand je suis arrivé au verbe, mais comme je suis généreux, je te laisse les deux verbes et la suite de la phrase qui du coup ne veut plus rien dire, tu feras le tri toi-même, gentille RH" ;
 - les envolées lyriques ["Deadpool moments"](https://youtu.be/0Mr8VoqJICY) : on calme ses (h)ardeurs, aussi incroyable que cela puisse paraître, l'entreprise pourrait survivre sans toi, d'ailleurs elle le fait très probablement depuis plusieurs années !
