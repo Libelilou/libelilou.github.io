@@ -2,6 +2,7 @@
 title : "Il était une fois… les congés payés"
 introduction: "Quand on pense &ldquo;congés payés&rdquo; on pense de suite à 1936... En réalité, dès les années 1920, quelques entreprises lancent des initiatives en ce sens, dont le journal &ldquo;L'information&rdquo; pour lequel écrivait Léon Blum."
 ---
+EDIT : suite au commentaire de Jérôme, je rajoute donc le paragraphe que j'avais oublié concernant les jours fériés pendant les congés payés en 6. (et du coup, dans un prochain article concernant la maladie, je parlerai de l'arrêt maladie pendant les congés payés... ou alors faudra aussi me rappeler de le faire :D)
 
 ## Un peu d'histoire
 
@@ -119,3 +120,28 @@ En principe, le congé principal doit être posé en totalité pendant la pério
 Voici la règle de calcul : on ne parle ici que des 24 jours du congé principal. Si vous avez posé au moins 12 jours de congés d'affilée pendant la période estivale (soit deux semaines à la suite), et qu'il vous reste entre 3 et 5 jours après le 31 octobre (en dehors de la cinquième semaine toujours), alors vous bénéficiez d'1 jour de congé supplémentaire, appelé "jour de fractionnement". S'il vous reste plus de 6 jours de congés, vous bénéficiez de 2 jours de fractionnement.
 
 Je pense avoir fait le tour des congés payés mais s'il vous reste des questions, je serais ravie d'essayer d'y répondre :D
+
+## 6. Les jours fériés pendant les congés payés
+
+Visiblement, je n'avais donc pas fait le tour puisque j'avais oublié ce paragraphe ! Donc, encore une fois attention, car certaines conventions collectives peuvent être très avantageuses concernant les jours fériés. Bref, je vais donc comme d'habitude parler ici uniquement du Code du Travail et je vous encourage vivement à lire vos CCN de temps en temps (ça peut être très instructif !). 
+
+Il faut savoir qu'en France, la loi fixe [11 jours sont considérés comme "fériés"](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902611&dateTexte=&categorieLien=cid) (qui n'est pas le synonyme de "chômés" !). Et en dehors de ça... ben, allez faire un tour sur Légifrance à l'occasion, vous verrez que la section "jours fériés" est franchement légère !!! Heureusement que le site du gouvernement regorge de clarifications :)
+
+Déjà, il faut penser à toujours séparer le 1er mai et les 10 autres jours fériés car les traitements ne sont pas les mêmes. 
+
+En effet, légalement, le 1er mai DOIT être chômé - SAUF (car en France, on aime les exceptions) pour les entreprises dont l'activité nécessite un service continu (notamment la santé, les forces de l'ordre, les transports publics etc). S'il est travaillé, il sera rémunéré "double" (vous percevez votre salaire + le salaire du nombre d'heures travaillées ce jour là).
+
+Les autres jours fériés ne sont légalement pas chômés mais les conventions collectives peuvent l'imposer. Du coup : ATTENTION, si votre employeur vous demande de travailler un jour férié et que votre CCN / accord de branche / whatever le permet, votre refus pourra être considéré comme une absence non justifiée (et entraîner sanctions, perte de salaire, etc). Si ces jours sont chômés dans votre entreprise, vous ne subirez aucune perte de salaire si vous avez plus de 3 mois d'ancienneté (les CCN peuvent être plus avantageuses et prévoir un maintien de salaire dès le 1er jour de travail). 
+
+En revanche, si vous travaillez ce jour-là, sachez que la loi ne prévoit aucune majoration de salaire. Les CCN là encore prévoient parfois des conditions plus avantageuses (repos compensateur, majoration de salaire, prime de jour férié, etc). Pourquoi ? parce que techniquement, vous ne subissez aucune perte de salaire. Certes, le reste de la France se les roule à la maison mais vous ne travaillez pas "plus" que prévu. 
+
+> Oh oui, j'ai oublié de faire un article là dessus et c'est important alors j'en fais un petit résumé !!! Si vous êtes à temps plein, vous travaillez 35 heures par semaines. Malheureusement, nos ancêtres qui ont créé le calendrier ne se sont pas dit que ce serait plus pratique pour les RH de faire des mois de 4 semaines et après tout qu'est-ce qu'on s'en fout si au bout de 15 ans, il fait 40° à Noël hein ? Mais vous comprendrez bien qu'on ne peut ni s'amuser à calculer le nombre réel d'heures travaillées dans le mois, ni vous payer un salaire différent tous les mois (ce serait un peu compliqué de boucler les fins de mois en février !). On a donc créé (quand je dis "on" c'est pas moi, hein !) le "lissage" de la paie. Heureusement, nos ancêtres ont été sympa, ils ont au moins décidé un nombre entier de semaines pour l'année. Donc 35 heures x 52 semaines = 1 820 / 12 mois = 151.67 heures par mois en moyenne (et voila, vous venez de comprendre ce chiffre mystérieux qui vous nargue tous les mois du haut de votre bulletin de paie... non la RH n'a pas pris d'acide en réglant le logiciel de paie :) !). Bref, donc vous voyez que grâce à ce lissage, vous êtes bien payé pour 35 heures par semaine. Donc si le jour férié tombe un mardi et que vous deviez travailler le mardi, même si vous êtes le seul à bosser ce jour-là, vous ne "perdez" pas à proprement parler de salaire. Donc pas de compensation nécessaire.
+
+Enfin, la fameuse "journée de solidarité" correspond à un de ces dix autres jours fériés et doit être travaillée et non rémunérée (dans le sens où vous travaillez alors que vous n'auriez pas dû mais vous n'aurez pas de majoration de salaire pour autant, notamment pour les mêmes raisons qu'expliquées ci-dessus et en plus parce qu'on sait que vous le ferez de bon coeur et sans demander de compensation parce que c'est une mesure de solidarité avec nos petits vieux !). 
+
+Enfin, arrive le cas où... un jour férié tombe en plein milieu de vos congés payés !!! (oui il faut être patient avec moi mais c'était important d'expliquer les notions de base des jours fériés). 
+Dans ce cas, en fait, la loi prévoit une règle très simple (que certaines CCN compliquent à merveille pour maintenir les RH en alerte !) : s'il tombe sur un jour ouvrable et que ce jour est chômé pour l'entreprise, ce jour n'est pas décompté comme un jour de CP ; s'il est habituellement travaillé, en revanche, ce jour sera décompté comme un jour de CP. Là encore, je ne parle que de ce que prévoit la loi, les CCN c'est une autre histoire (surtout la mienne) !
+
+Alors, me direz-vous : quid du férié qui tombe donc SUR le jour de repos hebdomadaire PENDANT les congés payés ? Ouais parce que tant qu'à faire on est des ouf !!! Disclaimer : je n'ai pas vraiment trouvé de "réponse officielle" dans le sens où je n'arrive pas à trouver noir sur blanc un texte de loi qui explique précisément ce cas donc je vous livre mes déductions (à prendre donc avec des pincettes) ! De ce que j'en ai compris : si le jour férié tombe pendant vos congés payés sur un jour de repos hebdomadaire, il ne sera pas décompté comme un jour de congé mais vous ne bénéficierez pas non plus d'un jour de récupération puisque vous n'auriez de toute façon pas travaillé ce jour là. 
+
+Voilà, voilà, comme d'habitude, je suis preneuse de remarques / commentaires / critiques constructives
