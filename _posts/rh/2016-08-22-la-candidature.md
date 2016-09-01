@@ -1,7 +1,6 @@
 ---
 title : "La candidature"
 introduction : "\"Un CV ? non c'est pas du verlan... Alors, tu prends une feuille, tu marques ton nom, ton adresse [...] et puis ton niveau d'études, c'est important, ça.\" Denis Marechal"
-published: false
 ---
 
 En rédigeant mon article précédent, je me suis dit que j'avais en fait plein de choses à partager concernant les candidatures et donc j'ai décidé de faire aussi un article un peu plus long et sérieux sur le sujet.
@@ -220,4 +219,4 @@ Pensez à mettre toutes vos pièces jointes en format PDF, à ne pas mettre plus
 
 ---
 
-**Vous remerciant d'avoir pris la peine de lire cet article jusqu'au bout, et espérant qu'il vous aura instruit et diverti, je vous prie d'agréer, cher lecteur, chère lectrice, mes salutations les plus princières.**
+**Vous remerciant d'avoir pris la peine de lire cet article jusqu'au bout, et espérant qu'il vous aura instruit et diverti, je vous prie d'agréer, cher lecteur, chère lectrice, mes salutations les plus princessières.**
