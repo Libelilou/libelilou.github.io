@@ -39,7 +39,7 @@ Attention : je ne parle ici que des diplômes "hiérarchiques", on peut laisser 
 
 #### Expériences professionnelles
 
-Ce qui m'amène au point suivant : les expériences professionnelles. Alors, en général, les "petit" stages (notamment les stages de 3ème) ne sont pas des "expériences professionnelles" à proprement parler. Mais on peut les mentionner ici, à défaut d'autres expériences professionnelles.
+Ce qui m'amène au point suivant : les expériences professionnelles. Alors, en général, les "petits" stages (notamment les stages de 3ème) ne sont pas des "expériences professionnelles" à proprement parler. Mais on peut les mentionner ici, à défaut d'autres expériences professionnelles.
 
 De la même manière, on peut faire l'impasse sur les jobs d'été en tant que retourneur de steacks, à moins que ce soit une expérience qui ait changé votre vie et façonné votre carrière professionnelle, ou pour les jeunes diplômés qui malheureusement n'ont rien d'autre à mettre dans cette partie.
 
@@ -61,7 +61,7 @@ Je regroupe là-dedans toute la partie "compétences techniques, savoir-faire, c
 
 ##### Compétences techniques
 
-Attention, point personnel : je déteste les graphique très à la mode en ce moment (y'a des promos chez Pôle emploi ou quoi ?), vous savez ces barres de graduation ou ces graphiques avec des étoiles comme sur Amazon.  
+Attention, point personnel : je déteste les graphiques très à la mode en ce moment (y'a des promos chez Pôle Emploi ou quoi ?), vous savez ces barres de graduation ou ces graphiques avec des étoiles comme sur Amazon.  
 Je vais reprendre la citation de @Hteumeuleu à Sudweb (lue dans [ce très bon article de Marie-Cécile Paccard](https://medium.com/france/cv-la-candidature-qui-fait-mouche-eaa2884d2844#.jltaa2d6h) :
 
 > "Les étoiles, c’est au ski qu’on les obtient"
@@ -74,27 +74,27 @@ Soit c'est parce que vous imaginez cette notation en fonction d'une grille de cr
 
 Soit c'est parce que vous pensez maîtriser aux 3/5èmes toutes les fonctionnalités de ce logiciel. Problème : comment êtes-vous sûr que cette note est objective puisqu'il n'y a encore une fois pas de grille officielle ?
 
-Ou alors c'est un mix des deux et le problème est le même. Et dans tous les cas, comment l'employeur est-il censé connaître votre barème (oui parce qu'il n'y a pas d'annexe inclue à la fin du CV détaillant votre système de notation de vos compétences) ?
+Ou alors c'est un mix des deux et le problème est le même. Et dans tous les cas, comment l'employeur est-il censé connaître votre barème (oui parce qu'il n'y a pas d'annexe incluse à la fin du CV détaillant votre système de notation de vos compétences) ?
 
 Donc, pitié, ne privilégiez pas le côté "esthétique" au détriment du bon sens. La sobriété, c'est classe !
 
-On pourra m'objecter que c'est aussi subjectif d'écrire "maîtrise d'Excel" (sans note). C'est pas faux ("c'est "côtelettes" que vous comprenez pas?") et d'ailleurs, j'allais y venir : d'une manière générale, banissez le mot "maîtrise" de votre CV. Je l'ai fait, je le reconnais, parce que je l'avais appris comme ça, mais à bien y penser, c'est très présompteux ("ne vois-tu pas le nombre déployé...") et les versions des logiciels évoluent constamment ce qui rend parfois obsolète une partie de ce que vous connaissiez. Donc mettez plutôt des faits que des jugements (pour rester sur Excel : utilisation de TCD, rédaction de macros etc... bon si votre compétence d'Excel se résume aux sommes automatiques, est-ce vraiment utile de mentionner cette compétence sur votre CV ???).
+On pourra m'objecter que c'est aussi subjectif d'écrire "maîtrise d'Excel" (sans note). C'est pas faux ("c'est "côtelettes" que vous comprenez pas?") et d'ailleurs, j'allais y venir : d'une manière générale, banissez le mot "maîtrise" de votre CV. Je l'ai fait, je le reconnais, parce que je l'avais appris comme ça, mais à bien y penser, c'est très présompteux [("ne vois-tu pas le nombre déployé...")](https://www.youtube.com/watch?v=CW4PtgKDc1k&feature=youtu.be&t=2m57s) et les versions des logiciels évoluent constamment ce qui rend parfois obsolète une partie de ce que vous connaissiez. Donc mettez plutôt des faits que des jugements (pour rester sur Excel : utilisation de TCD, rédaction de macros etc... bon si votre compétence d'Excel se résume aux sommes automatiques, est-ce vraiment utile de mentionner cette compétence sur votre CV ???).
 
-Dernier point la-dessus : potentiellement, l'employeur pourra vous poser des questions sur tout ce qu'il voit écrit, et potentiellement, cela pourra jouer sur votre recrutement et donc, sachant que vous savez faire un truc en particulier, il pourra vous demander de le faire. Alors, soyez logiques, si vous savez faire quelque chose mais que vous n'aimez pas le faire, ne le marquez pas ! Vous n'en êtes en général pas à une compétence près à moins que vous ne sachiez vraiment faire que ce que vous n'aimez pas, et auquel cas... euh... envisager une reconversion professionnelle serait peu-être judicieux non ?
+Dernier point là-dessus : potentiellement, l'employeur pourra vous poser des questions sur tout ce qu'il voit écrit, et potentiellement, cela pourra jouer sur votre recrutement et donc, sachant que vous savez faire un truc en particulier, il pourra vous demander de le faire. Alors, soyez logique, si vous savez faire quelque chose mais que vous n'aimez pas le faire, ne le marquez pas ! Vous n'en êtes en général pas à une compétence près à moins que vous ne sachiez vraiment faire que ce que vous n'aimez pas, et auquel cas... euh... envisager une reconversion professionnelle serait peu-être judicieux non ?
 
-Evitez de vous retrouver dans une position gênante lors de l'entretien ("oui oui je sais le faire, mais j'aime pas !"). D'autant que ça donne une mauvaise image de vous :  vous laissez penser à l'employeur que vous ne voudriez faire que ce que vous aimez... J'ai beau ADORER mon boulot, m'y éclater, m'y épanouir, apprendre des tas de choses... y'a des jours où je dois faire des choses que je n'aime pas.
+Evitez de vous retrouver dans une position gênante lors de l'entretien ("oui oui je sais le faire, mais j'aime pas !"). D'autant que ça donne une mauvaise image de vous :  vous laissez penser à l'employeur que vous ne voudriez faire que ce que vous aimez... J'ai beau ADORER mon boulot, m'y éclater, m'y épanouir, y apprendre des tas de choses... y'a des jours où je dois faire des choses que je n'aime pas.
 
 Mon petit conseil : ne parlez pas de cette compétence. Si l'employeur vous demande en entretien si vous l'avez, préférez dire que vous ne la maîtrisez pas plutôt que vous l'avez mais que vous n'aimez pas le faire. S'il a besoin de quelqu'un pour faire cette tache en particulier, il trouvera sûrement un autre salarié pour le faire ou fera appel à une ressource externe.
 
-##### Les Langues
+##### Les langues
 
 J'en vois souvent et j'avoue l'avoir fait aussi longtemps. Comme tout le reste, **ce que vous mentionnez dans votre CV doit avoir un intérêt précis**. Inutile donc de préciser que vous avez des "notions" en espagnol ou allemand si vous ne l'avez pas parlé / lu / écrit depuis longtemps et que vous êtes incapable d'aligner deux mots dans la langue en question.
 
 Encore une fois, le but n'est pas de remplir votre CV de tout ce que vous avez su / su faire à un moment donné de votre vie, mais d'informations percutantes et utiles.
 
-Éventuellement, ce sera une carte de plus lors de l'entretien. "Ah vous avez des clients espagnols ? j'ai appris l'espagnole en 3ème langue pendant un an, je comprends encore quelques mots mais mon vocabulaire est vraiment très limité". Contrairement à ce qu'on pourrait penser, c'est un plus : d'abord parce que l'employeur préfèrera un candidat honnête qui avoue ne pas être une bête dans tous les domaines qu'il évoque à un candidat champion olympique de pipeau, ensuite parce que, qui sait ? si jamais la personne ressource "clients espagnol" venait à être absente, vous venez de vous placer en solution d'urgence...
+Éventuellement, ce sera une carte de plus lors de l'entretien. "Ah vous avez des clients espagnols ? j'ai appris l'espagnol en 3ème langue pendant un an, je comprends encore quelques mots mais mon vocabulaire est vraiment très limité". Contrairement à ce qu'on pourrait penser, c'est un plus : d'abord parce que l'employeur préfèrera un candidat honnête qui avoue ne pas être une bête dans tous les domaines qu'il évoque à un candidat champion olympique de pipeau, ensuite parce que, qui sait ? si jamais la personne ressource "clients espagnol" venait à être absente, vous venez de vous placer en solution d'urgence...
 
-Je mentionnais plus haut des tests comme le TOIEC et le TOEFL qui permettent à l'employeur de se faire une idée de votre niveau de langue grâce à votre score... si tant est que vous ayez passé ce test récemment. Une langue vivante qu'on ne pratique pas est bien souvent oubliée très rapidement ! J'ai fait allemand 1ère langue (de la sixième à Bac +5 donc et j'avais obtenu un score pas trop dégueulasse au WiDaF), malheureusement, j'ai complètement arrêté de le pratiquer dès mon diplôme, je suis aujourd'hui incapable d'en aligner deux mots, je ne comprends pas un mot à l'oral et je dois reconnaître un mot sur 50 à l'écrit... j'ai tout simplement viré cette compétence de mon CV !
+Je mentionnais plus haut des tests comme le TOIEC et le TOEFL qui permettent à l'employeur de se faire une idée de votre niveau de langue grâce à votre score... si tant est que vous ayez passé ce test récemment. Une langue vivante qu'on ne pratique pas est bien souvent oubliée très rapidement ! J'ai fait allemand 1ère langue (de la sixième à Bac +5 donc et j'avais obtenu un score pas trop dégueulasse au WiDaF), malheureusement, j'ai complètement arrêté de le pratiquer dès mon diplôme, je suis aujourd'hui incapable d'en aligner deux mots, je ne comprends pas un mot à l'oral et je dois reconnaître un mot sur 50 à l'écrit... j'ai tout simplement viré cette ligne de mon CV !
 
 ##### Les "qualités"
 
@@ -102,7 +102,7 @@ Pour moi, elles n'ont rien à faire dans le CV. En plus, encore une fois, c'est 
 
 C'est un peu comme les petites annonces d'appartement. Parfois, "beaux volumes" correspond en réalité à "chambre de 3.5 m² mais avec 6m de hauteur sous plafond !". Donc on évite le plus possible tout ce qui est subjectif.
 
-D'autant que si Maman est fière de son fiston et considère que que vous êtes l'être le plus gentil de toute la terre entière, vous êtes peut-être, pour le reste de la terre entière en question, la pire raclure qu'il soit !
+D'autant que si Maman est fière de son fiston et considère que que vous êtes l'être le plus gentil de toute la terre entière, vous êtes peut-être, pour le reste de la terre entière en question, la pire raclure qui soit !
 
 
 
@@ -119,7 +119,7 @@ Cette partie n'est pas indispensable. 90% des CV que je reçois mentionnent dans
 
 #### La langue
 
-Je ne le répèterai jamais assez : pitié, faites-vous relire. Quand vous avez passé deux heures à peaufiner votre CV, vous savez ce que vous allez lire et il se passe quelque chose de magique et agaçant : votre cerveau va corriger lui-même les fautes... mais juste dans votre tête. Il est extrêmement difficile d'avoir un regard neuf quand on relit un texte à soi. Donc faites appel à un ami qui saura détecter les petites coquilles.
+Je ne le répèterai jamais assez : pitié, faites-vous relire. Quand vous avez passé deux heures à peaufiner votre CV, vous savez ce que vous allez lire et il se passe quelque chose de magique et agaçant : votre cerveau va corriger lui-même les fautes... mais juste dans votre tête. Il est extrêmement difficile d'avoir un regard neuf quand on relit un texte à soi. Donc faites appel à un ami qui saura détecter les petites coquilles. (D'ailleurs, je suis en train de relire cet article 4 jours après sa rédaction et je corrige encore des coquilles que je n'avais pas vues !).
 
 Je ne cherche pas à véhiculer de stéréotypes mais il est vrai que souvent la personne missionnée pour sélectionner les CV est une secrétaire / RH. Cette personne, si elle a été bien recrutée, maîtrise assez bien la langue française (c'est disons un peu un pré-requis de son poste justement !) et croyez-moi, certaines candidatures piquent les yeux !!!
 
@@ -127,7 +127,7 @@ Si vous avez un doute, prenez un dictionnaire (si vous n'en avez pas, des versio
 
 #### La déco
 
-Retenez cette règle d'or : "le mieux est l'ennemi du bien"
+Retenez cette règle d'or : "le mieux est l'ennemi du bien".
 
 Laissez tomber les polices zazou et illisibles, les Word-Art, les 25 couleurs différentes, les modèles surchargés...
 
@@ -152,7 +152,7 @@ Deuxième exercice, bien plus compliqué que celui du CV : la redoutée lettre d
 
 ### Le contenu
 
-La encore, ça dépend un peu de ce qu'on nous a appris (oui car, évidemment, rédiger une lettre de motivation n'est pas inné). Je vais donc parler de mon ce que j'ai appris en Grande Ecole, mais je ne prétend pas détenir la vérité absolue dans ce domaine.
+La encore, ça dépend un peu de ce qu'on nous a appris (oui car, évidemment, rédiger une lettre de motivation n'est pas inné). Je vais donc parler de ce que j'ai appris en Grande Ecole, mais je ne prétend pas détenir la vérité absolue dans ce domaine.
 
 Quelques fondamentaux néanmoins : si vous adressez votre candidature à une personne en particulier (ce qui est quand-même mieux), assurez-vous d'avoir bien noté son nom et sa fonction (évitez de mettre le nom du Directeur parti à la retraite 3 ans plus tôt ou du RH licencié quelques mois auparavant : appelez avant l'envoi et vérifiez ces informations). Et du coup, dans la lettre, évitez le "Madame, Monsieur" puisque vous savez à qui vous vous adressez.
 
@@ -168,7 +168,7 @@ Là encore, c'est vrai, ça prend du temps, il faut choisir ses mots, l'idée n'
 
 Si c'est une candidature spontanée, décrivez le poste que vous souhaiteriez occuper. S'il s'agit d'une réponse à une offre, montrez que vous avez compris le poste proposé.
 
-Encore une fois, il ne s'agit pas de recopier le descriptif de l'annonce mais de montrer que vous avez pris quelques minutes de recul pour vous assurez que vous ne répondez pas à cette offre parce que vous n'aviez rien de plus intéressant à faire de votre demi-journée !
+Encore une fois, il ne s'agit pas de recopier le descriptif de l'annonce mais de montrer que vous avez pris quelques minutes de recul pour vous assurer que vous ne répondez pas à cette offre parce que vous n'aviez rien de plus intéressant à faire de votre demi-journée !
 
 #### Vous
 
@@ -194,7 +194,7 @@ Mêmes conseils que pour le CV : relisez-vous, ne faites pas confiance à votre 
 
 Elle peut être manuscrite SI ET SEULEMENT SI vous avez la chance d'être doté d'une écriture lisible. Les pattes de mouche indéchiffrables relégueront votre candidature directement à la poubelle.
 
-Elle est de nos jours très souvent informatique.   Assurez-vous alors de quelques règles de mise en page basiques : que le format (police, alinéas, espacement des lignes) soit cohérent entre tous les paragraphes.
+Elle est de nos jours très souvent informatique. Assurez-vous alors de quelques règles de mise en page basiques : que le format (police, alinéas, espacement des lignes) soit cohérent entre tous les paragraphes.
 
 Et bien entendu, les conseils sont les mêmes que pour le CV concernant le choix de la police, des couleurs et de la déco.
 
