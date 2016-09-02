@@ -29,7 +29,7 @@ Alors, là, attention ! Si vous visez un poste nécessitant un diplôme et que v
 
 Quand je dis **nécessitant** je veux dire que c'est une condition _sine qua none_ comme par exemple, dans mon secteur, ne peut exercer la fonction d'aide-soignante que les personnes ayant effectivement obtenu ce diplôme d'Etat. Rien ne m'agace davantage que de perdre mon temps à traiter des dizaines de candidatures reçues par mail de personnes non diplômées lorsque j'ai précisé dans l'annonce que le diplôme était nécessaire !
 
-Quand bien même j'aurais un poste correspondant à votre qualification à vous proposer par ailleurs, je ne le ferais pas parce que le fait que vous ayiez postulé de manière inopportune au poste précédent dénote un manque de respect ou un manque d'attention de votre part (soit vous avez postulé sans regarder, soit vous savez que votre profil ne correspond pas au poste recherché et vous vous en foutez). On en revient donc à tout ce que votre candidature peut dire sur vous de manière détournée.
+Quand bien même j'aurais un poste correspondant à votre qualification à vous proposer par ailleurs, je ne le ferais pas parce que le fait que vous ayez postulé de manière inopportune au poste précédent dénote un manque de respect ou un manque d'attention de votre part (soit vous avez postulé sans regarder, soit vous savez que votre profil ne correspond pas au poste recherché et vous vous en foutez). On en revient donc à tout ce que votre candidature peut dire sur vous de manière détournée.
 
 #### Formations et diplômes
 
