@@ -1,7 +1,6 @@
 ---
 title : "\"Allô patron, bobo...\""
 introduction: "Voici ici une liste (non exhaustive) des raisons qui NE JUSTIFIENT PAS un arrêt maladie !"
-published: false
 ---
 
 ## L'arrêt de travail pour maladie : définition
@@ -14,7 +13,7 @@ Je vais donc reprendre la définition du [Journal des femmes](http://sante-medec
 
 On parle donc bien ici de votre **état de santé** constaté par un **médecin**.
 
-La liste non exhaustive suivante regroupe les raisons qui ne justifient malheureusement pas un arrêt de travail pour maladie. Ces exemples, accumulés au cours de mon expérience de RH ou de témoignages de collègues, sont, comme pour ceux de mon article sur la candidature, ni inventés, ni déformés, ni exagérés... Et je tiens à préciser que j'incrimine autant le salarié déviant que le médecin complaisant (oui car je n'ose croire que ces médecins-là étaient incompétents et si faciles à berner).
+La liste non exhaustive suivante regroupe les raisons qui **ne justifient** malheureusement **pas** un arrêt de travail pour maladie. Ces exemples, accumulés au cours de mon expérience de RH ou de témoignages de collègues, sont, comme pour ceux de mon article sur la candidature, ni inventés, ni déformés, ni exagérés... Et je tiens à préciser que j'incrimine autant le salarié déviant que le médecin complaisant (oui car je n'ose croire que ces médecins-là étaient incompétents et si facile à berner).
 
 ## The list
 
@@ -36,7 +35,7 @@ La liste non exhaustive suivante regroupe les raisons qui ne justifient malheure
 
 - votre employeur vous a refusé votre "pont" alors que vous aviez prévu d'en profiter pour rendre visite à tata Suzette
 
-### 3. Les raisons "gamin de maternelle"
+### 3. Les raisons "de cour maternelle"
 
 - vous ne pouvez plus encadrer vos collègues
 
