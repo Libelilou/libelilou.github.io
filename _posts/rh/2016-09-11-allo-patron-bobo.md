@@ -38,4 +38,4 @@ La liste non exhaustive suivante regroupe les raisons qui **ne justifient** malh
 - votre employeur vous donne un ordre : "non mais sérieux, d'où il me donne des ordres, il se prend pour qui ?" (ben euh, pour ton employeur en fait, c'est ton supérieur hiérarchique...)
 
 
-[^enfant] : si vous arrivez à coacher votre mouflet pour qu'il ait l'air suffisamment convaincant, vous pouvez aussi remplacer l'arrêt de travail pour maladie par une journée "enfant malade" (l'avantage en plus c'est que vous ne perdez pas la carence !).
+[^enfant]: si vous arrivez à coacher votre mouflet pour qu'il ait l'air suffisamment convaincant, vous pouvez aussi remplacer l'arrêt de travail pour maladie par une journée "enfant malade" (l'avantage en plus c'est que vous ne perdez pas la carence !).
