@@ -11,13 +11,9 @@ Petite précision : je parle ici et dans les articles suivants de ce qu'on appel
 La procédure _normale_ c'est :
 
 1. je tombe malade (je rappelle que la gueule de bois et la flemme n'entrent pas dans les maladies reconnues par la Sécurité Sociale !!!) ;
-
 2. je vais voir mon médecin (si possible, le jour-même, ça évite d'avoir un arrêt anti-daté si arrêt il y a);
-
 3. il décrète que mon état de santé ne me permet pas de travailler pendant X jours et me délivre un arrêt de travail pour maladie de X jours ;
-
 4. je VÉRIFIE que tous les champs sont bien remplis et, si ce n'est pas le cas, je REMPLIS moi-même les champs (nom, prénom, numéro de sécu, adresse, nom et adresse de l'employeur... on est d'accord que c'est pas un quizz de physique quantique : vous connaissez normalement toutes les réponses !) ;
-
 5. et maintenant ? eh bien vous avez **48 heures** pour informer la Sécu et votre employeur de cet arrêt :
  - version "médecin traditionnel" : le Cerfa marron comprend 3 feuillets (NB : pour éviter de recopier 20 fois les mêmes infos, c'est du papier carbone, donc évitez d'utiliser cet arrêt comme sous-main pour écrire des trucs persos... True story !), les 2 premiers volets sont à envoyer par courrier à la Sécu (vous pouvez également l'y porter directement, dans les deux cas, il arrive que ça se perde de toutes façons !), le 3ème à votre employeur.
  - version "médecin moderne" : il télétransmettra via la carte vitale votre arrêt maladie et ne vous imprimera qu'une seule version à envoyer à votre employeur (toujours dans les 48 heures).
