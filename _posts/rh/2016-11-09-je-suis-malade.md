@@ -37,4 +37,4 @@ Et en vrac, toutes les autres petites choses qui nous énervent, nous les RH : l
 
 Heureusement que ces cas sont rares et ne représentent pas la majorité de arrêts.
 
-On rentre dans le vif du sujet à l'article suivant !
+On rentre dans le vif du sujet à [l'article suivant](/2016/11/09/je-suis-malade2.html) !
