@@ -5,7 +5,7 @@ introduction: "3ème partie : Maladie et paie"
 
 Donc, comment ça marche l'arrêt maladie en paie ?
 
-Attention, moment Lapalisse : lorsque vous êtes en arrêt maladie, vous ne travaillez pas. Dans la logique purement libérale, vous n'êtes donc pas payé puisque votre salaire est la rémunération de votre travail. La France n'étant pas un pays libéral, vous êtes indemnisé pendant votre arrêt maladie (attention, je parle là encore uniquement du régime général : les indépendants, bah faut pas tomber malade !).
+Attention, moment Lapalisse : lorsque vous êtes en arrêt maladie, vous ne travaillez pas. Dans la logique purement libérale, vous n'êtes donc pas payé puisque votre salaire est la rémunération de votre travail. La France n'étant pas (encore) un pays (trop) libéral, vous êtes indemnisé pendant votre arrêt maladie (attention, je parle là encore uniquement du régime général : les indépendants, bah faut pas tomber malade !).
 
 ### La carence
 
