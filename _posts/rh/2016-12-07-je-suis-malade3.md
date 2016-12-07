@@ -1,7 +1,6 @@
 ---
 title : "\"Je suis malaaadeeeuh\""
 introduction: "2ème partie : La reprise"
-published: false
 ---
 
 Cet article sera plus court, mais c'était trop long pour être intégré aux autres, et j'ai pas envie que vous tombiez malade de dégoût en lisant mes articles !
@@ -33,7 +32,7 @@ C'est le cas le plus courant : votre médecin décrète que votre état de sant�
 Dans les 8 jours de votre reprise, vous passez votre visite médicale de reprise et :
  - le médecin du travail confirme la décision du médecin traitant et tout se passe bien
  - le médecin du travail considère que vous ne pouvez pas réintégrer votre poste de travail
-      - du tout : il en informe l'employeur (qui devra de nouveau trouver à l'arrache un remplaçant) et vous renvoie vers votre médecin traitant (oui car le médecin du travail, qui vient donc de contredire son confrère, ne peut pas délivrer d'arrêt de travail) pour faire une prolongation (donc potentiellement parfois 8 jours après votre reprise !)
+      - du tout : il en informe l'employeur (qui devra de nouveau trouver à l'arrache un remplaçant) et vous renvoie vers votre médecin traitant (oui car le médecin du travail, qui vient donc de contredire son confrère, ne peut pas délivrer d'arrêt de travail) pour faire une prolongation (donc potentiellement parfois 8 jours après votre reprise !) NB : dans ce cas, vous perdez de nouveau vos jours de carence
       - à temps partiel : il informe donc l'employeur que vous ne pouvez travailler qu'à temps partiel (et précise à quel %) et vous renvoie vers votre médecin traitant qui vous fera un arrêt de travail avec reprise à temps partiel pour motif thérapeutique
       NB : il n'est malheureusement pas toujours possible pour votre employeur d'adapter votre poste de travail sur du temps partiel, auquel cas, vous serez prolongé à temps plein
 
@@ -41,8 +40,10 @@ Dans les 8 jours de votre reprise, vous passez votre visite médicale de reprise
 
 Et là, c'est encore plus rigolo ! Oui car encore une fois, sur l'arrêt de travail, votre médecin traitant va préciser que votre état de santé ne vous permet qu'une reprise "à temps partiel pour motif thérapeutique"... mais nulle part n'est précisé le % du partiel. Et c'est normal, car c'est le médecin du travail qui va le décider justement.
 
-Donc : si votre employeur n'arrive pas à vous obtenir une visite médicale de reprise le jour de votre reprise, il doit vous faire reprendre sans savoir exactement combien d'heures par jour, ce qui peut s'avérer un peu néfaste pour votre santé s'il "navigue à vue". Mais après conversation surréaliste avec notre médecin du travail, c'est bien la procédure. Quel est le risque ? De vous faire reprendre "trop fort" et provoquer un accident du travail. Mais en gros, on m'a fait comprendre que "c'est le jeu ma pauv' Lucette" et que nous n'avons pas le choix.
+Donc : si votre employeur n'arrive pas à vous obtenir une visite médicale de reprise le jour de votre reprise, il doit vous faire reprendre sans savoir exactement combien d'heures par jour, ce qui peut s'avérer un peu néfaste pour votre santé s'il "navigue à vue". Mais après une conversation surréaliste avec notre médecin du travail, c'est bien la procédure. Quel est le risque ? De vous faire reprendre "trop fort" et provoquer un accident du travail. Mais en gros, on m'a fait comprendre que "c'est le jeu ma pauv' Lucette" et que nous n'avons pas le choix.
 
 Une solution éventuelle serait que vous preniez rendez-vous pour une visite de pré-reprise directement avec le médecin du travail, qui pourrait déjà guider un peu l'employeur (mais l'employeur devra tout de même vous faire passer la visite de reprise).
 
 > NB : c'est l'employé qui peut demander une visite de pré-reprise à la médecine du travail qui doit donc se passer avant la fin de l'arrêt ; l'employeur est responsable de prendre le rendez-vous de visite de reprise, dans les 8 jours suivant la reprise de l'employé.
+
+Voilà pour la reprise. Dans l'article suivant, nous verrons la partie "paie" d'un arrêt de travail pour maladie :)
