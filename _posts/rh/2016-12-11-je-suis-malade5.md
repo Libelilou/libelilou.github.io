@@ -1,7 +1,6 @@
 ---
 title : "\"Je suis malaaadeeeuh\""
 introduction: "4ème partie : Maladie et congés payés"
-published: false
 ---
 
 Deux questions dans cette partie :
