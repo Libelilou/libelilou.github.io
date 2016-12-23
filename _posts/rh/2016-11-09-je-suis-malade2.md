@@ -1,5 +1,5 @@
 ---
-title : "\"Je suis malaaadeeeuh\""
+title : "\"Je suis malaaadeeeuh\" #1"
 introduction: "1ère partie : La procédure"
 ---
 
@@ -33,7 +33,7 @@ Bref, vous l'aurez compris, les sorties autorisées, c'est pas pour aller passer
 
 > NB : vous pouvez aussi recevoir une convocation pour un entretien auprès du Service Médical de la Sécu... Ce n'est pas une option ! Vous êtes dans l'obligation de vous y rendre ! Et la encore, si la Sécu juge que votre arrêt n'est plus justifié, si vous travaillez pendant votre arrêt maladie (j'ai déjà eu le cas...) ou si vous ne respectez pas les heures de sorties, vos indemnités peuvent être réduites ou suspendues.
 
-> NB 2 : votre employeur peut demander un "contrôle Sécu" pendant votre arrêt maladie. Concrètement, il fait appel à un organisme privé et paie pour qu'un médecin (pas celui qui vous a prescrit l'arrêt bien entendu) vous rende une petite visite et vérifie que votre arrêt de travail est bien justifié. Si vous êtes en sorties autorisées "sans restrictions d'horaires" vous serez dans ce cas convoqué directement dans un cabinet médical. 
+> NB 2 : votre employeur peut demander un "contrôle Sécu" pendant votre arrêt maladie. Concrètement, il fait appel à un organisme privé et paie pour qu'un médecin (pas celui qui vous a prescrit l'arrêt bien entendu) vous rende une petite visite et vérifie que votre arrêt de travail est bien justifié. Si vous êtes en sorties autorisées "sans restrictions d'horaires" vous serez dans ce cas convoqué directement dans un cabinet médical.
 
 
 ### La prolongation
