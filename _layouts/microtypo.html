@@ -19,7 +19,7 @@ layout: microtypo
 
     {% assign t = t | replace: ' ?!([^\w])' , '&#8239;&#8264;\1' %}
     {% assign t = t | replace: ' !?([^\w])' , '&#8239;&#8265;\1' %}
-    {% assign t = t | replace: ' !!!([^\w])' , '&#8239;&#8252;\1' %}
+    {% assign t = t | replace: ' !!!([^\w]*)' , '&#8239;&#8252;\1' %}
     {% assign t = t | replace: ' !!([^\w])' , '&#8239;&#8252;\1' %}
     {% assign t = t | replace: ' x ' , ' &times;&nbsp;' %}
 
