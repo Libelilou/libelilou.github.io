@@ -3,7 +3,7 @@ title : "\"Bref. J'ai passé un entretien d'embauche\""
 introduction: "\"Qu'est-ce qui vous motive pour venir bosser chez nous ? Bah à part la thune, euh, la p'tite secrétaire là-bas, elle est bonne !\""
 ---
 
-Pour la référence de l'introduction, c'est [par ici](https://youtu.be/Tzl5sfHKAhc). Ces mecs sont mes dieux vivants !!!
+Pour la référence de l'introduction, c'est [par ici](https://youtu.be/Tzl5sfHKAhc). Ces mecs sont mes dieux vivants ‼
 
 Tout d'abord, merci à [@Uxlco](https://twitter.com/Uxlco0) de m'avoir proposé cette idée d'article. Je me suis bien éclatée à le rédiger, même si au début (le moment "jette toutes tes idées dans Atom comme elles viennent") j'avais l'impression d'être Carter quand elle tape plus vite que l'ordinateur (j'arrive pas à retrouver la vidéo sur youtube mais les fan de Stargate comprendront).
 
