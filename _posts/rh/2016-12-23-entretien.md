@@ -176,11 +176,8 @@ Et - ça ne m'est jamais arrivé jusqu'à présent, mais je sais que certaines p
 Encore une fois plusieurs options :
 
 - la vérité : si vous visez un poste équivalent à celui que vous aviez et que vous considérez que le salaire que vous percevez est acceptable, vous pouvez répondre honnêtement à cette question. Mais ne perdez jamais de vue que votre réponse donnera une sorte de référence pour le recruteur et qu'il vous sera d'autant plus dur de négocier à la hausse à partir de là. En effet, de plus en plus d'annonces d'emploi n'indiquent plus le salaire ou alors des fourchettes "selon qualifications" donc ne vous fixez pas vous-même un plafond avant les négociations. Préférez annoncer légèrement plus que ce que vous visez.
-
 - la réponse "question abusée, réponse abusée" : "je suis à 8 000 € nets par mois en moyenne" ou l'inverse "non mais en fait, j'étais embauché en tant qu'esclave donc j'étais pas payé"
-
 - la réponse "toi aussi, joue au plus con" : "pourquoi ? enfin, je veux dire, je vois pas le rapport entre le salaire de mon emploi précédent et celui-ci?" attention : **cette réponse peut être extrêmement mal perçue !!!** à manier avec précaution donc !
-
 - la réponse "j'te renvoie le bébé" : "combien comptiez-vous offrir pour ce poste ?" même remarque que la précédente, pour une raison que j'évoquais plus haut : certains recrteurs détestent que le candidat réponse à une question par une autre question.
 
 Bref, je vous conseille surtout de vous renseigner un peu à l'avance sur le salaire moyen de la région pour ce genre de poste (en comparant d'autres offres équivalentes par exemple, en discutant autour de vous) et faites attention lorsque vous comparez : il n'y a pas que le salaire brut. Il peut y avoir des tas de petits avantages en plus du brut qui peuvent aussi faire la différence : tickets restaurant, PEE, participation, intéressement, CE, etc.
@@ -201,7 +198,7 @@ La fameuse dernière question. Profitez-en, puisqu'on vous en donne l'occasion, 
 Fouillez le site internet, renseignez-vous sur la boîte un maximum, il y aura toujours forcément une info que vous ne trouverez pas. Un détail en plus. Ou alors sur les projets à venir de la boîte. Bref, pas un truc qui apparaissait en première page du site, ah oui, et pas un truc qui ruine direct toute votre crédibilité ("un EHPAD ? mais genre les gens, leur maison c'est ici ? genre ils dorment ici ??? genre ils rentrent jamais chez eux quoi ???"). Bref, cherchez un peu ;)
 
 
-> En conclusion, je voulais insister sur un point important : NE METTEZ PAS DANS VOTRE CV DES CHOSES DONT VOUS NE VOULEZ PAS PARLER !!! Oui, ça semble logique et pourtant... Le recruteur va s'appuyer sur votre CV tout au long de l'entretien pour essayer de vous connaître (vos expériences précédentes, vos études, vos hobbies) alors n'y mettez pas les sujets que vous ne souhaitez pas aborder !
+> En conclusion, je voulais insister sur un point important : **ne mettez pas dans votre CV des choses dont vous ne voulez pas parler** !! Oui, ça semble logique et pourtant... Le recruteur va s'appuyer sur votre CV tout au long de l'entretien pour essayer de vous connaître (vos expériences précédentes, vos études, vos hobbies) alors n'y mettez pas les sujets que vous ne souhaitez pas aborder !
 
 La petite anecdote de la fin (elle ne m'est pas arrivée personnellement, on me l'a rapportée) : entretien d'embauche dans une boite informatique. Le recruteur interroge le postulant sur une expérience précédente particulièrement peu détaillée dans son CV. Réponse : "non mais je peux pas en parler, c'était un projet secret". Bon, le recruteur passe à l'expérience suivante. Réponse : "non mais je peux pas en parler non plus, c'était un projet hyper secret"... Bon, certes le recruteur ne peut douter que la personne prend à la lettre l'obligation de loyauté mais ça fait un peu foutage de gueule. Il aurait pu parler du travail concret (technologie, etc) sans parler du projet en soi. Bref, évitez de prendre le recruteur pour un imbécile !
 
