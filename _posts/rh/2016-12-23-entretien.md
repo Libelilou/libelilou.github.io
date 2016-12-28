@@ -129,7 +129,7 @@ Alors, on arrête l'enfumage mais on va pas trop loin non plus dans l'honnêtet�
 C'est une question à laquelle j'ai été souvent confrontée dans mon parcours à la fois scolaire et professionnel, et j'avoue que c'était toujours celle qui me gonflait le plus. Alors j'ai fini par trouver une parade, qui pour le moment a toujours plu à mon interlocuteur et parce que je vous aime bien, je vous la livre !
 
 > Je ne raisonne pas en termes de défauts et de qualités, je trouve cela trop simpliste et... dichotomique pour décrire une personne. Je raisonne plutôt en termes de traits de caractère, chacun d'eux apportant du bon comme du moins bon.
-Par exemple, je suis taillonne, ce qui malheureusement, me fait parfois perdre du temps pour un gain insignifiant. Je suis une personne ordonnée et organisée mais en contrepartie, j'ai beaucoup de mal à travailler sous la pression ou lorsqu'un événement bouleverse mon programme. Et comme j'ai du mal à cacher mes émotions, mes moments de joie comme mon stress s'avèrent souvent visibles et communicatifs pour mes collègues.  
+Par exemple, je suis tatillonne, ce qui malheureusement, me fait parfois perdre du temps pour un gain insignifiant. Je suis une personne ordonnée et organisée mais en contrepartie, j'ai beaucoup de mal à travailler sous la pression ou lorsqu'un événement bouleverse mon programme. Et comme j'ai du mal à cacher mes émotions, mes moments de joie comme mon stress s'avèrent souvent visibles et communicatifs pour mes collègues.  
 
 La question : "pourquoi vous ?" et "qu'est-ce que vous auriez à nous apporter ?" entre un peu dans la même catégorie. C'est le moment "commercial de chez Mamouth", faut se vendre... mais sans en faire trop non plus !!!
 
