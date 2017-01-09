@@ -1,5 +1,5 @@
 ---
-title : "\"Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont\"vieux..."
+title : "\"Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux...\""
 introduction: "\"Peut-être le sort a-t-il voulu qu'aujourd'hui soit le 5 juin. Vous allez une fois de plus devoir défendre notre solidarité. Non pas de la tyrannie, de l'oppression, de la persécution... Mais de la canicule. Vous travaillerez une jour de plus pour notre droit de vivre. D'exister.\""
 ---
 
