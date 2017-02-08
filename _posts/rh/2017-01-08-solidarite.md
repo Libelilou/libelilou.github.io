@@ -1,6 +1,6 @@
 ---
-title : "Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux..."
-introduction: "Peut-être le sort a-t-il voulu qu'aujourd'hui soit le 5 juin. Vous allez une fois de plus devoir défendre notre solidarité. Non pas de la tyrannie, de l'oppression, de la persécution... Mais de la canicule. Vous travaillerez une jour de plus pour notre droit de vivre. D'exister."
+title : "\"Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux...\""
+introduction: "\"Peut-être le sort a-t-il voulu qu'aujourd'hui soit le 5 juin. Vous allez une fois de plus devoir défendre notre solidarité. Non pas de la tyrannie, de l'oppression, de la persécution... Mais de la canicule. Vous travaillerez une jour de plus pour notre droit de vivre. D'exister.\""
 ---
 
 J'ai légèrement modifié les paroles de [Grégoire](https://youtu.be/kOru9ITtVIg) et du [Président Whitmore](https://youtu.be/QoLywiaM6PA) mais les fans auront reconnu ;)
@@ -43,7 +43,7 @@ Hypothèse de départ : les patrons ne sont pas philanthropes (nan, mais c'est j
 
 Soit [Pierre](https://youtu.be/BRRifrB1pFE), un salarié rémunéré 2&#8239;000&#8239;€ bruts mensuels. En réalité, Pierre ne coûte pas 2&#8239;000&#8239;€ à l'entreprise car il faut ajouter les charges patronales qui sont en moyenne de 45&#8239;% à 50&#8239;% du salaire brut. Pour faire honnête, on va prendre la moyenne basse de 45&#8239;%. Pierre coûte ainsi à son entreprise 2&#8239;000 &times; 1.45 = 2&#8239;900 € mensuels. Pour un mois de 22 jours travaillés (comme en janvier 2017 par exemple), cela revient à dire que Pierre coûte à l'entreprise environ 131.80&#8239;€ par jour travaillé. Donc, puisqu'on est logique, Pierre rapporte au moins 131.80 € par jour travaillé à son entreprise.
 
-Bien, revenons à notre pauvres entreprises, écrasées sous le poids des cotisations sociales, à qui on rajoute, pour fêter dignement l'année 2004, une cotisation patronale supplémentaire de 0.30&#8239;% de la masse salariale brute.
+Bien, revenons à nos pauvres entreprises, écrasées sous le poids des cotisations sociales, à qui on rajoute, pour fêter dignement l'année 2004, une cotisation patronale supplémentaire de 0.30&#8239;% de la masse salariale brute.
 
 Pierre coûte donc soudain à son employeur : 2&#8239;000 € &times; 0.30&#8239;% = 6&#8239;€ par mois &times; 12 = 72&#8239;€ par an. En contrepartie de quoi, Pierre devra travailler une journée supplémentaire non rémunérée.
 
