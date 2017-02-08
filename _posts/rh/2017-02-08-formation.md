@@ -149,7 +149,7 @@ Vous pouvez mettre fin à votre CIF mais il faudra un motif légitime (maladie, 
 
 # L'évolution professionnelle
 
-Revenons à notre développeuse, qui a enfin pu passer sa certification Opquast et vient de recevoir, non sans fierté, son badge d'expert (qui aurait pu porter la mention "Expert(e) mais c'est un autre sujet ;)). 
+Revenons à notre développeuse, qui a enfin pu passer sa certification Opquast et vient de recevoir, non sans fierté, son badge d'expert (qui aurait pu porter la mention "Expert(e)" mais c'est un autre sujet ;)). 
 
 Son employeur la convoque pour son entretien professionnel, lui demande ses souhaits d'évolution et lui propose de monter en compétence en devenant <i lang="en">Scrum Master</i>. Ellie est ravie de l'idée, et profite de sa soirée pour prendre du recul et réfléchir à la proposition de son employeur.
 
@@ -157,7 +157,7 @@ Son employeur la convoque pour son entretien professionnel, lui demande ses souh
 
 Dans quelle mesure votre employeur peut-il vous imposer une formation que vous n'auriez pas envie de suivre ?
 
-Selon le Code du Travail, **votre employeur a l'obligation de vous former**, que ce soit pour garantir votre maintien à votre poste actuel suite à l'évolution des technologies, des normes, etc. C'est donc bien pour lui une **obligation** et non une possibilité. 
+Selon le Code du Travail, **votre employeur a l'obligation de vous former** pour garantir votre maintien à votre poste actuel suite à l'évolution des technologies, des normes, etc. C'est donc bien pour lui une **obligation** et non une possibilité. 
 
 Pour cela, votre employeur doit (théoriquement, mais je sais bien que ce n'est pas fait partout) publier le **Plan de Formation** le 1er janvier au sein des locaux (donc plusieurs agences = plusieurs affichages), plan de formation qui aura au préalable été présenté et accepté par les Délégués du Personnel (la signature de l'employeur et des DP doit d'ailleurs impérativement figurer sur le plan de formation).
 
