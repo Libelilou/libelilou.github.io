@@ -85,7 +85,7 @@ Dans le respect des critères précédent vous pouvez donc utiliser vos heures d
 
 #### Comment ça marche concrètement ?
 
-Si la formation se déroule pendant votre temps de travail, vous devrez d'abord demander à votre employeur par écrit l'autorisation de suivre cette formation au moins 60 jours avant le début de la formation (ou 120 jours si cette formation dure plus de 6 mois). Votre employeur a 30 jours calendaires pour vous répondre, sachant que dans ce cas le silence vaut consentement. En cas d'acceptation de sa part, les heures de formation seront ainsi considérées comme du temps de travail effectig et donneront lieu à maintien de salaire.
+Si la formation se déroule pendant votre temps de travail, vous devrez d'abord demander à votre employeur par écrit l'autorisation de suivre cette formation au moins 60 jours avant le début de la formation (ou 120 jours si cette formation dure plus de 6 mois). Votre employeur a 30 jours calendaires pour vous répondre, sachant que dans ce cas le silence vaut consentement. En cas d'acceptation de sa part, les heures de formation seront ainsi considérées comme du temps de travail effectif et donneront lieu à maintien de salaire.
 
 Si la formation se déroule hors temps de travail, vous n'avez pas besoin de l'accord de votre employeur, et vous pouvez faire valider votre demande par un conseiller en évolution professionnelle. Dans ce cas, en revanche, les heures de formation ne constituent pas du temps de travail effectif et ne seront donc pas rémunérées.
 
