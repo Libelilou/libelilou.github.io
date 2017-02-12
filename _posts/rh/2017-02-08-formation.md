@@ -3,7 +3,7 @@ title : "La formation professionnelle continue"
 introduction: "Désolée, je n'ai pas d'accroche rigolote à vous proposer cette fois-ci... Mais si ça vient entre-temps, je modifierai :)"
 ---
 
-Un petit billet rapide pour répondre aux tweets de [@Uxlco](https://twitter.com/Uxlco0) et [@briceatwork]() à propos de la formation. Je vous remets ici les tweets, pour avoir le contexte : 
+Un petit billet rapide pour répondre aux tweets de [@Uxlco](https://twitter.com/Uxlco0 "Compte Twitter de Uxlco0") et [@briceatwork](https://twitter.com/briceatwork "Compte Twitter de Brice") à propos de la formation. Je vous remets ici les tweets, pour avoir le contexte : 
 
 > ‏@Uxlco0 : Ex boîte paye des formations #a11y de 3jours contre fidélité pdt 1an sous peine de remboursement. Légal ? / @libellule @borisschapira
 
@@ -53,7 +53,7 @@ Ce CPF concerne tous les salariés et garde le principe de base de son prédéce
 - un salarié non qualifié cumule 48 heures par année de travail dans la limite de 400 heures (par non qualifié, on entend les salariés n'ayant pas acquis de diplôme niveau CAP/BEP ni de titre professionnel enregistré et classé au niveau 5 du RNCP ni une certification reconnue par une convention collective nationale de branche) ;
 - un salarié à temps partiel acquiert les heures de CPF proportionnellement au temps de travail effectué (sauf disposition plus favorable d'un accord collectif), par exemple, un salarié à mi-temps acquiert 12 heures par année de travail.
 
-L'alimentation de ce CPF est automatique (en fonction des déclarations de l'employeur) et annuelle (le second trimestre suivant l'année d'acquisition, donc si vous y allez aujourd'hui, vous n'aurez pas encore les heures acquises de 2016) et ça se passe [ici](https://www.moncompteactivite.gouv.fr/cpa-prive/html/#/connexion) et je ne saurais que trop vous encourager à le faire, mais vous devez y inscrire vous-même vos heures de DIF acquises précédemment (et gardez bien en mémoire que ces heures ne sont valables que jusqu'en 2020, après quoi elles seront définitivement perdues).
+L'alimentation de ce CPF est automatique (en fonction des déclarations de l'employeur) et annuelle (le second trimestre suivant l'année d'acquisition, donc si vous y allez aujourd'hui, vous n'aurez pas encore les heures acquises de 2016) et ça se passe [sur le site du Gouvernement dédié au Compte Personnel d'Activité](https://www.moncompteactivite.gouv.fr/cpa-prive/html/#/connexion) et je ne saurais que trop vous encourager à le faire, mais vous devez y inscrire vous-même vos heures de DIF acquises précédemment (et gardez bien en mémoire que ces heures ne sont valables que jusqu'en 2020, après quoi elles seront définitivement perdues).
 
 > NB : certaines absences étant considérées comme du temps de travail effectif, elles permettent de cumuler les heures de CPF (notamment : congé maternité / paternité / adoption / parental et les absences pour accident de travail et maladie professionnelle). 
 
@@ -79,7 +79,7 @@ Afin d'éviter le grand n'importe quoi (genre les formations en macramé), les f
 - permettre d'acquérir le socle de connaissances et de compétences ;
 - permettre de réaliser un bilan de compétences, créer ou reprendre une entreprise.
 
-Plus d'informations sur les formations éligibles (et les organismes de formation affiliés, attention, il ne s'agit pas d'aller payer votre cousin pour une formation fictive !!!) [ici](http://www.le-compte-personnel-formation.com/liste-des-formations-cpf-eligibles/).
+Plus d'informations sur les formations éligibles (et les organismes de formation affiliés, attention, il ne s'agit pas d'aller payer votre cousin pour une formation fictive !!!) [sur le site du Gouvernement dédié au Compte Personnel de Formation](http://www.le-compte-personnel-formation.com/liste-des-formations-cpf-eligibles/).
 
 Dans le respect des critères précédent vous pouvez donc utiliser vos heures de CPF, quand vous le souhaitez, même en période de chômage (pour suivre une formation en parallèle de votre recherche d'emploi). 
 
@@ -107,7 +107,7 @@ Alors, le CIF (Congé Individuel de Formation) permet au salarié de s'absenter 
 
 ### Les conditions de mobilisation du CIF
 
-Je vous remets ci-dessous les critères, pompés sur le site du [Service Public](https://www.service-public.fr/particuliers/vosdroits/F14018), pour l'éligibilité d'une formation au CIF. Elle doit permettre : 
+Je vous remets ci-dessous les critères, pompés sur le site du [Service Public](https://www.service-public.fr/particuliers/vosdroits/F14018 "Critères d'éligibilité au DIF"), pour l'éligibilité d'une formation au CIF. Elle doit permettre : 
 
 -  d'accéder à un niveau de qualification supérieure,
 - de changer de profession ou de secteur d'activité (du coup, la formation n'est pas nécessairement en rapport avec l'activité actuelle du salarié)
