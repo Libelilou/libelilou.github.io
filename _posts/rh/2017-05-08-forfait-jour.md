@@ -9,7 +9,7 @@ Vous n'êtes d'ailleurs pas les seuls à vous poser des questions puisque la Cou
 
 [^ref]: [Loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=id)
 
-# Et euh… c'est quoi déjà le forfait jour ?
+## Et euh… c'est quoi déjà le forfait jour ?
 
 Bon alors, je répète pour ceux qui roupillent au fond de la classe, collés au radiateur : le nom complet c'est <q>convention de forfait en jours</q>, communément abrégé en "forfait jour". 
 
@@ -30,7 +30,7 @@ Allez, parce que je vous aime bien, je vous remets ici le calcul de ces chiffres
 
 Qui sait ? les évolutions futures du droit du travail autoriseront (ou imposeront ?) peut-être le renoncement aux jours de congés payés, et à la moitié des repos hebdomadaires… Mais bon, on en est pas là [pour le moment](https://youtu.be/QglFGVDcuX8?t=5s). Passons plutôt à la question suivante : qui peut signer un contrat de ce type ?
 
-# Et moi, j'y ai droit ? 
+## Et moi, j'y ai droit ? 
 
 Démolissions direct l'<i lang="en">alternative fact</i> le plus répandu sur le forfait jour : 
 
@@ -55,7 +55,7 @@ Eh ben non !!!
 
 Si votre poste justifie une convention de forfait en jours, c'est que vous ne pouvez être soumis à un horaire collectif… **quel qu'il soit** ! Donc oui, si ça vous chante et que vous pouvez atteindre vos objectifs, vous pouvez choisir de bosser entre 22h et 2h du matin. Donc, bien entendu, si vous avez besoin de vos collègues / clients / prestataires pour réaliser vos missions, vous aurez du mal à expliquer à votre employeur que vous ne serez jamais présent sur les mêmes plages horaires qu'eux. Mais dans les faits, l'employeur **ne peut pas** vous imposer des plages horaires de présence.
 
-# [Les bornes des limites](https://youtu.be/WtvUJURQDlU?t=24s)
+## [Les bornes des limites](https://youtu.be/WtvUJURQDlU?t=24s)
 
 Oui parce que bon, travailler plus que les autres, c'est bien joli, mais si c'est pour épuiser votre salarié au bout de 3 mois, c'est pas super rentable (je le rappelle, comme ça, là, mais les entreprises ne sont pas philantropes !). 
 
@@ -63,7 +63,7 @@ Le principe, c'est que le salarié est autonome dans ses tâches et n'est pas so
 
 [Heureusement, il y a la loi](https://youtu.be/txxpbd440Ag?t=21s) pour protéger un peu les salariés, notamment celle du 08 août 2016 qui a renforcé le cadre juridique de ces conventions afin de garantir la sécurité et la santé du salarié. 
 
-## [Négociation collective](https://youtu.be/JAvhnHzJZL4?t=52s)
+### [Négociation collective](https://youtu.be/JAvhnHzJZL4?t=52s)
 
 Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **que** si elle est prévue dans un accord collectif (accord de branche, convention collective) **et** qu'un certain nombre de conditions y sont stipulées. En effet, notamment depuis la nouvelle Loi travail, l'employeur doit garantir à ses salariés au forfait jours :
 
@@ -73,7 +73,7 @@ Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **q
 
 Les conventions de forfait en jours doivent donc être définies de façon assez complète dans un accord collectif et stipuler un certain nombre de clauses, listant notamment les postes sont concernés, la période de référence de 12 mois consécutifs (qui n'est pas forcément l'année civile), le nombre de jours (maximum 218 jours, car les 235 ne peuvent être atteignables que sur des cas particuliers, je le rappelle)… Ainsi que les moyens de s'assurer du respect des garanties que nous venons de voir (les clauses garantissant le droit à la santé et au repos des salariés) : modalités de contrôle de la charge de travail, périodicité des entretiens avec le salarié sur l'équilibre entre sa vie professionnelle et sa vie privée, droit à la déconnexion, etc. 
 
-## Limites légales
+### Limites légales
 
 Même si son activité est très [libérée](https://youtu.be/TYc-SK1R9fQ?t=1m), le salarié au forfait en jours bénéficient tout de même des seuils légaux de :
 
@@ -83,3 +83,7 @@ Même si son activité est très [libérée](https://youtu.be/TYc-SK1R9fQ?t=1m),
 - **jours fériés chômés** (s'ils sont chômés dans l'entreprise, ils le sont pour tous les salariés, quelle que soit la durée du travail à laquelle ils sont soumis).
  
 Voilà, j'espère vous avoir permis d'y voir un peu plus clair au sujet des conventions de forfait en jours et je vous dis à bientôt pour discuter… congés payés (ouais, parce que bientôt, c'est l'été !!!). 
+
+## Et l'argent ?
+
+Vous l'aurez compris, le forfait jours est type de contrat adapté à des conditions de travail qui sortent de l'ordinaire. À ce titre, il est souvent rémunéré en conséquence. De nombreuses conventions précises d'ailleurs des majorations obligatoires pour les entreprises qui souhaiteraient y avoir recours. Lisez la vôtre et négociez avec votre employeur.
