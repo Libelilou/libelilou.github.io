@@ -1,5 +1,5 @@
 ---
-title : "Le forfait jour"
+title : "Le forfait jours"
 introduction: "Savez-vous vraiment ce qui se cache derrière cette convention un peu particulière ? Démêlons le vrai de l'alternative fact :D"
 ---
 
