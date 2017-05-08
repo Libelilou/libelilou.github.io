@@ -7,8 +7,7 @@ J'ai déjà abordé la question du forfait jour dans un [article précédent sur
 
 Vous n'êtes d'ailleurs pas les seuls à vous poser des questions puisque la Cour de Cassation a rendu plusieurs arrêts ces derniers mois, peut-être dans une volonté de recadrer le recours aux conventions de forfait en jours. La loi Travail[^ref] a permis de sécuriser un peu les règles régissant ces contrats.
 
-[^ref]: [Loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue
-social et à la sécurisation des parcours professionnels](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=id)
+[^ref]: [Loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=id)
 
 # Et euh… c'est quoi déjà le forfait jour ?
 
