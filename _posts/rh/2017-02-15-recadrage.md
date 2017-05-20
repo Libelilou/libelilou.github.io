@@ -1,6 +1,7 @@
 ---
 title : "Recadrage !"
 introduction: "Article coup de gueule sur la profession de RH, que certains feraient bien de se remémorer de temps en temps !"
+published: false
 ---
 
 Aujourd'hui, j'ai besoin de râler un peu, alors vous me pardonnerez le ton mais franchement, certaines personnes ont rapidement besoin d'un recadrage. J'adresse donc ce petit billet à tous mes collègues travaillant dans un service RH et qui auraient oublié le sens de notre belle profession (mais, si vous n'êtes pas RH, vous pouvez aussi le lire !).
