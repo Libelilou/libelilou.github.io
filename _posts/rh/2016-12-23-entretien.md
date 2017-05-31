@@ -1,6 +1,9 @@
 ---
 title : "\"Bref. J'ai passé un entretien d'embauche\""
 introduction: "\"Qu'est-ce qui vous motive pour venir bosser chez nous ? Bah à part la thune, euh, la p'tite secrétaire là-bas, elle est bonne !\""
+post-color: 7
+tags:
+  - recrutement
 ---
 
 Pour la référence de l'introduction, c'est [par ici](https://youtu.be/Tzl5sfHKAhc). Ces mecs sont mes dieux vivants ‼

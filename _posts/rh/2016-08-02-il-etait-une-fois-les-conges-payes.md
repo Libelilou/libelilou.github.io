@@ -1,6 +1,9 @@
 ---
 title : "Il était une fois… les congés payés"
 introduction: "Quand on pense &ldquo;congés payés&rdquo; on pense de suite à 1936... En réalité, dès les années 1920, quelques entreprises lancent des initiatives en ce sens, dont le journal &ldquo;L'information&rdquo; pour lequel écrivait Léon Blum."
+post-color: 1
+tags:
+  - congés
 ---
 EDIT : suite au commentaire de Jérôme, je rajoute donc le paragraphe que j'avais oublié concernant les jours fériés pendant les congés payés en 6. (et du coup, dans un prochain article concernant la maladie, je parlerai de l'arrêt maladie pendant les congés payés... ou alors faudra aussi me rappeler de le faire :D)
 

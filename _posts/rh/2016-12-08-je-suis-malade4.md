@@ -1,6 +1,9 @@
 ---
 title : "\"Je suis malaaadeeeuh\" #3"
-introduction: "3ème partie : Maladie et paie"
+introduction: "Carence, maintien de salaire, subrogation, indemnités et prévoyance"
+post-color: 2
+tags:
+  - maladie
 ---
 
 Donc, comment ça marche l'arrêt maladie en paie ?

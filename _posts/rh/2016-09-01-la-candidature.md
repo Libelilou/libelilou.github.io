@@ -1,6 +1,8 @@
 ---
 title : "La candidature"
 introduction : "\"Un CV ? non c'est pas du verlan... Alors, tu prends une feuille, tu marques ton nom, ton adresse [...] et puis ton niveau d'études, c'est important, ça.\" Denis Marechal"
+tags:
+  - recrutement
 ---
 
 En rédigeant mon article précédent, je me suis dit que j'avais en fait plein de choses à partager concernant les candidatures et donc j'ai décidé de faire aussi un article un peu plus long et sérieux sur le sujet.

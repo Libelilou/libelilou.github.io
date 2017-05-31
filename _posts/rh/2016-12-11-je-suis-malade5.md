@@ -1,6 +1,9 @@
 ---
 title : "\"Je suis malaaadeeeuh\" #4"
-introduction: "4ème partie : Maladie et congés payés"
+introduction: "La maladie et les congés payés"
+post-color: 1
+tags:
+  - maladie
 ---
 
 Deux questions dans cette partie :

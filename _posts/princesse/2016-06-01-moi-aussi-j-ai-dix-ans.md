@@ -1,6 +1,8 @@
 ---
 title : "Moi aussi j'ai 10 ans"
 introduction: "Je l'admets : j'adoooooore les surprises ! Les surprises en tous genres, du moment que c'est une surprise ! Alors, un des petits plaisirs…"
+tags:
+  - sud web
 ---
 
 Je l'admets : j'adoooooore les surprises ! Les surprises en tous genres, du moment que c'est une surprise ! Alors, un des petits plaisirs
@@ -18,6 +20,6 @@ Il y a quelques mois, j'ai décidé d'arrêter la télé, la radio, les journaux
 
 D'abord, je ne suis pas seule, et mon mari m'a plus ou moins accompagnée dans ma démarche (bon, lui en revanche, grand boulimique de la presse écrite, ne tombe pas des nues à chaque fois qu'une connaissance commente l'actualité !). Et puis, pas si égoïste finalement, parce que depuis, je vais mieux, et j'ai pu me consacrer davantage à ma famille et à mes amis plutôt que de ruminer toute la misère du monde dans mon coin... Je me suis fait la liste (j'aime beaucoup faire des listes !) de tout ce qui était chouette dans ma vie et que je voulais préserver : mon  mari toujours plein d'attentions et qui croit en moi plus que n'importe qui, mes enfants (qui évitent de justesse un soir sur deux de finir au congel mais ceci est une autre histoire) qui me surprennent de jour en jour, mon petit chaton si mignon (sauf à deux heures du mat' quand il vient de mordre le nez !), ma soeur qui me manque, loin là bas sur son île, mon frère qui déborde d'imagination pour précipiter un ulcère qui viendra bien assez vite, mes parents, mes amis, mon boulot (car oui, j'aime mon boulot !!!), bref, tant de choses que j'avais fini par prendre pour normales mais qui sont en fait beaucoup. J'ai réalisé que j'aimais toujours autant les Disney, faire le sapin de Noël le 1er décembre (le plastique, c'est fantastique !), faire un chouette repas pour des amis, tester de nouvelles recettes, une nouvelle paire d'escarpins !!! J'ai réalisé que mon kindle était blindé de "teen lit", que je dansais toujours sur Billy Crawford et Tragédie (oui, j'ai des goûts musicaux... bien à moi !), que je pleurais devant mes chick-flicks même quand je les regarde pour la vingtième fois et que finalement, je ne m'étais pas laissée vieillir tant que ça, que l'âge, c'est surtout dans la tête...
 
-Alors, voila, tout ce long billet pour dire simplement merci (oui j'aurais pu commencer par là !) : merci à Bastien Guerry pour cette superbe lettre, et merci à mon parrain de m'avoir convaincue.
+Alors, voila, tout ce long billet pour dire simplement merci (oui j'aurais pu commencer par là !) : [merci à Bastien Guerry pour cette superbe lettre](https://vimeo.com/170005232), et merci à mon parrain de m'avoir convaincue.
 
 PS : la nuit dernière, j'ai dormi avec mon petit ours en peluche et ça m'a fait du bien.

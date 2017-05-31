@@ -60,19 +60,16 @@ defaults:
       path: "_posts/rh"
     values:
       main-class: rh
-      color: "#2DA0C3"
   -
     scope:
       path: "_posts/divers"
     values:
       main-class: divers
-      color: "#7AAB13"
   -
     scope:
       path: "_posts/cuisine"
     values:
       main-class: cuisine
-      color: "#EB7728"
   - scope:
       type: decks
     values:

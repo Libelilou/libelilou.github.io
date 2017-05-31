@@ -1,6 +1,9 @@
 ---
 title : "La formation professionnelle continue"
 introduction: "Désolée, je n'ai pas d'accroche rigolote à vous proposer cette fois-ci... Mais si ça vient entre-temps, je modifierai :)"
+post-color: 4
+tags:
+  - formation
 ---
 
 Un petit billet rapide pour répondre aux tweets de [@Uxlco](https://twitter.com/Uxlco0 "Compte Twitter de Uxlco0") et [@briceatwork](https://twitter.com/briceatwork "Compte Twitter de Brice") à propos de la formation. Je vous remets ici les tweets, pour avoir le contexte : 

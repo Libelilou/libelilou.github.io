@@ -1,6 +1,9 @@
 ---
 title : "\"Allô patron, bobo...\""
 introduction: "Voici ici une liste (non exhaustive) des raisons qui NE JUSTIFIENT PAS un arrêt maladie !"
+post-color: 6
+tags:
+  - maladie
 ---
 
 ## L'arrêt de travail pour maladie : définition

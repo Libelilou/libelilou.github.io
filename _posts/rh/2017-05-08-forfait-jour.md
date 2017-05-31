@@ -1,6 +1,10 @@
 ---
 title : "Le forfait jours"
 introduction: "Savez-vous vraiment ce qui se cache derrière cette convention un peu particulière ? Démêlons le vrai de l'alternative fact :D"
+post-color: 2
+tags:
+  - temps de travail
+  - rémunération
 ---
 
 J'ai déjà abordé la question du forfait jour dans un [article précédent sur les durées de travail](https://libelilou.github.io/2016/12/30/horaires.html) (fort bien écrit, du reste) mais j'ai cru comprendre que ce sujet intéressait **un grand nombre** de mes **très nombreux** lecteurs, donc je vous propose d'approfondir un peu ce sujet ensemble (enfin, quand je dis "ensemble" c'est façon de parler parce que c'est quand-même moi qui fais tout le boulot… mais ça me fait plaisir :P).
