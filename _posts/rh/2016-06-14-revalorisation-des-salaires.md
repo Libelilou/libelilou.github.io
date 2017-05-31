@@ -1,7 +1,7 @@
 ---
 title : "L'effet pervers des mesures spécifiques aux bas salaires"
 introduction: "Revaloriser les bas salaires, c'est bien… En profiter pour ne pas dévaloriser dans le process les autres diplômes, ce serait mieux !"
-post-color: 2
+post-color: 3
 tags:
   - rémunération
 ---

@@ -1,7 +1,7 @@
 ---
 title : "Il était une fois… les congés payés"
 introduction: "Quand on pense &ldquo;congés payés&rdquo; on pense de suite à 1936... En réalité, dès les années 1920, quelques entreprises lancent des initiatives en ce sens, dont le journal &ldquo;L'information&rdquo; pour lequel écrivait Léon Blum."
-post-color: 1
+post-color: 2
 tags:
   - congés
 ---
