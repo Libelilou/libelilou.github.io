@@ -69,7 +69,7 @@ Selon les entreprises, vous aurez 25 ou 30 jours de congés annuels. En réalit�
 
 _Exemple : l'entreprise du salarié A comptabilise les congés sur 30 jours, celle du salarié B sur 25 jours : si A et B posent tous les deux une semaine de congés, l'entreprise du salarié A lui décomptera 6 jours de congés, celle du salarié B lui décomptera 5 jours pour cette même semaine._
 
-Donc, du coup, on a tendance à dire que le salarié acquiert 2,5 ou 2,08 jours de congés par mois. Ce n'est pas entièrement exact (vérifier ce que dit le CT). En réalité, vous ne pouvez pas "poser" un demi-jour de congés (votre employeur acceptera peut-être que vous le fassiez mais ça n'existe pas). Les jours de congés payés acquis sont arrondi à l'entier supérieur. C'est pourquoi certains logiciels contournent le problème en comptant 3 jours de congés acquis le premier mois, puis 2 jours, puis 3 puis 2 et ainsi de suite jusqu'à 30 au bout de 12 mois.
+Donc, du coup, on a tendance à dire que le salarié acquiert 2,5 ou 2,08 jours de congés par mois. Ce n'est pas entièrement exact. En réalité, vous ne pouvez pas "poser" un demi-jour de congés (votre employeur acceptera peut-être que vous le fassiez mais ça n'existe pas). Les jours de congés payés acquis sont arrondi à l'entier supérieur. C'est pourquoi certains logiciels contournent le problème en comptant 3 jours de congés acquis le premier mois, puis 2 jours, puis 3 puis 2 et ainsi de suite jusqu'à 30 au bout de 12 mois.
 
 Le Code du Travail distingue deux périodes de congés payés : le congé principal de 4 semaines et la 5ème semaine. Le salarié acquiert d'abord le congé principal.
 
@@ -107,7 +107,7 @@ Alors, pour un salarié "classique" (travail à 35 heures du lundi au vendredi s
 
 Tout comme les CDI, les salariés en CDD cumulent des congés dès leur premier jour de travail. En général, les salariés en CDD n'ont pas l'occasion de bénéficier de leurs jours de congés (à moins de contrats assez longs), du coup, dans la majorité des cas, l'employeur leur verse leur indemnité compensatrice de congés payés lors de la clôture du contrat. On leur verse donc 10% de leur brut cumulé pendant la durée de leur contrat (même pour un CDD de quelques heures).
 
-Attention, à ne pas confondre avec ce qu'on appelle communément "les 10% CDD" qui ne sont pas les congés payés mais la prime de précarité, qui est également de 10% du brut perçu par le salarié pendant la durée de son CDD (attention donc, cette prime inclut dans son assiette de calcul l'indemnité compensatrice de congés payés : Brut x 10% = indemnité compensatrice de congés payés et (Brut + Indemnité compensatrice de congés payés) x 10% = prime de précarité CDD).
+Attention, à ne pas confondre avec ce qu'on appelle communément "les 10% CDD" qui ne sont pas les congés payés mais la prime de précarité, qui est également de 10% du brut perçu par le salarié pendant la durée de son CDD (attention donc, cette prime est inclue dans l'assiette de calcul de l'indemnité compensatrice de congés payés : Brut x 10% = prime précarité CDD et (Brut + Prime précarité CDD) x 10% = indemnité compensatrice de congés payés).
 
 ## 5. Le fractionnement
 
