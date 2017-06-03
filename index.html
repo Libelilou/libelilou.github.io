@@ -6,9 +6,9 @@ layout: default
     <div id="grid" class="row flex-grid">
     {% assign the_posts=site.posts | where:"published", true %}
     {% for post in the_posts %}
-        <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <article class="box-item post-color{% if post.post-color %}{{ post.post-color }}{% else %}{{ forloop.index0 | modulo:7 | plus: 1 }}{% endif %}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon">
-                    <a href="{{site.url}}{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a>
+                    <span>{{post.main-class}}</span>
                 </span>
                 <div class="box-body">
                     <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">

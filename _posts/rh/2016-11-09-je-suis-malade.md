@@ -1,6 +1,9 @@
 ---
 title : "\"Je suis malaaadeeeuh\" #Intro"
-introduction: "Introduction"
+introduction: "Histoire et anecdotes autour des congés maladie"
+post-color: 5
+tags:
+  - maladie
 ---
 
 Alors : j'avais commencé à rédiger un article de 10 pages sur l'arrêt maladie (parce qu'il y a tant de choses à dire !!!). Donc j'ai décidé de "tronçonner" mon article en plusieurs parties parce que mon mari m'a dit que c'était "gentiment imbitable" de lire tout ça d'un coup. Donc, comme c'est mon meilleur public, je suis ses conseils. J'espère que vous prendrez plaisir à lire tous ces articles... un par un ;p

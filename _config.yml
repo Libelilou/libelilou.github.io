@@ -6,7 +6,7 @@ url: "https://libelilou.github.io" # the base hostname & protocol for your site 
 
 # User settings
 username: Princesse RH
-user_description: RH, Comptable, Maman… et princesse !
+user_description: 'Responsable des ressources humaines, comptable, cuisinière, maman… et princesse !'
 user_title: Princesse RH
 email:
 twitter_username: libellule
@@ -60,19 +60,16 @@ defaults:
       path: "_posts/rh"
     values:
       main-class: rh
-      color: "#2DA0C3"
   -
     scope:
       path: "_posts/divers"
     values:
       main-class: divers
-      color: "#7AAB13"
   -
     scope:
       path: "_posts/cuisine"
     values:
       main-class: cuisine
-      color: "#EB7728"
   - scope:
       type: decks
     values:
@@ -85,6 +82,9 @@ defaults:
       layout: slide
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', '.bundle', '.git', 'vendor', 'Gemfile', 'Gemfile.lock','gulpfile']
+
+gems:
+  - jekyll-redirect-from
 
 collections:
   slides :

@@ -1,6 +1,9 @@
 ---
 title : "\"Je suis malaaadeeeuh\" #2"
-introduction: "2ème partie : La reprise"
+introduction: "Reprise à temps complet ou à temps partiel"
+post-color: 3
+tags:
+  - maladie
 ---
 
 Cet article sera plus court, mais c'était trop long pour être intégré aux autres, et j'ai pas envie que vous tombiez malade de dégoût en lisant mes articles !

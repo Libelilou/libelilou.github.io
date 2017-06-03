@@ -1,6 +1,6 @@
 <div class="search-wrapper">
     <div class="search-form">
-        <input type="text" class="search-field" placeholder="Search...">
+        <input type="text" class="search-field" placeholder="Recherche...">
         <svg class="icon-remove-sign"><use xlink:href="#icon-close"></use></svg>
         <ul class="search-results search-list"></ul>
     </div>
@@ -16,9 +16,9 @@
   <h2>MENU</h2>
   <ul>
     {% for link in site.links %}
-      <li><a href="{{ site.url }}{{site.baseurl}}{{ link.url }}">{{ link.title }}</a></li>
+      <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
     {% endfor %}
-    <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Flux</a></li>
+    <li><a class="feed" href="{{ '/feed.xml' | prepend: site.baseurl }}" title="Atom/RSS feed">Flux</a></li>
   </ul>
 </nav>
 </aside>

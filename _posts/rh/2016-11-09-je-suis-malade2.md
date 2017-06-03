@@ -1,6 +1,9 @@
 ---
 title : "\"Je suis malaaadeeeuh\" #1"
-introduction: "1ère partie : La procédure"
+introduction: "Procédure, sorties autorisées et prolongation"
+post-color: 4
+tags:
+  - maladie
 ---
 
 Entrons maintenant dans le vif du sujet : comment ça se passe exactement ?
