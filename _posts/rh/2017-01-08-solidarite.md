@@ -141,6 +141,15 @@ Vous pouvez également décider de poser un JRTT ce jour-là. Bref, vous n'êtes
 
 Enfin, dernière chose : si la journée de solidarité tombe sur un jour férié, si vous êtes malade ce jour-là, l'employeur peut effectuer une retenue de salaire pour cette absence puisque désormais cette journée est considérée comme les autres jours de travail et non plus comme un jour férié chômé.
 
+## Journée de solidarité et stagiaires
+
+Suite à une remarque de [@mariejulien](https://twitter.com/search?q=mariejulien&src=typd) je vais rajouter une petite partie sur les stagiaires. 
+
+La première règle à retenir quand on parle des stagiaires est celle-ci : les stagiaires ne sont pas soumis au Code du Travail. Pourquoi ? Parce que contrairement à la technique très répandue du stagiaire "travailleur gratuit/pas cher", le stagiaire **n'est pas un salarié** ! Il n'est pas là pour travailler mais pour **se former**, **apprendre**. 
+
+Les stagiaires n'ont donc pas à travailler le dimanche, ni les jours fériés. La journée de solidarité reste donc pour les stagiaires un jour férié comme les autres. 
+
+Sauf... (oui parce que vous commencez à être habitué maintenant, il y a toujours des exceptions en droit du travail), sauf donc si la convention de stage prévoit expressément la présence du stagiaire cette journée là.
 
 
 Voilà, vous pouvez enfin reprendre le cours de votre vie :D ! Merci à vous, qui êtes de plus en plus nombreux à me lire, j'espère qu'ensemble, on pourra un jour changer le monde !!!
