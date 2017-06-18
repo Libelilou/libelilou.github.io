@@ -55,4 +55,4 @@ Je ne veux pas croire qu'on en arrivera à la première situation donc, plus ça
 
 Je n'aborde pas ici le sujet des retraités qui vont trinquer bien comme il faut, sans contrepartie, de cette augmentation de <abbr title="Contribution Sociale Généralisée">CSG</abbr> qui est prélevée sur les pensions de retraite.
 
-[Deuxième effet Kiss Cool](https://youtu.be/m4VbPdyuCEY?t=48s) : la part patronale de mutuelle est également réintégrée au revenu net imposable puisqu'on considère que c'est une sorte de rémunération pour le salarié. Donc plus les cotisations mutuelle vont augmenter – et donc la part patronale – plus votre revenu imposable augmentera.
+[Deuxième effet Kiss Cool](https://youtu.be/m4VbPdyuCEY?t=48s) : la part patronale de mutuelle est également réintégrée au revenu net imposable puisqu'on considère que c'est une sorte de rémunération pour le salarié. Donc plus les cotisations mutuelle vont augmenter –&nbsp;et donc la part patronale&nbsp;– plus votre revenu imposable augmentera.
