@@ -28,7 +28,7 @@ Actuellement, les taux de cotisations <abbr title="Contribution Sociale Généra
 
 Bref, vous aurez remarqué que je n'ai pas dit "5.1&#8239;% du salaire brut" : c'est normal, ce n'est pas le cas ! En fait la <abbr title="Contribution Sociale Généralisée">CSG</abbr> se calcule sur une base qui représente 98.25&#8239;% du salaire brut.
 
-> Prenons l'hypothèse que l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne concerne que la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible, pour un salarié au <abbr title="Salaire MInimum de Croissance">SMIC</abbr> cela reviendrait à une augmentation de <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 24.71#8239;€, qui vient donc compenser la diminution des cotisations maladie et assurance chômage du 1. pour un gain net total de 21.90#8239;€ mensuels. C'est sûr, c'est un cadeau énorme, sortez les décos de Noël, on va pouvoir acheter du beurre pour les pâtes !
+> Prenons l'hypothèse que l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne concerne que la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible, pour un salarié au <abbr title="Salaire MInimum de Croissance">SMIC</abbr> cela reviendrait à une augmentation de <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 24.71&#8239;€, qui vient donc compenser la diminution des cotisations maladie et assurance chômage du 1. pour un gain net total de 21.90&#8239;€ mensuels. C'est sûr, c'est un cadeau énorme, sortez les décos de Noël, on va pouvoir acheter du beurre pour les pâtes !
 
 Sauf que… non. La <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne se calcule pas seulement sur le salaire brut ! 
 
