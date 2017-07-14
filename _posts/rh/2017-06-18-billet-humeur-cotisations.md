@@ -46,7 +46,7 @@ Alors, c'est vrai, quand on regarde les calculs, on se dit que finalement, le fa
 
 Si on diminue le financement de notre système de santé actuel, il y a deux solutions : 
 
-- soit faut plus être malade ! Ou alors, les <abbr title="Indemnités Journalières de la Sécurité Sociale">IJSS</abrr> et les remboursements de médicaments, c'est fini, et on devient une superbe nation à deux vitesses avec des riches en bonne santé et des pauvres malades (je simplifie et exagère volontairement, mais bon, c'est le cas dans des pays dits "civilisés" donc c'est pas non plus que de la science fiction) ;
+- soit faut plus être malade ! Ou alors, les <abbr title="Indemnités Journalières de la Sécurité Sociale">IJSS</abbr> et les remboursements de médicaments, c'est fini, et on devient une superbe nation à deux vitesses avec des riches en bonne santé et des pauvres malades (je simplifie et exagère volontairement, mais bon, c'est le cas dans des pays dits "civilisés" donc c'est pas non plus que de la science fiction) ;
 - soit les prévoyances et mutuelles vont augmenter leurs tarifs au fur et à mesure du désengagement le Sécu (et quand on bosse dans la RH on sait que c'est la tendance depuis plusieurs années, notamment depuis la loi sur la portabilité). [Ka-ching](https://youtu.be/iEe3hBXZEyI) pour les prévoyances et mutuelles !!
 
 Je ne veux pas croire qu'on en arrivera à la première situation donc, plus ça va aller et plus le gain relatif à la diminution des cotisations maladie et assurance chômage s'annulera face à l'augmentation de la cotisation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> liée à l'augmentation de son assiette ! 
