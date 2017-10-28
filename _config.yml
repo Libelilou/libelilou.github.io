@@ -83,7 +83,7 @@ defaults:
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules', '.bundle', '.git', 'vendor', 'Gemfile', 'Gemfile.lock','gulpfile']
 
-gems:
+plugins:
   - jekyll-redirect-from
 
 collections:
