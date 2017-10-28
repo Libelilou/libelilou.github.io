@@ -33,6 +33,7 @@ p.centered {
 .reveal abbr[title] {
     cursor: help;
     border-bottom: 0.1em dotted #555;
+    text-decoration:none;
 }
 
 .reveal h1,
