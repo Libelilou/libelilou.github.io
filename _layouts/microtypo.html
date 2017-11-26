@@ -23,15 +23,18 @@ layout: microtypo
     {% assign t = t | replace: ' !!([^\w])' , '&#8239;&#8252;\1' %}
     {% assign t = t | replace: ' x ' , ' &times;&nbsp;' %}
 
-    {% assign t = t | replace: ' :',       '&nbsp;:' %}
-    {% assign t = t | replace_regex: ' (%|;|\!|\?)([^\w!])', '&#8239;\1\2' %}
-    {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?(px|%)(\s|.)', '\1\2&#8239;\4\5' %}
+    {% assign t = t | replace: ' :', '&nbsp;:' %}
 
-    {% assign t = t | replace_regex: '(—|&mdash;)(\s)', '\1&nbsp;' %}
+    {% assign t = t | replace: ' %', '&#8239;%' %}
+    {% assign t = t | replace: ' ;', '&#8239;;' %}
+    {% assign t = t | replace: ' !', '&#8239;!' %}
+    {% assign t = t | replace: ' ?', '&#8239;?' %}
+    {% assign t = t | replace: ' px', '&#8239;px' %}
+    {% assign t = t | replace: ' €', '&#8239;€' %}
+    {% assign t = t | replace: ' $', '&#8239;$' %}
+    {% assign t = t | replace: ' – ', '&#8239;–&#8239;' %}
     {% assign t = t | replace: '...' , '&#8230;' %}
-    {% assign t = t | replace_regex: '(\s)+(\d+)(\s)?x(\s)?(?=\d)', '\1\2\3&times;\3' %}
-    {% assign t = t | replace_regex: '(\d+)\s*(€|$)', '\1&nbsp;\2' %}
-    {% assign t = t | replace_regex: '(€|$)\s*(\d+)', '\1&nbsp;\2' %}
+
     {{ t }}
   {% endfor %}
-{% endcapture %}{{ source | replace_regex: '\n\s*\n', '' }}
+{% endcapture %}{{ source }}
