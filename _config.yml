@@ -43,33 +43,37 @@ links:
 
 #Defaults
 defaults:
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       layout: post
       published: true
-  -
-    scope:
+  - scope:
       path: "_posts/princesse"
     values:
       main-class: princesse
       color: "#B31917"
-  -
-    scope:
+      catlabel: Princess
+  - scope:
       path: "_posts/rh"
     values:
       main-class: rh
-  -
-    scope:
+      catlabel: rh
+  - scope:
       path: "_posts/divers"
     values:
       main-class: divers
-  -
-    scope:
+      catlabel: divers
+  - scope:
+      path: "_posts/ehpad"
+    values:
+      main-class: ehpad
+      catlabel: "ehpad"
+  - scope:
       path: "_posts/cuisine"
     values:
       main-class: cuisine
+      catlabel: cuisine
   - scope:
       type: decks
     values:
