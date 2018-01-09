@@ -7,7 +7,7 @@ tags:
   - pause
 ---
 
-N'en déplaise à notre nouveau Président, j'ai l'impression que le sujet le plus improtant dans la vie des Français n'est pas le travail mais... la bouffe !!! 
+N'en déplaise à notre nouveau Président, j'ai l'impression que le sujet le plus improtant dans la vie des Français n'est pas le travail mais... manger !!! 
 Entre idées reçues et obligations légales, parlons un peu repas au travail :D
 
 # La pause déj'
@@ -18,16 +18,16 @@ Il faut savoir déjà que le Code du Travail ne prévoit pas à proprement parle
 
 D'autre part, cette pause peut être fractionnée, vous pouvez donc travailler 3 heures consécutives, avoir une pause de dix minutes puis 2h50 consécutives et avoir une autre pause de 10 minutes.
 
-Bon ça, c'est la loi... donc, je ne cesserai jamais de le répéter : lisez vos conventions collectives et accords d'entreprise, et même règlement intérieur parfois qui peuvent prévoir des conditions plus avantageuses en termes de pause (déj ou autres d'ailleurs). 
+Bon ça, c'est la loi... donc, je ne cesserai jamais de le répéter : lisez vos conventions collectives et accords d'entreprise, et même règlement intérieur parfois qui peuvent prévoir des conditions plus avantageuses en termes de pause (déjeuner ou autres d'ailleurs). 
 
 ... parfois j'ai l'impression que les phrases que je dis le plus souvent sont "qu'est-ce qu'on dit ?" et "on se lave les mains en sortant des toilettes !" (faites des gosses qu'y disaient) et celle que j'écris le plus : "lisez vos conventions collectives" :D Voila, c'était le moment "raconte tes anecdotes perso au milieu d'un article pro !".
 
 
 # Où manger ?
 
-La loi interdit, pour des raisons d'hygiène et de sécurité, aux salariés de prendre dans tout lieu affecté au travail. 
+La loi interdisant aux salariés de prendre dans tout lieu affecté au travail a été [abrogée en 2008](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018512042&cidTexte=LEGITEXT000006072050&dateTexte=20080430)
 
-Bon dans les faits, c'est pas très respecté, surtout quand on a un métier "de bureau"... J'ai moult fois mangé un sandwich vite fait devant mon PC (surtout quand j'ai travaillé en cabinet). 
+Bon dans les faits, c'est pas très respecté, surtout quand on a un métier "de bureau"... Moult fois j'ai mangé un sandwich vite fait devant mon PC (surtout quand j'ai travaillé en cabinet). 
 
 Quels sont les risques ? Une injonction de la DIRECCTE (DIrection Régionale des Entreprise, de la Concurrence, de la Consommation, du Travail et de l'Emploi) - ce qu'on appelle communément l'Inspection du Travail - pour la mise en place d'un local dédié à la prise des repas des salariés. 
 
