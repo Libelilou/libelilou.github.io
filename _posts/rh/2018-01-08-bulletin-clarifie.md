@@ -132,3 +132,48 @@ Effet pervers : ça revient **beaucoup** moins cher à l'entreprise de proposer 
 
 Parce que c'est aussi important que vous vous rendiez compte tout ce que vous coûtez à l'entreprise !
 Cette rubrique est donc la somme du brut et du total de la part patronale des cotisations sociales (déduction faite des allègements et exonérations évoquées ci-dessus). 
+
+
+## Les boules et les guirlandes
+
+Pardonnez-moi, je cherchais un titre "accrocheur" pour vous réveiller en cette fin d'article. Je voulais terminer par un point "déco" du bulletin. Souvent, nos bulletins de salaire sont composés de moult encadrés, recouvrant totalement une page A4, à croire que la consigne donnés aux logiciels de paie c'était "surtout le salarié ne doit pas voir le papier dessous !".
+
+Pourtant, la loi impose finalement assez peu de choses quant à la forme et aux mentions obligatoires du bulletin de salaire. 
+
+## La forme
+
+La loi ne mentionne pas de forme particulière pour les bulletins de paie. Ils peuvent être remis sur papier ou par voie électronique (sous certaines conditions particulières, si ça vous intéresse, j'en ferai un petit article) mais c'est à peu près tout. 
+
+Donc si ça lui chante, votre employeur.se pourrait faire les bulletins à la main sur du papier parfumé Hello Kitty ou à la plume de pigeon sur un parchemin (et avouez que ça aurait de la gueule !). 
+
+Quelle que soit sa forme, le bulletin doit être conservé par l'entreprise pendant 5 ans et par l'employé.e sans limitation de durée. 
+
+> Bon à savoir, même si franchement, je ne vois pas l'intérêt de refuser mais bon : si vous avez perdu votre bulletin, votre employeur peut vous en retirer un duplicata mais il n'y est pas tenu ! 
+
+> Autre bon à savoir : la Cour de Cassation a jugé qu'une photocopie de bulletin de paie fournie par un employeur avait la même valeur qu'un original puisque la loi ne disait rien laissant penser le contraire (arrêt du 24 novembre 1993). 
+
+## Les mentions obligatoires
+
+En revanche, la loi encadre très précisément les mentions devant y figurer (attention la liste ci-dessous ne comporte que les mentions hors éléments de salaire - c'est-à-dire tout ce qui ne compose pas le salaire brut, les cotisations sociales et le salaire net) : 
+ - nom et adresse de l'employeur (éventuellement la désignation de l'établissement dont dépend le salarié),
+ - numéro de la nomenclature d'activité de l'établissement d'emploi (code APE ou code NAF) et numéro d'inscription de l'employeur au répertoire national des entreprises et des établissements (numéro Siret),
+ - intitulé de la convention collective de branche applicable au salarié ou, à défaut, référence au code du travail concernant la durée des congés payés et des délais de préavis en cas de cessation de la relation de travail,
+ - nom et emploi du salarié, sa position dans la classification conventionnelle (le niveau ou le coefficient hiérarchique),
+ - date de paiement,
+ - mention de la rubrique dédiée au bulletin de paie sur le portail www.service-public.fr,
+ - mention incitant le salarié à conserver le bulletin de paie sans limitation de durée
+
+J'en rajoute une qui n'y figure pas parce qu'elle n'est pas à proprement parler liée au bulletin de salaire mais plutôt au fait que votre bulletin est établi via un logiciel de paie : "Conformément à la loi Informatique et Libertés du 6 Janvier 1978, vous disposez un droit d'accès et de rectification pour toute information vous concernant". Si, en revanche, votre bulletin est établi indépendamment d'une base de donnée - Word, Excel, papyrus, etc. - cette mention n'y est pas obligatoire. 
+
+Comme vous le voyez, finalement, tout le reste c'est de la déco ou pour des raisons pratiques :
+ - votre adresse 
+ - votre numéro de sécu 
+ - votre date d'entrée et/ou de départ
+ - suivi de vos congés, RTT
+ - mode de paiement
+ - adresse de l'URSSAF auquel est rattaché l'entreprise
+ - et tout le reste
+
+Comme quoi, on pourrait pousser plus loin la "clarification" du bulletin de paie :)
+
+Voilà c'est tout pour aujourd'hui. Dans le prochain article, je parlerai des nouveautés 2018 en matière de paie.
