@@ -2,7 +2,6 @@
 title: "Le bulletin simplifié"
 introduction: "Q'est-ce que c'est ?"
 post-color: 1
-published: false
 tags:
   - paie
   - cotisations sociales
