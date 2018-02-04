@@ -17,6 +17,8 @@ layout: microtypo
     {% assign t = t | replace: '“' , '«&#8239;' %}
     {% assign t = t | replace: '”' , '&#8239;»' %}
 
+    {% assign t = t | replace: 'et/ou' , 'et&#8239;/&#8239;ou' %}
+
     {% assign t = t | replace: ' ?!([^\w])' , '&#8239;&#8264;\1' %}
     {% assign t = t | replace: ' !?([^\w])' , '&#8239;&#8265;\1' %}
     {% assign t = t | replace: ' !!!([^\w]*)' , '&#8239;&#8252;\1' %}
@@ -25,13 +27,13 @@ layout: microtypo
 
     {% assign t = t | replace: ' :', '&nbsp;:' %}
 
-    {% assign t = t | replace: ' %', '&#8239;%' %}
-    {% assign t = t | replace: ' ;', '&#8239;;' %}
-    {% assign t = t | replace: ' !', '&#8239;!' %}
-    {% assign t = t | replace: ' ?', '&#8239;?' %}
-    {% assign t = t | replace: ' px', '&#8239;px' %}
-    {% assign t = t | replace: ' €', '&#8239;€' %}
-    {% assign t = t | replace: ' $', '&#8239;$' %}
+    {% assign t = t | replace: ' %', '&nbsp;%' %}
+    {% assign t = t | replace: ' ;', '&nbsp;;' %}
+    {% assign t = t | replace: ' !', '&nbsp;!' %}
+    {% assign t = t | replace: ' ?', '&nbsp;?' %}
+    {% assign t = t | replace: ' px', '&nbsp;px' %}
+    {% assign t = t | replace: ' €', '&nbsp;€' %}
+    {% assign t = t | replace: ' $', '&nbsp;$' %}
     {% assign t = t | replace: ' – ', '&#8239;–&#8239;' %}
     {% assign t = t | replace: '...' , '&#8230;' %}
 
