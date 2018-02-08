@@ -2,7 +2,6 @@
 title: "Les nouveautés 2018 pour la paie"
 introduction: "Allègement des cotisations sociales : pour qui ? pourquoi ? comment ? et après ?"
 post-color: 7
-published: false
 tags:
   - paie
   - cotisations sociales
@@ -16,9 +15,36 @@ Bref, tout ça pour dire que janvier, c'est pas notre mois favori. Et encore, de
 
 Et cette année encore, je dois avouer que le Père Noël a été généreux !!! Déjà, on a eu [le bulletin simplifié](/2018/01/13/bulletin-simplifie.html). Il a fallu bien vérifier les paramètres de nos logiciels et le respect des contraintes légales. Ensuite, quelques taux de cotisation à revoir, accompagné d'un [superbe discours commercial](https://youtu.be/mBT6xBAcTpI) justifiant la  "topissitude " ultime de ces nouvelles mesures, mais je vous garde en haleine pour le moment et ne vous en dis pas plus !
 
-Nous allons donc parler aujourd'hui des nouveaux taux de cotisation pour 2018 et des impacts que ces changements pourraient avoir pour l'avenir. Ce sont des pistes de réflexion bien sûr, je ne détiens pas (encore) la science infuse ! 
+Nous allons donc parler aujourd'hui des nouveaux taux de cotisation pour 2018 et des impacts que ces changements pourraient avoir pour l'avenir. Ce sont des pistes de réflexion bien sûr, je ne détiens pas (encore) la science infuse !
 
-_Pour vous donner un ordre d'idée des montants que ces différentes mesures peuvent représenter, je vais prendre l'exemple, tout au long de l'article, de Mme A qui perçoit un salaire brut mensuel de 2&#8239;000 €. Pour info, le <abbr title="Salaire Minimum Interprofessionnel de Croissance">SMIC</abbr> au 1er janvier 2018 s'élève à 1&#8239;€498,47 € (contre 1&#8239;€480,30 € en 2017). Et, toujours dans un esprit de simplification, admettons que son salaire n'augmente pas entre décembre 2017 et janvier 2018 (je rappelle que tant que votre salaire est supérieur au SMIC, votre employeur n'est pas tenu de vous augmenter tous les ans)._
+Comme c'est touffu, un plan pour vous repérer :
+
+<ul id="toc">
+  <li><a href="#les-taux-de-cotisations">Les taux de cotisations</a>
+    <ul>
+      <li><a href="#labes-de-cotisation-"></a><a href="http://dai.ly/x38jzp" class=" externalLink">Labes</a> de cotisation&nbsp;!
+        <ul>
+          <li><a href="#maladie">Maladie</a></li>
+          <li><a href="#chômage">Chômage</a></li>
+          <li><a href="#ags-association-pour-la-garantie-des-salaires">AGS (Association pour la Garantie des Salaires)</a></li>
+          <li><a href="#pénibilité">Pénibilité</a></li>
+        </ul>
+      </li>
+      <li><a href="#la-hausse">La hausse</a></li>
+      <li><a href="#les-autres">Les autres</a></li>
+      <li><a href="#impact-net">Impact net</a></li>
+      <li><a href="#impact-sociétal">Impact sociétal</a>
+      <ul><li><a href="#maladie---maternité">Maladie - maternité</a></li>
+      <li><a href="#chômage-1">Chômage</a></li>
+      <li><a href="#autrement-dit">Autrement dit…</a></li></ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#et-pour-la-suite-">Et pour la suite&nbsp;?</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
+</ul>
+
+_Pour vous donner un ordre d'idée des montants que ces différentes mesures peuvent représenter, je vais prendre l'exemple, tout au long de l'article, de Mme A qui perçoit un salaire brut mensuel de 2&#8239;000 €. Pour info, le <abbr title="Salaire Minimum Interprofessionnel de Croissance">SMIC</abbr> au 1er janvier 2018 s'élève à 1&#8239;498,47 € (contre 1&#8239;480,30 € en 2017). Et, toujours dans un esprit de simplification, admettons que son salaire n'augmente pas entre décembre 2017 et janvier 2018 (je rappelle que tant que votre salaire est supérieur au SMIC, votre employeur n'est pas tenu de vous augmenter tous les ans)._
 
 ## Les taux de cotisations
 
@@ -30,7 +56,7 @@ Vous l'aurez remarqué (ou pas, pour celleux qui lisent juste la ligne "Net à p
 
 L'impact est modéré puisque le taux de cotisation salarial était de 0,75 % en 2017 et se calcule sur la totalité du salaire brut. Mme A va pouvoir rajouter du ketchup dans ses pâtes à la fin du mois puisqu'elle bénéficie donc d'une réduction de cotisation maladie de 15 €. 
 
-La part partonale passe, elle, à 13 % contre 12,89 % en 2017 (hors Contribution Solidarité Autonomie), soit une hausse de cotisation de 2,20 € pour l'employeur sur le salaire de Mme A. 
+La part patronale passe, elle, à 13 % contre 12,89 % en 2017 (hors Contribution Solidarité Autonomie), soit une hausse de cotisation de 2,20 € pour l'employeur sur le salaire de Mme A. 
 
 #### Chômage
 
@@ -104,7 +130,7 @@ Bon j'exagère, j'imagine qu'en fouillant encore mieux, on doit pouvoir trouver 
 
 En contrepartie, parce que Noël, c'est bien aussi quand ça s'arrête, la <abbr title="Contribution Sociale Généralisée">CSG</abbr> a bien grandi ! Elle est désormais de 6,80 % (contre 5,10 % en 2017).
 
-Quand la mesure a été annoncée, j'ai été mauvaise langue parce que je pensais qu'il nous colleraient l'augmentation sur la CSG non déductible (celle qui est prise en compte dans l'impôt sur le revenu). Mais non...
+Quand la mesure a été annoncée, j'ai été mauvaise langue parce que je pensais qu'ils nous colleraient l'augmentation sur la CSG non déductible (celle qui est prise en compte dans l'impôt sur le revenu). Mais non...
 
 Cette cotisation a quelques particularités : c'est la seule cotisation due sur les <abbr title="Indemnités Journalières de Sécurité Sociale">IJSS</abbr> (les indemnités de la Sécurité Sociale en cas d'arrêt maladie) et sur l'<abbr title="Allocation de Retour à l'Emploi">ARE</abbr> (oui parce qu'on ne dit plus "allocation chômage", ça faisait genre on payait aux gens leurs voyages aux Bahamas, désormais on dit Allocation de Retour à l'Emploi). 
 
@@ -135,9 +161,9 @@ Et a priori les autres cotisations - du moins les parts salariales - n'ont pas �
 
 Donc en termes purement financiers, regardons l'impact net de ces nouveaux taux 2018 sur le salaire net de Mme A. On récapitule :
 
-- baisse du taux de cotisation maladie : &minus;15 €
-- baisse du taux de cotisation chômage : &minus;29 €
-- hausse du taux de cotisation de CSG : +34,43 €
+- baisse du taux de cotisation maladie : +15 €
+- baisse du taux de cotisation chômage : +29 €
+- hausse du taux de cotisation de CSG : &minus;34,43 €
 
 Impact net = +9,57 € par mois !!!
 
@@ -147,7 +173,7 @@ Whouhou ! Chéri fais tes valises [on part aux Bahamas](https://youtu.be/HTU3L0x
 
 Au-delà de l'impact sur le pouvoir d'achat de Mme A, il faut considérer l'impact sociétal de ces nouvelles mesures de financement. Reprenons :
 
-### Maladie - maternité
+#### Maladie - maternité
 
 Les cotisations de maladie et la CSG-CRDS permettent actuellement le financement de notre système de santé :
 
@@ -190,13 +216,13 @@ Vous suivez ? Non ? C'est normal, c'est le but.
 
 Et les vieux dans tout ça ? on en parle un peu des [vieux](https://youtu.be/tHPKzI1gE0c) ? Non seulement, ils se prennent l'impact de l'augmentation de la CSG sur leur retraite sans compensation par la diminution des autres cotisations sociales, mais en plus eux ne bénéficient pas de la mutuelle obligatoire. Et les vieux, ça coûte cher en soins, donc leur mutuelle, c'est pas 15 € par mois !
 
-### Chômage
+#### Chômage
 
 Que penser de cette diminution des cotisations chômage ? Surtout quand on sait que l'idée est de permettre aux TNS (Travailleurs Non Salariés) et indépendants de percevoir les indemnités chômage mais qu'on en diminue les cotisations... comme dirait ma mère "faut pas sortir de Saint-Cyr pour comprendre où on va"... 
 
 Et vous avez vu comme tout à coup ce sujet de radiation du Pôle Emploi après deux refus d'offre d'emploi est revenu soudainement sur le devant de la scène (alors que ça date de 2008, en fait) ? Je vous laisse faire le rapport...
 
-### Autrement dit...
+#### Autrement dit...
 
 Autrement dit, Mme A, elle a intérêt de les mettre de côté ses 10 € par mois ! Je suis pourtant, assez généralement, pour l'évolution de la société, je ne suis pas vraiment du genre "c'était mieux avant" mais j'avoue que le cap qu'on est en train de viser m'inquiète beaucoup. Quand on voit les répercussions catastrophiques des systèmes de santé ultra-libéraux qu'on voit par exemple outre-atlantique... pourquoi vouloir reproduire ça ici ???
 
@@ -208,11 +234,11 @@ D'ailleurs, vous aurez remarqué que je ne parle jamais de charges sociales mais
 
 **Les mots ont un impact**.
 
-Larousse définit une cotisation comme une "somme versée en vue de contribuer à une dépense commune" et les cotisations sociales comme des "contribution des salariés et/ou de leurs employeurs versée aux différents organismes qui assurent la protection sociale "...
+Larousse définit une cotisation comme une "somme versée en vue de contribuer à une dépense commune" et les cotisations sociales comme des "contributions des salariés et/ou de leurs employeurs versées aux différents organismes qui assurent la protection sociale"...
 
 Ces organismes que nous finançons par nos cotisations assurent notre **protection sociale** et je trouve le terme très important. Parce que quand on le dit comme ça, on change de prisme : on ne gagne pas du pouvoir d'achat pour acheter plus de beurre en fin de mois (oui j'aime bien le beurre, c'est pour faire les gâteaux !), on perd notre protection sociale...
 
-Mais la communication de ces nouvelles mesures a bien sûr été entièrement faite autour du "Rendez-vous compte, Mme A elle sera contente, elle va gagner en pouvoir d'achat ! Et donc consommer plus et payer plus de TVA et... ah mince non attends, Paulo, sors ça du discours ! "
+Mais la communication de ces nouvelles mesures a bien sûr été entièrement faite autour du "Rendez-vous compte, Mme A elle sera contente, elle va gagner en pouvoir d'achat ! Et donc consommer plus et payer plus de TVA et... ah mince non attends, Paulo, sors ça du discours !"
 
 Et j'ai eu hier une discussion très intéressante dans le train avec une autre RH, qui m'a expliqué son point de vue et j'avoue que je n'avais jamais envisagé cette hypothèse. Donc pour faire réfléchir et provoquer des discussions, je vous en fais part :)
 
