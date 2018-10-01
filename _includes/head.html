@@ -3,6 +3,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <script>
+        // Force HTTPS client-side
+        var host = 'libelilou.github.io';
+        if ((host === window.location.host) && (window.location.protocol === 'http:')) {
+          window.location.protocol = 'https:';
+        }
+    </script>
+
     <title>{% if page.title %}{{ page.title | strip_html }}{% else %}{{ site.title | strip_html }}{% endif %}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 

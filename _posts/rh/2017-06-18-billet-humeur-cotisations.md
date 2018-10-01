@@ -16,27 +16,27 @@ Bref, petit coup de projecteur sur ce que cette mesure implique vraiment pour un
 
 ## 1. Diminution des cotisations de maladie et chômage
 
-Parlons chiffres. Les cotisations de maladie s'élèvent en 2017 à 0.75&#8239;% du salaire brut, celles de l'assurance chômage à 2.40&#8239;% soit un total de 3.15&#8239;% du salaire brut.
+Parlons chiffres. Les cotisations de maladie s'élèvent en 2017 à 0,75 % du salaire brut, celles de l'assurance chômage à 2,40 % soit un total de 3,15 % du salaire brut.
 
-> Pour un salarié au SMIC (1&#8239;480.30&#8239;€), cela représente donc une économie de 46.62&#8239;€ de cotisations mensuelles de maladie et assurance chômage.
+> Pour un salarié au SMIC (1&#8239;480,30 €), cela représente donc une économie de 46,62 € de cotisations mensuelles de maladie et assurance chômage.
 
 ## 2. Augmentation de la cotisation de <abbr title="Contribution Sociale Généralisée">CSG</abbr>
 
-Oui, parce que bon, faut bien la financer cette mesure, [faut pas rêver non plus](https://youtu.be/tOmq-Th6VA0) ! Alors, en contrepartie, il y aura une augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 1.7&#8239;points (d'ailleurs, au passage, c'est un peu obscur, on ne sait pas si cette augmentation concernera uniquement la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible ou non).
+Oui, parce que bon, faut bien la financer cette mesure, [faut pas rêver non plus](https://youtu.be/tOmq-Th6VA0) ! Alors, en contrepartie, il y aura une augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 1,7&#8239;points (d'ailleurs, au passage, c'est un peu obscur, on ne sait pas si cette augmentation concernera uniquement la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible ou non).
 
-Actuellement, les taux de cotisations <abbr title="Contribution Sociale Généralisée">CSG</abbr> sont de 5.1&#8239;% pour la part déductible et 2.4&#8239;% pour la part non déductible. Déductible de quoi ? Des impôts bien sûr ! Pour faire court, une partie de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> est inclue dans le revenu net imposable sur lequel vous payez des impôts… oui, c'est ça, on paie des impôts sur une cotisation sociale ! Ils ont eu le choix d'un système plus simple, mais les énarques s'ennuyaient…
+Actuellement, les taux de cotisations <abbr title="Contribution Sociale Généralisée">CSG</abbr> sont de 5,1 % pour la part déductible et 2,4 % pour la part non déductible. Déductible de quoi ? Des impôts bien sûr ! Pour faire court, une partie de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> est inclue dans le revenu net imposable sur lequel vous payez des impôts… oui, c'est ça, on paie des impôts sur une cotisation sociale ! Ils ont eu le choix d'un système plus simple, mais les énarques s'ennuyaient…
 
-Bref, vous aurez remarqué que je n'ai pas dit "5.1&#8239;% du salaire brut" : c'est normal, ce n'est pas le cas ! En fait la <abbr title="Contribution Sociale Généralisée">CSG</abbr> se calcule sur une base qui représente 98.25&#8239;% du salaire brut.
+Bref, vous aurez remarqué que je n'ai pas dit "5,1 % du salaire brut" : c'est normal, ce n'est pas le cas ! En fait la <abbr title="Contribution Sociale Généralisée">CSG</abbr> se calcule sur une base qui représente 98,25 % du salaire brut.
 
-> Prenons l'hypothèse que l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne concerne que la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible, pour un salarié au <abbr title="Salaire MInimum de Croissance">SMIC</abbr> cela reviendrait à une augmentation de <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 24.71&#8239;€, qui vient donc compenser la diminution des cotisations maladie et assurance chômage du 1. pour un gain net total de 21.90&#8239;€ mensuels. C'est sûr, c'est un cadeau énorme, sortez les décos de Noël, on va pouvoir acheter du beurre pour les pâtes !
+> Prenons l'hypothèse que l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne concerne que la <abbr title="Contribution Sociale Généralisée">CSG</abbr> déductible, pour un salarié au <abbr title="Salaire MInimum de Croissance">SMIC</abbr> cela reviendrait à une augmentation de <abbr title="Contribution Sociale Généralisée">CSG</abbr> de 24,71 €, qui vient donc compenser la diminution des cotisations maladie et assurance chômage du 1. pour un gain net total de 21,90 € mensuels. C'est sûr, c'est un cadeau énorme, sortez les décos de Noël, on va pouvoir acheter du beurre pour les pâtes !
 
 Sauf que… non. La <abbr title="Contribution Sociale Généralisée">CSG</abbr> ne se calcule pas seulement sur le salaire brut ! 
 
 Son assiette inclue également la part patronale de la cotisation de prévoyance (qui est devenue assez répandue, même si légalement pas obligatoire) et la part patronale de la cotisation de mutuelle (vous savez, la fameuse mutuelle que l'employeur est désormais obligé d'imposer à tous ses nouveaux salariés et financée par l'employeur au minimum pour moitié ?).
 
-Reprenons donc : partons de l'hypothèse d'un taux de prévoyance de 1.5&#8239;% du salaire brut pour la part partronale et d'une mutuelle à 35&#8239;€ (c'est grosso-modo le tarif proposé par les mutuelles pour le panier de soins minimum fixé par la loi) financée à 50&#8239;% par l'employeur.
+Reprenons donc : partons de l'hypothèse d'un taux de prévoyance de 1,5 % du salaire brut pour la part partronale et d'une mutuelle à 35 € (c'est grosso-modo le tarif proposé par les mutuelles pour le panier de soins minimum fixé par la loi) financée à 50 % par l'employeur.
 
-> Ce qui donne donc une cotisation patronale de prévoyance de 22.20&#8239;€ par mois et une cotisation patronale de mutuelle de 17.50&#8239;€ par mois. En réalité donc, l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> de notre salarié au SMIC sera de 25.39&#8239;€ soit **un gain net total de 21.23&#8239;€ mensuels** et 254.76&#8239;€ annuels.
+> Ce qui donne donc une cotisation patronale de prévoyance de 22,20 € par mois et une cotisation patronale de mutuelle de 17,50 € par mois. En réalité donc, l'augmentation de la <abbr title="Contribution Sociale Généralisée">CSG</abbr> de notre salarié au SMIC sera de 25,39 € soit **un gain net total de 21,23 € mensuels** et 254,76 € annuels.
 
 # 3. Le financement de la différence
 
