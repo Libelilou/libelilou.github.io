@@ -51,7 +51,7 @@ Bref, vous l'aurez compris : le vrai prérequis d'un tel contrat est l'autonomie
 
 Par exemple, si vous êtes consultant : vos projets ne sont pas linéaires et votre patron préfèrera que vous bossiez 10&#8239;h d'affilée sur une présentation du lendemain plutôt que vous voir faire acte de présence pendant deux jours et ne pas pouvoir boucler vos dossiers sur les jours suivants parce que vous respectez vos horaires de travail et que la débauche, c'est la débauche. 
 
-Mais, alors si vous avez bien suivi, nous pouvons aussi enterrer définitivement une deuxième idée reçue sur le forfait jours : 
+Mais, alors si vous avez bien suivi, nous pouvons aussi enterrer définitivement une deuxième idée reçue sur le forfait jour : 
 
 > L'employeur peut fixer des plages horaires minimum de présence à un salarié en forfait jours.
 
@@ -90,4 +90,4 @@ Voilà, j'espère vous avoir permis d'y voir un peu plus clair au sujet des conv
 
 ## Et l'argent ?
 
-Vous l'aurez compris, le forfait jours est type de contrat adapté à des conditions de travail qui sortent de l'ordinaire. À ce titre, il est souvent rémunéré en conséquence. De nombreuses conventions précises d'ailleurs des majorations obligatoires pour les entreprises qui souhaiteraient y avoir recours. Lisez la vôtre et négociez avec votre employeur.
+Vous l'aurez compris, le forfait jour est type de contrat adapté à des conditions de travail qui sortent de l'ordinaire. À ce titre, il est souvent rémunéré en conséquence. De nombreuses conventions précises d'ailleurs des majorations obligatoires pour les entreprises qui souhaiteraient y avoir recours. Lisez la vôtre et négociez avec votre employeur.
