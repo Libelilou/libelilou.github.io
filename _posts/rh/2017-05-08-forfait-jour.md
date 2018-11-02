@@ -1,5 +1,5 @@
 ---
-title : "Le forfait jours"
+title : "Le forfait jour"
 introduction: "Savez-vous vraiment ce qui se cache derrière cette convention un peu particulière ? Démêlons le vrai de l'alternative fact :D"
 post-color: 2
 tags:
@@ -53,7 +53,7 @@ Par exemple, si vous êtes consultant : vos projets ne sont pas linéaires et vo
 
 Mais, alors si vous avez bien suivi, nous pouvons aussi enterrer définitivement une deuxième idée reçue sur le forfait jour : 
 
-> L'employeur peut fixer des plages horaires minimum de présence à un salarié en forfait jours.
+> L'employeur peut fixer des plages horaires minimum de présence à un salarié en forfait jour.
 
 Eh ben non !!! 
 
@@ -69,7 +69,7 @@ Le principe, c'est que le salarié est autonome dans ses tâches et n'est pas so
 
 ### [Négociation collective](https://youtu.be/JAvhnHzJZL4?t=52s)
 
-Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **que** si elle est prévue dans un accord collectif (accord de branche, convention collective) **et** qu'un certain nombre de conditions y sont stipulées. En effet, notamment depuis la nouvelle Loi travail, l'employeur doit garantir à ses salariés au forfait jours :
+Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **que** si elle est prévue dans un accord collectif (accord de branche, convention collective) **et** qu'un certain nombre de conditions y sont stipulées. En effet, notamment depuis la nouvelle Loi travail, l'employeur doit garantir à ses salariés au forfait jour :
 
 - une charge de travail **raisonnable**… mouais bon, après, tout dépend ce qu'on entend par raisonnable, c'est comme [les goûts et les couleurs](http://www.jaconsultingroup.com/images/zezttz7.JPG) mais en cas de litige, les Prud'Hommes trancheront ;
 - une répartition du travail du salarié dans le temps également **raisonnable** (concrètement, si les missions qui vous sont confiées font que vous devez bosser 50&#8239;h par semaine pendant trois mois puis 20&#8239;h par semaine pendant les trois suivants, votre convention sera très probablement nulle) ;
