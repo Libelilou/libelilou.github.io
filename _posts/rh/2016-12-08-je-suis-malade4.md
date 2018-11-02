@@ -14,7 +14,7 @@ Attention, moment Lapalisse : lorsque vous êtes en arrêt maladie, vous ne trav
 
 Carence = pas payé ! C'est un peu simpliste mais c'est ça.
 
-Attention aux mélanges : il y a la carence de la Sécurité Sociale (code de la Sécurité Sociale) et la carence appliquée par votre employeur (loi, accord d'entreprise, convention collective...).
+Attention aux mélanges : il y a la carence de la Sécurité Sociale (code de la Sécurité Sociale) et la carence appliquée par votre employeur (loi, accord d'entreprise, convention collective…).
 
 #### La carence de la Sécurité Sociale
 
@@ -26,9 +26,9 @@ Il faut savoir que la Sécurité Sociale applique toujours une carence de 3 jour
 
 Parallèlement à la carence de la Sécurité Sociale, votre employeur peut appliquer un délai différent (on verra ensuite concrètement comment ça marche).
 
-Le Code du Travail (RIP...) applique la même carence que celle de la Sécurité Sociale, c'est-à-dire 3 jours. Mais la plupart des Conventions Collectives, accords d'entreprise sont plus avantageuses.
+Le Code du Travail (RIP…) applique la même carence que celle de la Sécurité Sociale, c'est-à-dire 3 jours. Mais la plupart des Conventions Collectives, accords d'entreprise sont plus avantageuses.
 
-J'attire d'ailleurs votre attention sur le fait qu'il est tout à fait légal d'avoir des conditions différentes selon votre "collège" (je parle de pas de votre établissement d'enseignement secondaire mais de votre catégorie d'emploi : cadre, ETAM, employé...).
+J'attire d'ailleurs votre attention sur le fait qu'il est tout à fait légal d'avoir des conditions différentes selon votre "collège" (je parle de pas de votre établissement d'enseignement secondaire mais de votre catégorie d'emploi : cadre, ETAM, employé…).
 
 Et de la même manière, le délai de carence peut varier en fonction de votre ancienneté dans l'entreprise.
 
@@ -44,11 +44,11 @@ Voila, c'est tout. Next !
 
 ### La subrogation
 
-Alors, désolée par avance, on rentre un peu dans la partie "technique" mais je vois pas comment expliquer toute la maladie sans passer par là...
+Alors, désolée par avance, on rentre un peu dans la partie "technique" mais je vois pas comment expliquer toute la maladie sans passer par là…
 
 Et la subrogation, c'est quoi ? [Ce mot signifie](https://youtu.be/slP4oNsJsHs) que votre employeur percevra directement les IJSS (indemnités journalières de la sécurité sociale) et vous les reversera dans le bulletin de salaire.
 
-Euh... mais... pourquoi ???
+Euh… mais… pourquoi ???
 
 Eh bien parce que les IJSS ne sont pas soumises aux cotisations sociales (sauf les championnes olympiques CSG et CRDS !). Or, si votre employeur applique le maintien de salaire, on a vu qu'il vous verse votre salaire comme si vous aviez normalement travaillé donc tout le salaire est soumis aux cotisations sociales. Donc il faut ensuite retirer la part de salaire brut qui correspondait à la période de maladie.
 
@@ -60,7 +60,7 @@ Donc ne soyez pas surpris dans votre bulletin de salaire s'il y a maintien de sa
 
 ### Les IJSS
 
-IJSS = Indemnités Journalières de la Sécurité Sociale... comme leur nom l'indique ce sont les indemnités que la Sécurité Sociale verse tous les jours de votre arrêt maladie (sous certaines conditions que vous pouvez trouver dans le Code de la Sécurité Sociale... si vous savez pas quoi lire après Game of Thrones !!!).
+IJSS = Indemnités Journalières de la Sécurité Sociale… comme leur nom l'indique ce sont les indemnités que la Sécurité Sociale verse tous les jours de votre arrêt maladie (sous certaines conditions que vous pouvez trouver dans le Code de la Sécurité Sociale… si vous savez pas quoi lire après Game of Thrones !!!).
 
 Je vais pas entrer dans le détail du calcul des IJSS (juste un teaser pour le fun : c'est une moyenne des salaires bruts perçus pendant les trois mois précédant le mois de votre arrêt maladie mais avec tout de même un plafond, bref, si ça vous éclate, le calcul est [ici](http://www.ameli.fr/employeurs/vos-demarches/arret-maladie-conges/l-8217-arret-de-travail-pour-maladie/indemnites-journalieres.php)).
 
@@ -68,7 +68,7 @@ Et donc, je le rappelle, pour ceux qui liraient en faisant autre chose : les IJS
 
 Et dernière chose : si vous êtes en arrêt maladie depuis plus de 6 mois, ne soyez pas surpris de recevoir un courrier de la CPAM à faire remplir par votre employeur car au bout de six mois d'IJSS, la Sécu recalcule vos droits aux indemnités journalières.
 
-Et aussi très important : pensez à mettre à jour régulièrement votre dossier auprès de la CPAM car parfois pendant les maladies, ils envoient des courriers et des convocations chez le médecin conseil de la Sécu et si vous répondez pas, ils arrêtent direct le paiement des IJSS. Alors en général, vous êtes prévenu sauf que s'ils vous préviennent à la même ancienne adresse... ben vous saurez pas !!!
+Et aussi très important : pensez à mettre à jour régulièrement votre dossier auprès de la CPAM car parfois pendant les maladies, ils envoient des courriers et des convocations chez le médecin conseil de la Sécu et si vous répondez pas, ils arrêtent direct le paiement des IJSS. Alors en général, vous êtes prévenu sauf que s'ils vous préviennent à la même ancienne adresse… ben vous saurez pas !!!
 
 ### La prévoyance
 
@@ -90,12 +90,12 @@ Dans notre convention collective, à compter d'un an d'ancienneté, un salarié 
   - du 4ème jour au 180ème jour : l'employeur verse le salaire net entier "comme si le salarié avait normalement travaillé" et reçoit les IJSS + les indemnités complémentaires de la prévoyance
   - à partir du 181ème jour : le salarié n'est plus payé, il reçoit directement les IJSS (en général pour que ce soit plus simple pour les RH on fait correspondre les durées de maintien de salaire et de subrogation). Il peut dans certains cas continuer à percevoir les indemnités complémentaires de la prévoyance (voir contrat de prévoyance pour les conditions).
 
-> Bon à savoir : la Prévoyance ne verse jamais les indemnités complémentaires directement au salarié... pourquoi ? parce qu'elles sont soumises à cotisations sociales à hauteur de la participation de l'employeur sur la cotisation. Je m'explique : dans notre contrat de prévoyance, l'employeur paie 100% des cotisations "incapacité" dans les cotisations patronales donc les indemnités complémentaires de prévoyance sont soumises à 100% à cotisations sociales pour le salarié et l'employeur. Si votre employeur cotise à 70% et vous à 30%, alors les indemnités complémentaires de la prévoyance seront soumises à 70% aux cotisations sociales.
+> Bon à savoir : la Prévoyance ne verse jamais les indemnités complémentaires directement au salarié… pourquoi ? parce qu'elles sont soumises à cotisations sociales à hauteur de la participation de l'employeur sur la cotisation. Je m'explique : dans notre contrat de prévoyance, l'employeur paie 100% des cotisations "incapacité" dans les cotisations patronales donc les indemnités complémentaires de prévoyance sont soumises à 100% à cotisations sociales pour le salarié et l'employeur. Si votre employeur cotise à 70% et vous à 30%, alors les indemnités complémentaires de la prévoyance seront soumises à 70% aux cotisations sociales.
 
 Petite précision : notre contrat de prévoyance prévoit également une cotisation de "maintien de salaire" qui permet à l'employeur d'être indemnisé pendant les 180 jours où il maintient le salaire du salarié et ne reçoit que les IJSS (qui couvrent à peu près la moitié du salaire). A partir du 181ème jour, on bascule sur la garantie "incapacité" qui permet au salarié de maintenir son salaire pendant un peu plus longtemps.
 
 La procédure c'est donc : vous percevez vos IJSS, vous envoyez le relevé des IJSS à votre employeur, qui les envoie à la prévoyance avec un dossier de demande d'indemnités complémentaires. La prévoyance verse, le cas échéant, les indemnités journalières complémentaires à l'employeur et l'employeur vous les reverse via le bulletin de salaire. Autrement dit, vous comprenez pourquoi les indemnités complémentaires mettent parfois un peu de temps à arriver, et c'est pourquoi je pense beaucoup de conventions collectives prévoient un maintien de salaire pour éviter cette perte subite de salaire pour le salarié.
 
-C'est tout pour la partie paie, merci à mes chers lecteurs qui seront arrivés jusque là... Vous avez vu : on s'éclate dans mon métier :D !
+C'est tout pour la partie paie, merci à mes chers lecteurs qui seront arrivés jusque là… Vous avez vu : on s'éclate dans mon métier :D !
 
-Dans le prochain épisode : Kelly pourra-t-elle cumuler ses jours de congé pendant son arrêt maladie ? Brenda tombera-t-elle malade pendant ses congés ? Donna aura-t-elle... bref, vous avez compris, le thème du prochain article sera : maladie et congés payés !!!
+Dans le prochain épisode : Kelly pourra-t-elle cumuler ses jours de congé pendant son arrêt maladie ? Brenda tombera-t-elle malade pendant ses congés ? Donna aura-t-elle… bref, vous avez compris, le thème du prochain article sera : maladie et congés payés !!!

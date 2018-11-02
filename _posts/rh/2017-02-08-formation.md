@@ -1,6 +1,6 @@
 ---
 title : "La formation professionnelle continue"
-introduction: "Désolée, je n'ai pas d'accroche rigolote à vous proposer cette fois-ci... Mais si ça vient entre-temps, je modifierai :)"
+introduction: "Désolée, je n'ai pas d'accroche rigolote à vous proposer cette fois-ci… Mais si ça vient entre-temps, je modifierai :)"
 post-color: 4
 tags:
   - formation
@@ -26,7 +26,7 @@ L'employeur a diverses obligations envers ses employés concernant sa formation 
 
 On comprend donc qu'il est de la responsabilité de l'employeur de garantir l'adaptation de ses salariés à leurs missions tout au long de leur carrière. Bien entendu, ces heures sont considérées comme du temps de travail effectif et doivent être rémunérées comme tel. 
 
-Prenons un exemple qu'on déroulera tout au long de l'article (je vais essayer de prendre un exemple qui parlera à mes lecteurs et notamment ceux qui ont posé les questions initiales, j'espère donc ne pas dire de bêtises !) : soit Ellie, développeur Senior d'une SSII. Lorsqu'elle a été embauchée, elle développait en Cobol... autant dire que les projets en Cobol se font rares aujourd'hui, mais Ellie aime sa boîte et préfère évoluer vers un autre langage que dénicher **le** projet en Cobol qui la tiendra jusqu'à sa retraite. Bref, Ellie a donc dû se former au langage et aux nouveaux paradigmes et a choisi le PHP. Sauf que, si le langage en soi n'a pas grandement évolué, les frameworks qui y sont rattachés pour les nouveaux projets ne sont plus les mêmes qu'il y a dix ans. Ellie a donc dû de nouveau s'adapter aux évolutions de son environnement professionnel, bénéficiant ainsi de l'obligation de formation que son employeur a envers elle. 
+Prenons un exemple qu'on déroulera tout au long de l'article (je vais essayer de prendre un exemple qui parlera à mes lecteurs et notamment ceux qui ont posé les questions initiales, j'espère donc ne pas dire de bêtises !) : soit Ellie, développeur Senior d'une SSII. Lorsqu'elle a été embauchée, elle développait en Cobol… autant dire que les projets en Cobol se font rares aujourd'hui, mais Ellie aime sa boîte et préfère évoluer vers un autre langage que dénicher **le** projet en Cobol qui la tiendra jusqu'à sa retraite. Bref, Ellie a donc dû se former au langage et aux nouveaux paradigmes et a choisi le PHP. Sauf que, si le langage en soi n'a pas grandement évolué, les frameworks qui y sont rattachés pour les nouveaux projets ne sont plus les mêmes qu'il y a dix ans. Ellie a donc dû de nouveau s'adapter aux évolutions de son environnement professionnel, bénéficiant ainsi de l'obligation de formation que son employeur a envers elle. 
 
 En parallèle, Ellie souhaiterait passer sa certification Opquast, parce qu'elle en a entendu parler et que l'idée lui semble chouette. Sauf que, pour son employeur, cette certification n'est pas **nécessaire** à la réalisation de ses missions, il ne s'agit pas d'une adaptation à son poste de travail. Ainsi, l'employeur est en droit de considérer que cette formation n'entre pas dans le champ de son obligation de formation continue mais, comme il entend aussi beaucoup parler de cette certification et ne souhaite pas empêcher Ellie de la passer pour autant, il lui propose de bénéficier de cette formation par d'autres moyens (CPF ou CIF). 
 
@@ -70,7 +70,7 @@ Pour plus de renseignements, n'hésitez pas à solliciter un conseiller en évol
 
 Et bien entendu, le salarié peut coupler ses heures de CPF avec d'autres dispositifs comme le CIF (j'en parle après), la période de professionnalisation ou une formation du plan de formation de l'entreprise.
 
-Ellie, ravie, crée donc son compte et y reporte ses 120 heures de DIF. Elle a désormais jusqu'au 31 décembre 2020 pour utiliser ses heures afin de suivre une **formation qualifiante**. Ah... Mais au fait, c'est quoi une formation qualifiante ?
+Ellie, ravie, crée donc son compte et y reporte ses 120 heures de DIF. Elle a désormais jusqu'au 31 décembre 2020 pour utiliser ses heures afin de suivre une **formation qualifiante**. Ah… Mais au fait, c'est quoi une formation qualifiante ?
 
 ### Utilisation du CPF
 
@@ -148,7 +148,7 @@ Mais jusque là, c'est un peu trop simple, n'oublions pas que nous parlons paie,
 
 Le CIF étant considéré comme du temps de travail effectif, vous continuez à percevoir les primes prévues et cumuler vos congés payés "comme si vous aviez normalement travaillé", et bien évidemment, en cas de maladie ou d'accident du travail, vous bénéficiez des prestations de la Sécu. 
 
-Vous pouvez mettre fin à votre CIF mais il faudra un motif légitime (maladie, maternité, erreur d'orientation). Dans ce cas, vous devez avertir votre employeur, qui ne sera, lui, pas obligé de vous réintégrer dans l'entreprise avant la date de fin initialement prévue de votre CIF. Je m'explique : Ellie se voit accorder un CIF de 3 mois pour formation. Au bout de 5 semaines, elle se demande la cessation anticipée de son CIF. Sauf que son employeur s'est engagé auprès d'un salarié sur un contrat CDD de 3 mois. Il peut donc demander à Ellie de rester gentiment chez elle jusqu'à la fin des 3 mois (sans salaire bien sûr, pour le coup, sinon c'est trop facile...).
+Vous pouvez mettre fin à votre CIF mais il faudra un motif légitime (maladie, maternité, erreur d'orientation). Dans ce cas, vous devez avertir votre employeur, qui ne sera, lui, pas obligé de vous réintégrer dans l'entreprise avant la date de fin initialement prévue de votre CIF. Je m'explique : Ellie se voit accorder un CIF de 3 mois pour formation. Au bout de 5 semaines, elle se demande la cessation anticipée de son CIF. Sauf que son employeur s'est engagé auprès d'un salarié sur un contrat CDD de 3 mois. Il peut donc demander à Ellie de rester gentiment chez elle jusqu'à la fin des 3 mois (sans salaire bien sûr, pour le coup, sinon c'est trop facile…).
 
 # L'évolution professionnelle
 
@@ -173,13 +173,13 @@ Votre accord est également nécessaire si cette formation se déroule en dehors
 > J'en profite pour faire un petit aparté sur les formations obligatoires pour l'employeur (dans le sens, l'employeur lui-même n'a pas le choix de la proposer ou non à ses salariés. Je pense notamment à celle qu'on appelle communément la "formation incendie" qui est en fait plus une information sur la marche à suivre en cas d'incendie dans les locaux ; ainsi qu'à la formation SST (Sauveteur et Secouriste du Travail). L'employeur est, sous certaines conditions, tenu d'avoir dans son entreprise une partie de son effectif titulaire d'un diplôme SST. En général, les salariés sont plutôt partant pour cette formation et la demande peut venir d'eux. Mais dans le cas où personne ne serait volontaire, l'employeur peut imposer à une partie de ses salariés de suivre cette formation. Là encore, à moins d'avoir un motif légitime béton de refus (lourd handicap physique, crises de spasmophilie ou perte de connaissance à la vue du sang, décès brutal d'un proche), vous devez vous y plier. 
 
 Pour en revenir à Ellie, à moins que son employeur décide d'un coup de transformer sa boîte, de n'avoir plus aucun développeur mais que des <i lang="en">Scrum Masters</i>, cette formation n'est pas **nécessaire** pour son maintien au poste. Il s'agit donc d'une formation qui lui permettra une évolution de son poste et qu'elle est donc en droit de refuser.  
-Mais bon, finalement, l'idée lui plait bien et Ellie accepte. Son employeur prépare alors un avenant à son contrat de travail, incluant une **clause de dédit formation**... Euh, mais c'est quoi ce truc ???
+Mais bon, finalement, l'idée lui plait bien et Ellie accepte. Son employeur prépare alors un avenant à son contrat de travail, incluant une **clause de dédit formation**… Euh, mais c'est quoi ce truc ???
 
 ## La clause de dédit-formation
 
 Tout-à-fait légale (mais faudrait voir pour certains employeurs de pas non plus abuser) cette clause qui peut être insérée dans un contrat de travail part du principe suivant : l'employeur est en droit d'espérer un certain ROI (Retour Sur Investissement en bon François) de la formation de son salarié.
 
-Reprenons l'exemple d'Ellie : si elle quittait son emploi aujourd'hui, elle pourrait postuler ailleurs en tant que développeuse _senior_. Si un autre employeur voulait l'embaucher en tant que Scrum Master, cet employeur devrait supporter les frais de formation nécessaire. Mais si son employeur actuel lui finance cette formation onéreuse et qu'Ellie présente sa lettre de démission sitôt la formation terminée, l'employeur suivant bénéficiera de son nouveau statut sans pour autant avoir à en supporter les charges... Pas très cool pour l'employeur précédent.
+Reprenons l'exemple d'Ellie : si elle quittait son emploi aujourd'hui, elle pourrait postuler ailleurs en tant que développeuse _senior_. Si un autre employeur voulait l'embaucher en tant que Scrum Master, cet employeur devrait supporter les frais de formation nécessaire. Mais si son employeur actuel lui finance cette formation onéreuse et qu'Ellie présente sa lettre de démission sitôt la formation terminée, l'employeur suivant bénéficiera de son nouveau statut sans pour autant avoir à en supporter les charges… Pas très cool pour l'employeur précédent.
 
 Pour se protéger de ce risque, l'employeur peut donc lui faire signer une clause de dédit-formation. Cette clause stipule qu'en cas de démission dans un certain délai suivant la formation, le salarié devra rembourser à son employeur les frais de formation engagés. Cette clause est bien entendu encadrée, il ne s'agit pas de faire n'importe quoi : 
 
@@ -209,7 +209,7 @@ Cette indemnité peut bénéficier de modalités de remboursement particulières
 
 ### Durée de la clause
 
-L'idée étant de dissuader le salarié de démissionner sitôt la formation terminée, l'employeur fixe une durée... ben, dissuasive. Mais point trop n'en faut non plus ! La loi ne précise pas de durée, cela doit rester dans les limites du "raisonnable" et dépendre du ROI que l'employeur peut espérer. Cependant un plafond de 5 ans semble faire jurisprudence (et 5 ans, déjà c'est long, il faut pouvoir le justifier le plus objectivement possible !).
+L'idée étant de dissuader le salarié de démissionner sitôt la formation terminée, l'employeur fixe une durée… ben, dissuasive. Mais point trop n'en faut non plus ! La loi ne précise pas de durée, cela doit rester dans les limites du "raisonnable" et dépendre du ROI que l'employeur peut espérer. Cependant un plafond de 5 ans semble faire jurisprudence (et 5 ans, déjà c'est long, il faut pouvoir le justifier le plus objectivement possible !).
 
 ### Renonciation à la clause
 

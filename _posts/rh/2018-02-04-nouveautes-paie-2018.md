@@ -7,9 +7,9 @@ tags:
   - cotisations sociales
 ---
 
-Janvier, c'est le temps des bonnes résolutions, des paris un peu fous, des galettes, du repos du foie, du renouveau et... de prise de tête pour les RH ! Pourquoi ? Parce que le Père Noël nous laisse toujours quelques cadeaux pour le Nouvel An, histoire qu'on ne déprime pas à la reprise ! Bon sauf que pour nous, le Père Noël, c'est le gouvernement, qui nous sort toujours un truc nouveau à mettre en place en janvier (parfois on s'y prépare un an à l'avance et en fait... c'est pas mis en place – au hasard, le prélèvement à la source !).
+Janvier, c'est le temps des bonnes résolutions, des paris un peu fous, des galettes, du repos du foie, du renouveau et… de prise de tête pour les RH ! Pourquoi ? Parce que le Père Noël nous laisse toujours quelques cadeaux pour le Nouvel An, histoire qu'on ne déprime pas à la reprise ! Bon sauf que pour nous, le Père Noël, c'est le gouvernement, qui nous sort toujours un truc nouveau à mettre en place en janvier (parfois on s'y prépare un an à l'avance et en fait… c'est pas mis en place – au hasard, le prélèvement à la source !).
 
-En plus, les nouveaux taux de cotisations sociales sortent en janvier mais, bien sûr, pas tous en même temps. Et si l'URSSAF publie le récapitulatif dès les premiers jours de janvier (faut aussi dire quand ça va !), parfois, on est un peu obligé·e·s de harceler les organismes complémentaires (retraite, <abbr title="Direction Générale des Finances Publiques">DGFIP</abbr>, prévoyance et mutuelle) pour les avoir tous. En général, on commence à avoir des sueurs froides aux alentours du 20 janvier, quand on voit la paie approcher et qu'on a toujours pas tous les taux, parce qu'on sait qu'il faudra ensuite faire des régularisations le mois suivant... quand c'est possible (pour les CDD ou CDI qui sont partis, tant pis pour nous, on ne va pas aller leur réclamer les quelques euros de différence !).
+En plus, les nouveaux taux de cotisations sociales sortent en janvier mais, bien sûr, pas tous en même temps. Et si l'URSSAF publie le récapitulatif dès les premiers jours de janvier (faut aussi dire quand ça va !), parfois, on est un peu obligé·e·s de harceler les organismes complémentaires (retraite, <abbr title="Direction Générale des Finances Publiques">DGFIP</abbr>, prévoyance et mutuelle) pour les avoir tous. En général, on commence à avoir des sueurs froides aux alentours du 20 janvier, quand on voit la paie approcher et qu'on a toujours pas tous les taux, parce qu'on sait qu'il faudra ensuite faire des régularisations le mois suivant… quand c'est possible (pour les CDD ou CDI qui sont partis, tant pis pour nous, on ne va pas aller leur réclamer les quelques euros de différence !).
 
 Bref, tout ça pour dire que janvier, c'est pas notre mois favori. Et encore, depuis cette année, on n'a plus le récapitulatif annuel de toutes les informations de paie pour tou·te·s les salarié·e·s de la boite à faire !!! 
 
@@ -68,13 +68,13 @@ La part patronale passe à 4,05 % (contre 4 % en 2017), soit une augmentation de
 
 C'est une cotisation uniquement patronale, créée en 1974 afin d'assurer le paiement des salaires en cas de liquidation d'une entreprise. C'est une cotisation mutualiste, elle n'est pas rattachée à votre personne. Elle s'appelle peut-être <abbr title="Fonds National de Garantie des Salaires">FNGS</abbr> sur votre bulletin. Mais maintenant, vous pouvez toujours la chercher, vous risquez pas de la trouver. Elle est noyée au milieu des autres dans la ligne  "Autres contributions dues par l'employeur ". 
 
-Début 2017, elle était de 0,25 %, elle est passée à 0,20 % fin 2017 puis à 0,15 % au 1er janvier 2018 (est-ce à croire que plus aucune boîte ne fera faillite ? ou que même en cas de liquidation, l'entreprise aura toujours suffisamment mis de côté pour payer ses salarié·e·s ? ou que... oh, une licorne !). 
+Début 2017, elle était de 0,25 %, elle est passée à 0,20 % fin 2017 puis à 0,15 % au 1er janvier 2018 (est-ce à croire que plus aucune boîte ne fera faillite ? ou que même en cas de liquidation, l'entreprise aura toujours suffisamment mis de côté pour payer ses salarié·e·s ? ou que… oh, une licorne !). 
 
-Cette baisse de cotisation n'a pas d'impact sur le salaire net de Mme A, mais pour le reste de la Nation Française, cela représente une diminution de contribution de 1,00 € (par mois, pour une salariée à 2&#8239;000 € bruts mensuels... je vous laisse faire le calcul sur la masse salariale française totale sur l'année).
+Cette baisse de cotisation n'a pas d'impact sur le salaire net de Mme A, mais pour le reste de la Nation Française, cela représente une diminution de contribution de 1,00 € (par mois, pour une salariée à 2&#8239;000 € bruts mensuels… je vous laisse faire le calcul sur la masse salariale française totale sur l'année).
 
 #### Pénibilité
 
-> Bon Paulo, j'aime pas ce mot, "[pénibilité](https://youtu.be/UjzYKS6UQ1Q)"... ça fait genre les gens ils s'usent au travail, c'est nul... t'as pas un autre mot ? Non ?... Bah on vire carrément la cotisation alors hein ? Ce sera aussi mieux !
+> Bon Paulo, j'aime pas ce mot, "[pénibilité](https://youtu.be/UjzYKS6UQ1Q)"… ça fait genre les gens ils s'usent au travail, c'est nul… t'as pas un autre mot ? Non ?… Bah on vire carrément la cotisation alors hein ? Ce sera aussi mieux !
 > <cite>Hypothétique conversation au sein du gouvernement</cite>
 
 Eh oui, encore une cotisation patronale qui a été mise KO, et celle-là, deux ans seulement après sa mise en place ! Le gouvernement précédent avait défini 10 critères de pénibilité au travail (travail de nuit, travail en milieu hyperbare, manipulations d'agents chimiques dangereux, gestes répétitifs, manipulations de charges lourdes, etc.). En contrepartie, les employeurs devaient s'acquitter d'une cotisation de base pour tou·te·s leurs salarié·e·s et d'une cotisation additionnelle pour les salarié·e·s concerné·e·s par ces critères de pénibilité au travail. Le tout permettant aux salarié·e·s exposé·e·s à ces critères de pénibilité de bénéficier (à looooooong terme mais c'est mieux que rien) d'une formation pour reconversion professionnelle ou d'une retraite anticipée. 
@@ -87,13 +87,13 @@ En 2017, enfin, l'employeur s'acquittait de la cotisation dite "de base", soit d
 
 En parallèle, fut créé le C3P (non, non, j'ai pas oublié le [O](https://youtu.be/Z_OjTojCNm0)), le Compte Personnel de Prévention de la Pénibilité. J'avais prévu d'en faire un article quand j'aurais le temps mais ce serait plus une oraison funèbre qu'il faudrait rédiger maintenant.
 
-Car en 2017, **bim**, élection présidentielle... arrive à la tête de notre pays un président jeune et dynamique, fort chafouiné par le concept de "pénibilité au travail"... car comme chacun sait, il n'est de vraie beauté dans la vie que l'activité professionnelle. Finalement, est-ce que le bonheur incommensurable de pouvoir dire "j'ai travaillé toute ma vie" ne vaut pas la peine d'arriver complètement détruit à la retraite au point de ne pas en profiter ? D'ailleurs, on va s'attaquer bientôt à cette histoire de retraite... c'est moche comme mot aussi. Ça fait vieux et inactif, et nous on est la <i lang="en">start-up nation</i> bordel ! on a la [niaque](https://youtu.be/EX6TkqXpYxs) !!!). 
+Car en 2017, **bim**, élection présidentielle… arrive à la tête de notre pays un président jeune et dynamique, fort chafouiné par le concept de "pénibilité au travail"… car comme chacun sait, il n'est de vraie beauté dans la vie que l'activité professionnelle. Finalement, est-ce que le bonheur incommensurable de pouvoir dire "j'ai travaillé toute ma vie" ne vaut pas la peine d'arriver complètement détruit à la retraite au point de ne pas en profiter ? D'ailleurs, on va s'attaquer bientôt à cette histoire de retraite… c'est moche comme mot aussi. Ça fait vieux et inactif, et nous on est la <i lang="en">start-up nation</i> bordel ! on a la [niaque](https://youtu.be/EX6TkqXpYxs) !!!). 
 
-Si l'on en croit différentes sources, cette mesure fut controversée car trop compliquée à mettre en place dans les entreprises... j'ai tellement de choses sarcastiques à dire à ce sujet que je vais me taire. Je vous laisse plutôt lire [cet article](http://www.gestionnaire-paie.com/penibilite-evaluer-exposition-aux-facteurs-de-risques-professionnels/) qui vaut son pesant de cacahuète. 
+Si l'on en croit différentes sources, cette mesure fut controversée car trop compliquée à mettre en place dans les entreprises… j'ai tellement de choses sarcastiques à dire à ce sujet que je vais me taire. Je vous laisse plutôt lire [cet article](http://www.gestionnaire-paie.com/penibilite-evaluer-exposition-aux-facteurs-de-risques-professionnels/) qui vaut son pesant de cacahuète. 
 
 Alors, je reconnais, quand on nous l'a présenté, j'ai un peu râlé aussi en me disant que j'allais jamais m'en sortir de cette paperasse. Je l'admets, j'aurais apprécié que le dispositif soit un peu simplifié, notamment au niveau de l'évaluation des critères afin de ne pas entrer dans des usines à gaz de calculs. Mais franchement, supprimer le tout en disant que la pénibilité au travail, c'est dans la tête ?
 
-Bref, je m'emporte. Alors puisque le travail c'est que du [bonheur](https://youtu.be/A70xUvyPA_c), mieux vaut virer le terme de pénibilité... donc la cotisation, hein, puisque si le concept n'existe plus, ça sert à rien de cotiser pour... et donc le C3P est devenu... mais oui, le C2P, autrement dit que le Compte Professionnel de Prévention... Prévention de quoi, on ne sait plus du coup, mais c'est pas grave. Vous noterez également la subtile substitution (bon courage aux lecteurs vocaux !) du mot "Personnel" pour celui de "Professionnel"... 
+Bref, je m'emporte. Alors puisque le travail c'est que du [bonheur](https://youtu.be/A70xUvyPA_c), mieux vaut virer le terme de pénibilité… donc la cotisation, hein, puisque si le concept n'existe plus, ça sert à rien de cotiser pour… et donc le C3P est devenu… mais oui, le C2P, autrement dit que le Compte Professionnel de Prévention… Prévention de quoi, on ne sait plus du coup, mais c'est pas grave. Vous noterez également la subtile substitution (bon courage aux lecteurs vocaux !) du mot "Personnel" pour celui de "Professionnel"… 
 
 [Et c'est pas fini !](https://youtu.be/XPP6IEv8VmQ). Il ne reste plus que 6 critères ! Pour le plaisir, je vous remets les 4 qui n'ont pas été retenus (qui ne sont donc pas considérés comme des facteurs d'un travail "pénible") :
 
@@ -102,7 +102,7 @@ Bref, je m'emporte. Alors puisque le travail c'est que du [bonheur](https://yout
 - les vibrations mécaniques ;
 - les agents chimiques dangereux, y compris les poussières et les fumées.
 
-Voilà, voilà... <i lang="en">The defense rests</i> (ouais, en ce moment, je regarde <i lang="en">How to get away with murder</i> !).
+Voilà, voilà… <i lang="en">The defense rests</i> (ouais, en ce moment, je regarde <i lang="en">How to get away with murder</i> !).
 
 Pour finir sur la pénibilité, ils ont tout de même laissé un truc : l'employeur déclare en fin d'année la liste des salarié·e·s exposé·e·s. Et, comme chez Auchan, lea salarié·e cumule des points de fidélité, euh pardon, des points de pénibilité (à raison de 4 points par an pour une mono-exposition et 8 points par an pour une poly-exposition, ces points étant doublés pour les salariés nés avant 1956 – soit de plus de 62 ans, autrement dit doit pas en rester masse non plus surtout dans les métiers poly-exposés !) avec un maximum de 100 points sur toute une carrière. Ces points pourront ensuite être utilisés pour des formations en vue d'une reconversion vers un poste moins ou pas exposé, pour bénéficier d'un temps partiel sans perte de salaire ou pour un départ anticipé à la retraite. 
 
@@ -130,7 +130,7 @@ Bon j'exagère, j'imagine qu'en fouillant encore mieux, on doit pouvoir trouver 
 
 En contrepartie, parce que Noël, c'est bien aussi quand ça s'arrête, la <abbr title="Contribution Sociale Généralisée">CSG</abbr> a bien grandi ! Elle est désormais de 6,80 % (contre 5,10 % en 2017).
 
-Quand la mesure a été annoncée, j'ai été mauvaise langue parce que je pensais qu'ils nous colleraient l'augmentation sur la CSG non déductible (celle qui est prise en compte dans l'impôt sur le revenu). Mais non...
+Quand la mesure a été annoncée, j'ai été mauvaise langue parce que je pensais qu'ils nous colleraient l'augmentation sur la CSG non déductible (celle qui est prise en compte dans l'impôt sur le revenu). Mais non…
 
 Cette cotisation a quelques particularités : c'est la seule cotisation due sur les <abbr title="Indemnités Journalières de Sécurité Sociale">IJSS</abbr> (les indemnités de la Sécurité Sociale en cas d'arrêt maladie) et sur l'<abbr title="Allocation de Retour à l'Emploi">ARE</abbr> (oui parce qu'on ne dit plus "allocation chômage", ça faisait genre on payait aux gens leurs voyages aux Bahamas, désormais on dit Allocation de Retour à l'Emploi). 
 
@@ -138,7 +138,7 @@ C'est également une des rares cotisations sociales à être due sur tout un tas
 
 Enfin, l'assiette de la CSG ne se calcule pas sur le salaire brut. Alors pour les novices de mes articles et <i lang="en">noobs</i> de la paie, l'assiette dont je parle ne fait pas référence à de la vaisselle mais à la base de calcul. Donc l'assiette de la CSG est un peu particulière (preuve s'il en faut des effets néfastes de l'acide sur les connexions cérébrales) : 98,25 % du salaire brut + part patronale des cotisations de prévoyance + part patronale des cotisations de mutuelle.
 
-Pourquoi ? Parce qu'on (enfin quand je dis "on"...) considère que le fait que l'employeur participe au financement du régime de prévoyance et de mutuelle (ou frais de santé) constitue pour vous un avantage, une sorte de salaire puisque sans cette participation, vous auriez dû les financer vous-même.
+Pourquoi ? Parce qu'on (enfin quand je dis "on"…) considère que le fait que l'employeur participe au financement du régime de prévoyance et de mutuelle (ou frais de santé) constitue pour vous un avantage, une sorte de salaire puisque sans cette participation, vous auriez dû les financer vous-même.
 
 Et comme tout ce qui constitue un salaire direct ou non est soumis à cotisations sociales auprès de l'<abbr title="Union de Recouvrement des cotisations de Sécurité Sociale et Allocations Familiales">URSSAF</abbr>.
 
@@ -183,7 +183,7 @@ Les cotisations de maladie et la CSG-CRDS permettent actuellement le financement
 
 Certes, notre système de santé n'est pas forcément le plus rentable du monde mais n'empêche que pour le moment, on n'est pas obligé d'hypothéquer sa maison pour se faire soigner ! Alors, s'il était super bénéficiaire (c'est-à-dire que les cotisations couvraient largement ces dépenses), ce serait non seulement une bonne nouvelle sur l'état de santé de la population mais la baisse de ces cotisations serait compréhensible. Mais ce n'est pas le cas !
 
-> Pour la petite histoire amusante, la Sécurité Sociale a été fondée en 1945, le  "trou de la Sécu " a été évoqué la première fois en... 1947 ! 
+> Pour la petite histoire amusante, la Sécurité Sociale a été fondée en 1945, le  "trou de la Sécu " a été évoqué la première fois en… 1947 ! 
 
 Accessoirement, c'est également l'<abbr title="Agence Régionale de Santé">ARS</abbr> qui finance les EHPAD (Etablissement d'Hébergement pour Personnes Agées Dépendantes), les établissements pour enfants et adultes handicapés, etc.
 
@@ -199,18 +199,18 @@ Sauf que quand on nous l'a annoncé, beaucoup de TPE-PME (notamment) n'avaient p
 - on adhère à la mutuelle "panier de soins" financée à 50 % par l'employeur (autrement dit on s'acquitte du minimum imposé par la loi) ;
 - les salariés qui le souhaitent peuvent ajouter des "options" (des prestations complémentaires) moyennant un financement personnel.
 
-Lorsque cela a été mis en place, par exemple, dans mon entreprise, la cotisation de base était de 30 € par mois (soit 15 € pour le salarié), et l'option 3 s'élevait à 80 € par mois pour le salarié ! Si vous avez besoin de lunettes, mieux vaut prendre la mutuelle de base et économiser un peu toute l'année parce qu'à 80 balles par mois, vous avez largement payé vos lunettes (960 € par an tout de même !). Du coup, on reporte la charge de la couverture santé sur les salarié·e·s. Et c'est vrai que de nos jours, on a tendance à faire de la solidarité un délit... Alors, certes, au niveau des mutuelles, ça fait un moment que c'est comme ça : plus vous cotisez, et plus vous êtes couvert·e. Et c'est vrai aussi qu'une partie de la population n'avait pas accès à une mutuelle, faute de moyens. Mais dans les faits, l'obligation pour les entreprises de couvrir tout·e·s ses salarié·e·s par une mutuelle, ne compensera pas le désengagement de l'État dans la couverture santé et la précarisation des gens qui ne pourront tout de même pas se permettre de payer les options en plus...
+Lorsque cela a été mis en place, par exemple, dans mon entreprise, la cotisation de base était de 30 € par mois (soit 15 € pour le salarié), et l'option 3 s'élevait à 80 € par mois pour le salarié ! Si vous avez besoin de lunettes, mieux vaut prendre la mutuelle de base et économiser un peu toute l'année parce qu'à 80 balles par mois, vous avez largement payé vos lunettes (960 € par an tout de même !). Du coup, on reporte la charge de la couverture santé sur les salarié·e·s. Et c'est vrai que de nos jours, on a tendance à faire de la solidarité un délit… Alors, certes, au niveau des mutuelles, ça fait un moment que c'est comme ça : plus vous cotisez, et plus vous êtes couvert·e. Et c'est vrai aussi qu'une partie de la population n'avait pas accès à une mutuelle, faute de moyens. Mais dans les faits, l'obligation pour les entreprises de couvrir tout·e·s ses salarié·e·s par une mutuelle, ne compensera pas le désengagement de l'État dans la couverture santé et la précarisation des gens qui ne pourront tout de même pas se permettre de payer les options en plus…
 
 En plus, depuis plusieurs mois, lorsqu'un·e salarié·e quitte son entreprise et perçoit les allocations chômage, iel bénéficie de la portabilité de la mutuelle à titre gratuit pendant maximum 12 mois. Du coup, les mutuelles ont un peu salé l'addition pour "absorber" ces coûts supplémentaires et, bien entendu, ce sont notamment les cotisations de base qui ont augmenté, puisque celle-là, on est sûr que quasiment tout le monde y cotise (hors cas dérogatoires, je pourrai faire un article sur la mutuelle si ça vous intéresse mais pour une fois j'avoue que c'est pas hyper passionnant).
 
-N'oubliez pas que la part patronale de la mutuelle est intégrée au revenu net imposable et à l'assiette de CSG... donc plus les salarié·e·s paient, plus les salarié·e·s paient !
+N'oubliez pas que la part patronale de la mutuelle est intégrée au revenu net imposable et à l'assiette de CSG… donc plus les salarié·e·s paient, plus les salarié·e·s paient !
 
 Et n'oublions pas la prévoyance ! En cas d'arrêt maladie, si votre entreprise y a souscrit, le contrat de prévoyance permet de compléter les IJSS pour garantir X % de votre salaire net. Donc, si ça se passe comme avec les médicaments : 
 
 - la Sécu diminue le taux des IJSS (par exemple, au lieu de vous payer 50 % de votre salaire, elle ne prendre plus en charge que 40 %) ;
 - **donc** le complément de salaire versé par la prévoyance pour respecter le contrat augmente ;
-- **donc** la cotisation prévoyance augmente... qui est inclue dans l'assiette de la cotisation CSG
-- **donc** vous payez davantage de prévoyance **ET** de CSG, alors que son taux vient justement d'augmenter pour compenser la diminution du taux de cotisation maladie...
+- **donc** la cotisation prévoyance augmente… qui est inclue dans l'assiette de la cotisation CSG
+- **donc** vous payez davantage de prévoyance **ET** de CSG, alors que son taux vient justement d'augmenter pour compenser la diminution du taux de cotisation maladie…
 
 Vous suivez ? Non ? C'est normal, c'est le but.
 
@@ -218,13 +218,13 @@ Et les vieux dans tout ça ? on en parle un peu des [vieux](https://youtu.be/tHP
 
 #### Chômage
 
-Que penser de cette diminution des cotisations chômage ? Surtout quand on sait que l'idée est de permettre aux TNS (Travailleurs Non Salariés) et indépendants de percevoir les indemnités chômage mais qu'on en diminue les cotisations... comme dirait ma mère "faut pas sortir de Saint-Cyr pour comprendre où on va"... 
+Que penser de cette diminution des cotisations chômage ? Surtout quand on sait que l'idée est de permettre aux TNS (Travailleurs Non Salariés) et indépendants de percevoir les indemnités chômage mais qu'on en diminue les cotisations… comme dirait ma mère "faut pas sortir de Saint-Cyr pour comprendre où on va"… 
 
-Et vous avez vu comme tout à coup ce sujet de radiation du Pôle Emploi après deux refus d'offre d'emploi est revenu soudainement sur le devant de la scène (alors que ça date de 2008, en fait) ? Je vous laisse faire le rapport...
+Et vous avez vu comme tout à coup ce sujet de radiation du Pôle Emploi après deux refus d'offre d'emploi est revenu soudainement sur le devant de la scène (alors que ça date de 2008, en fait) ? Je vous laisse faire le rapport…
 
-#### Autrement dit...
+#### Autrement dit…
 
-Autrement dit, Mme A, elle a intérêt de les mettre de côté ses 10 € par mois ! Je suis pourtant, assez généralement, pour l'évolution de la société, je ne suis pas vraiment du genre "c'était mieux avant" mais j'avoue que le cap qu'on est en train de viser m'inquiète beaucoup. Quand on voit les répercussions catastrophiques des systèmes de santé ultra-libéraux qu'on voit par exemple outre-atlantique... pourquoi vouloir reproduire ça ici ???
+Autrement dit, Mme A, elle a intérêt de les mettre de côté ses 10 € par mois ! Je suis pourtant, assez généralement, pour l'évolution de la société, je ne suis pas vraiment du genre "c'était mieux avant" mais j'avoue que le cap qu'on est en train de viser m'inquiète beaucoup. Quand on voit les répercussions catastrophiques des systèmes de santé ultra-libéraux qu'on voit par exemple outre-atlantique… pourquoi vouloir reproduire ça ici ???
 
 Alors certes, ça fait une belle façade, on augmente le pouvoir d'achat des salarié·e·s, mais c'est une vision terriblement court-termiste et c'est dangereux à l'échelle d'un pays. Si on devait tous mourir demain, allons-y, supprimons toutes les cotisations sociales et profitons de nos derniers jours sur Terre ! Mais ce n'est pas le cas (ou du moins, y'a pas vraiment moyen d'en être certain donc autant viser le long terme !).
 
@@ -234,15 +234,15 @@ D'ailleurs, vous aurez remarqué que je ne parle jamais de charges sociales mais
 
 **Les mots ont un impact**.
 
-Larousse définit une cotisation comme une "somme versée en vue de contribuer à une dépense commune" et les cotisations sociales comme des "contributions des salariés et/ou de leurs employeurs versées aux différents organismes qui assurent la protection sociale"...
+Larousse définit une cotisation comme une "somme versée en vue de contribuer à une dépense commune" et les cotisations sociales comme des "contributions des salariés et/ou de leurs employeurs versées aux différents organismes qui assurent la protection sociale"…
 
-Ces organismes que nous finançons par nos cotisations assurent notre **protection sociale** et je trouve le terme très important. Parce que quand on le dit comme ça, on change de prisme : on ne gagne pas du pouvoir d'achat pour acheter plus de beurre en fin de mois (oui j'aime bien le beurre, c'est pour faire les gâteaux !), on perd notre protection sociale...
+Ces organismes que nous finançons par nos cotisations assurent notre **protection sociale** et je trouve le terme très important. Parce que quand on le dit comme ça, on change de prisme : on ne gagne pas du pouvoir d'achat pour acheter plus de beurre en fin de mois (oui j'aime bien le beurre, c'est pour faire les gâteaux !), on perd notre protection sociale…
 
-Mais la communication de ces nouvelles mesures a bien sûr été entièrement faite autour du "Rendez-vous compte, Mme A elle sera contente, elle va gagner en pouvoir d'achat ! Et donc consommer plus et payer plus de TVA et... ah mince non attends, Paulo, sors ça du discours !"
+Mais la communication de ces nouvelles mesures a bien sûr été entièrement faite autour du "Rendez-vous compte, Mme A elle sera contente, elle va gagner en pouvoir d'achat ! Et donc consommer plus et payer plus de TVA et… ah mince non attends, Paulo, sors ça du discours !"
 
 Et j'ai eu hier une discussion très intéressante dans le train avec une autre RH, qui m'a expliqué son point de vue et j'avoue que je n'avais jamais envisagé cette hypothèse. Donc pour faire réfléchir et provoquer des discussions, je vous en fais part :)
 
-Vous vous souvenez du prélèvement à la source qui devait commencer au 1er janvier 2018 (j'en profite pour saluer et exprimer toutes mes condoléances à celles et ceux dont la stratégie consistait à charger la mule en 2017, persuadés que 2017 serait la fameuse "année blanche" et qui vont bien douiller en avril) ? Finalement, cette mesure a été repoussée au 1er janvier 2019. Sur le coup, je n'en ai rien pensé de particulier si ce n'est que ces politiciens, ils commencent à me gonfler à tout changer tout le temps, et que ça faisait un an qu'on le préparait et qu'on allait tout devoir refaire...
+Vous vous souvenez du prélèvement à la source qui devait commencer au 1er janvier 2018 (j'en profite pour saluer et exprimer toutes mes condoléances à celles et ceux dont la stratégie consistait à charger la mule en 2017, persuadés que 2017 serait la fameuse "année blanche" et qui vont bien douiller en avril) ? Finalement, cette mesure a été repoussée au 1er janvier 2019. Sur le coup, je n'en ai rien pensé de particulier si ce n'est que ces politiciens, ils commencent à me gonfler à tout changer tout le temps, et que ça faisait un an qu'on le préparait et qu'on allait tout devoir refaire…
 
 Mais cette RH pense que c'est pour une raison de côte de popularité du gouvernement. En effet, ils nous font tout un foin sur l'augmentation du pouvoir d'achat des salariés que je viens de vous exposer. S'ils avaient rajouté le prélèvement à la source, ça aurait annulé voir eu l'effet inverse sur votre salaire net.
 
@@ -254,11 +254,11 @@ Voilà c'est une hypothèse intéressante et je voulais vous en faire profiter.
 
 J'ai lu dans ma documentation juridique ce que nous prévoyait le gouvernement pour la suite et donc comme je suis gentille, je fais tourner !
 
-Le <abbr title="Projet de Loi de Financement">PLF</abbr> et le <abbr title="Projet de Loi de Financement de la Sécurité Sociale">PLFSS</abbr> pour 2018 prévoient la suppression du <abbr title="Crédit d'Impôt Compétitivité Emploi">CICE</abbr>... Whaaaaat ?
+Le <abbr title="Projet de Loi de Financement">PLF</abbr> et le <abbr title="Projet de Loi de Financement de la Sécurité Sociale">PLFSS</abbr> pour 2018 prévoient la suppression du <abbr title="Crédit d'Impôt Compétitivité Emploi">CICE</abbr>… Whaaaaat ?
 
 Oui, apparemment et alors de manière **totalement inattendue**, cette mesure n'aurait pas eu l'effet escompté sur la création d'emplois !
 
-Ah non, attendez, c'est pas pour ça... Ma documentation m'explique que c'est afin que toutes les entreprises puissent "bénéficier d'une exonération de charges patronales simultanément au versement des rémunérations qui y ouvrent droit ".
+Ah non, attendez, c'est pas pour ça… Ma documentation m'explique que c'est afin que toutes les entreprises puissent "bénéficier d'une exonération de charges patronales simultanément au versement des rémunérations qui y ouvrent droit ".
 
 Ahhhhh mais oui, parce qu'un crédit d'impôt de plusieurs millions d'euros par an, merci le Gouvernement, mais bon, faut attendre l'année suivante pour pouvoir y prétendre et pendant ce temps, les entreprises du CAC40 sont obligées de faire l'avance alors c'est compliqué pour acheter des yacht à Noël !
 
@@ -268,18 +268,18 @@ Alors du coup, ils se sont dit :
 > – Tu m'intéresses, vas-y, développe !
 > – Ben, j'ai pensé : le CICE, ça devait créer des emplois mais ces feignasses d'assistés ont pas voulu en profiter alors du coup, on supprime le CICE.
 > – Arrête, les potes, y vont gueuler si on fait ça !
-> – Nan mais attends, à la place on supprime aussi les cotisations patronales ! Comme ça, on récupère la thune au niveau fiscal et on finance plus la maladie et le chômage... les gens y z'avaient qu'à postuler... franchement y'a eu 1 millions d'emplois proposés grâce au CICE... et puis pour la maladie bah, maintenant qu'ils ont la mutuelle obligatoire. On peut virer la Sécu !
+> – Nan mais attends, à la place on supprime aussi les cotisations patronales ! Comme ça, on récupère la thune au niveau fiscal et on finance plus la maladie et le chômage… les gens y z'avaient qu'à postuler… franchement y'a eu 1 millions d'emplois proposés grâce au CICE… et puis pour la maladie bah, maintenant qu'ils ont la mutuelle obligatoire. On peut virer la Sécu !
 > – Whaouuuu j'adore l'idée !
 
 Discussion hypothétique, bien sûr…
 
 Plus sérieusement, quelle est l'idée ?
 
-Premièrement, suppression du CICE... qui je le rappelle est une mesure **fiscale** puisqu'il s'agit bien d'un crédit d'impôts sur les sociétés, qui, certes, est calculé sur la masse salariale mais qui est quand-même un impôt et non une cotisation sociale. Il passera donc de 7 % à 6 % en 2018 et disparaîtra totalement en 2019, remplacé par "une baisse de cotisations **sociales** pérenne dont les entreprises pourront bénéficier immédiatement". J'insiste mais on parle bien de remplacer une mesure **fiscale** par une mesure **sociale**, qui ne financent donc a priori pas du tout les mêmes choses !
+Premièrement, suppression du CICE… qui je le rappelle est une mesure **fiscale** puisqu'il s'agit bien d'un crédit d'impôts sur les sociétés, qui, certes, est calculé sur la masse salariale mais qui est quand-même un impôt et non une cotisation sociale. Il passera donc de 7 % à 6 % en 2018 et disparaîtra totalement en 2019, remplacé par "une baisse de cotisations **sociales** pérenne dont les entreprises pourront bénéficier immédiatement". J'insiste mais on parle bien de remplacer une mesure **fiscale** par une mesure **sociale**, qui ne financent donc a priori pas du tout les mêmes choses !
 
-_Et alors au cas où vous auriez pas fait attention à la subtilité : le CICE sera diminué d'1 point dès 2018 alors que la réduction des cotisations sociales ne sera que pour 2019... Bref, préparez-vous à voir débarquer le Medef dans la rue, hurlant contre cette spoliation inadmissible, alors qu'ils créent des millions d'emploi par an et que si c'est comme ça, faut pas s'étonner que les patrons s'exilent dans les paradis fiscaux et font de l'optimisation fiscale (oui on dit "optimisation fiscale" parce que fraude ça fait moche, c'est comme si on trichait) !_
+_Et alors au cas où vous auriez pas fait attention à la subtilité : le CICE sera diminué d'1 point dès 2018 alors que la réduction des cotisations sociales ne sera que pour 2019… Bref, préparez-vous à voir débarquer le Medef dans la rue, hurlant contre cette spoliation inadmissible, alors qu'ils créent des millions d'emploi par an et que si c'est comme ça, faut pas s'étonner que les patrons s'exilent dans les paradis fiscaux et font de l'optimisation fiscale (oui on dit "optimisation fiscale" parce que fraude ça fait moche, c'est comme si on trichait) !_
 
-Ok, et donc en quoi ça consiste cette baisse des cotisations sociales ? Je sais pas si vous vous rappelez mais y'a un vieux bouquin qui dit que si on te mets une baffe, faut tendre l'autre joue... ou équivalent (je parle pas l'araméen :P). Eh ben, là, ils se sont dit que comme ça avait si bien marché avec le CICE, ils allaient refaire pareil avec les cotisations sociales : on change pas une méthode qui marche pas, on est la Nation Française ! L'idée de base c'est que ça coûte trop cher d'embaucher, et que si on baisse les cotisations sociales, du coup les employeurs ils vont créer des tas et des tas d'emplois !!!
+Ok, et donc en quoi ça consiste cette baisse des cotisations sociales ? Je sais pas si vous vous rappelez mais y'a un vieux bouquin qui dit que si on te mets une baffe, faut tendre l'autre joue… ou équivalent (je parle pas l'araméen :P). Eh ben, là, ils se sont dit que comme ça avait si bien marché avec le CICE, ils allaient refaire pareil avec les cotisations sociales : on change pas une méthode qui marche pas, on est la Nation Française ! L'idée de base c'est que ça coûte trop cher d'embaucher, et que si on baisse les cotisations sociales, du coup les employeurs ils vont créer des tas et des tas d'emplois !!!
 
 Dès le 1er janvier 2019, donc :
 
@@ -299,7 +299,7 @@ Ce qui correspond à une augmentation totale de l'allègement des cotisations so
 - versement transport (pour les entreprises de plus de 11 salarié·e·s, taux dépendant de la commune dans laquelle vous vous trouvez) ;
 - participation à l'effort construction (qui sert à financer la construction de logements sociaux) au taux de 0,45 % du salaire brut.
 
-Donc comme vous le voyez, nulle cotisation relative à la maladie non-professionnelle, le chômage (si ce n'est 0,15 % d'AGS), la retraite complémentaire (pour la tranche A du salaire non-cadre)... bref, notre protection sociale !
+Donc comme vous le voyez, nulle cotisation relative à la maladie non-professionnelle, le chômage (si ce n'est 0,15 % d'AGS), la retraite complémentaire (pour la tranche A du salaire non-cadre)… bref, notre protection sociale !
 
 ## Conclusion
 

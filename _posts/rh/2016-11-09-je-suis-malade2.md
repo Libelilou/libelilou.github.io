@@ -7,7 +7,7 @@ tags:
 ---
 
 Entrons maintenant dans le vif du sujet : comment ça se passe exactement ?
-Petite précision : je parle ici et dans les articles suivants de ce qu'on appelle la "maladie non professionnelle" parce que l'accident de travail et la maladie professionnelle sont une toute autre histoire (qui feront peut-être l'objet d'un autre article si ça vous intéresse)...
+Petite précision : je parle ici et dans les articles suivants de ce qu'on appelle la "maladie non professionnelle" parce que l'accident de travail et la maladie professionnelle sont une toute autre histoire (qui feront peut-être l'objet d'un autre article si ça vous intéresse)…
 
 ### La procédure
 
@@ -16,11 +16,11 @@ La procédure _normale_ c'est :
 1. je tombe malade (je rappelle que la gueule de bois et la flemme n'entrent pas dans les maladies reconnues par la Sécurité Sociale !!!) ;
 2. je vais voir mon médecin (si possible, le jour-même, ça évite d'avoir un arrêt anti-daté si arrêt il y a);
 3. il décrète que mon état de santé ne me permet pas de travailler pendant X jours et me délivre un arrêt de travail pour maladie de X jours ;
-4. je VÉRIFIE que tous les champs sont bien remplis et, si ce n'est pas le cas, je REMPLIS moi-même les champs (nom, prénom, numéro de sécu, adresse, nom et adresse de l'employeur... on est d'accord que c'est pas un quizz de physique quantique : vous connaissez normalement toutes les réponses !) ;
+4. je VÉRIFIE que tous les champs sont bien remplis et, si ce n'est pas le cas, je REMPLIS moi-même les champs (nom, prénom, numéro de sécu, adresse, nom et adresse de l'employeur… on est d'accord que c'est pas un quizz de physique quantique : vous connaissez normalement toutes les réponses !) ;
 5. et maintenant ? eh bien vous avez **48 heures** pour informer la Sécu et votre employeur de cet arrêt :
- - version "médecin traditionnel" : le Cerfa marron comprend 3 feuillets (NB : pour éviter de recopier 20 fois les mêmes infos, c'est du papier carbone, donc évitez d'utiliser cet arrêt comme sous-main pour écrire des trucs persos... True story !), les 2 premiers volets sont à envoyer par courrier à la Sécu (vous pouvez également l'y porter directement, dans les deux cas, il arrive que ça se perde de toutes façons !), le 3ème à votre employeur.
+ - version "médecin traditionnel" : le Cerfa marron comprend 3 feuillets (NB : pour éviter de recopier 20 fois les mêmes infos, c'est du papier carbone, donc évitez d'utiliser cet arrêt comme sous-main pour écrire des trucs persos… True story !), les 2 premiers volets sont à envoyer par courrier à la Sécu (vous pouvez également l'y porter directement, dans les deux cas, il arrive que ça se perde de toutes façons !), le 3ème à votre employeur.
  - version "médecin moderne" : il télétransmettra via la carte vitale votre arrêt maladie et ne vous imprimera qu'une seule version à envoyer à votre employeur (toujours dans les 48 heures).
-> NB : attention, en cas de non-respect de ce délai de 48 heures, la Sécu pourrait vous sanctionner... Je n'ai encore jamais vu le cas mais c'est en tous cas possible.
+> NB : attention, en cas de non-respect de ce délai de 48 heures, la Sécu pourrait vous sanctionner… Je n'ai encore jamais vu le cas mais c'est en tous cas possible.
 
 6. l'employeur doit ensuite de son côté télétransmettre une attestation de salaire dès réception de l'arrêt : cette attestation sert de base au calcul des IJSS (Indemnités Journalières de la Sécurité Sociale). Donc, plus vous tardez à envoyer cet arrêt à votre employeur, et plus vous attendrez pour percevoir les indemnités de la Sécu.
 > NB : lorsque vous êtes en période de chômage, c'est au Pôle Emploi que vous devez envoyer votre arrêt maladie, car pendant toute la durée de votre arrêt maladie, les indemnités de la Sécurité Sociale prendront le relai sur les indemnités chômage.
@@ -34,7 +34,7 @@ Le médecin peut tout de même autoriser des sorties sans restriction d'horaires
 
 Bref, vous l'aurez compris, les sorties autorisées, c'est pas pour aller passer la journée à Aqualand ! Et encore une fois, en cas de non-respect de ces conditions, vos indemnités pourraient être réduites, voire stoppées.
 
-> NB : vous pouvez aussi recevoir une convocation pour un entretien auprès du Service Médical de la Sécu... Ce n'est pas une option ! Vous êtes dans l'obligation de vous y rendre ! Et la encore, si la Sécu juge que votre arrêt n'est plus justifié, si vous travaillez pendant votre arrêt maladie (j'ai déjà eu le cas...) ou si vous ne respectez pas les heures de sorties, vos indemnités peuvent être réduites ou suspendues.
+> NB : vous pouvez aussi recevoir une convocation pour un entretien auprès du Service Médical de la Sécu… Ce n'est pas une option ! Vous êtes dans l'obligation de vous y rendre ! Et la encore, si la Sécu juge que votre arrêt n'est plus justifié, si vous travaillez pendant votre arrêt maladie (j'ai déjà eu le cas…) ou si vous ne respectez pas les heures de sorties, vos indemnités peuvent être réduites ou suspendues.
 
 > NB 2 : votre employeur peut demander un "contrôle Sécu" pendant votre arrêt maladie. Concrètement, il fait appel à un organisme privé et paie pour qu'un médecin (pas celui qui vous a prescrit l'arrêt bien entendu) vous rende une petite visite et vérifie que votre arrêt de travail est bien justifié. Si vous êtes en sorties autorisées "sans restrictions d'horaires" vous serez dans ce cas convoqué directement dans un cabinet médical.
 

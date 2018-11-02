@@ -6,7 +6,7 @@ tags:
   - maladie
 ---
 
-Alors : j'avais commencé à rédiger un article de 10 pages sur l'arrêt maladie (parce qu'il y a tant de choses à dire !!!). Donc j'ai décidé de "tronçonner" mon article en plusieurs parties parce que mon mari m'a dit que c'était "gentiment imbitable" de lire tout ça d'un coup. Donc, comme c'est mon meilleur public, je suis ses conseils. J'espère que vous prendrez plaisir à lire tous ces articles... un par un ;p
+Alors : j'avais commencé à rédiger un article de 10 pages sur l'arrêt maladie (parce qu'il y a tant de choses à dire !!!). Donc j'ai décidé de "tronçonner" mon article en plusieurs parties parce que mon mari m'a dit que c'était "gentiment imbitable" de lire tout ça d'un coup. Donc, comme c'est mon meilleur public, je suis ses conseils. J'espère que vous prendrez plaisir à lire tous ces articles… un par un ;p
 
 ## Un peu d'histoire
 
@@ -24,19 +24,19 @@ Toute ressemblance avec des situations ayant existé ne sont pas du tout fortuit
 
 > "Non mais là, ça va pas du tout, je vais me mettre en arrêt maladie"
 
-Alors, techniquement, à moins d'être médecin, vous ne pouvez pas _vous_ mettre en en arrêt maladie. Comme son nom l'indique, l'arrêt maladie est dû à... ben à une _maladie_ et donc l'arrêt maladie est délivré par le médecin. Ceci-dit, je suis tout aussi choquée lorsque mon médecin me demande : "Vous voulez un arrêt maladie ?" Bref.  
+Alors, techniquement, à moins d'être médecin, vous ne pouvez pas _vous_ mettre en en arrêt maladie. Comme son nom l'indique, l'arrêt maladie est dû à… ben à une _maladie_ et donc l'arrêt maladie est délivré par le médecin. Ceci-dit, je suis tout aussi choquée lorsque mon médecin me demande : "Vous voulez un arrêt maladie ?" Bref.  
 
 ---
 
 > "Fais-toi arrêter au moins 4 jours, sinon tu perds la carence !"
 
-Huh uh... Sauf que même si votre arrêt maladie dure 100 jours, vous aurez quand-même perdu la carence ! Et encore une fois, c'est en principe le médecin qui est le seul habilité à prévoir la durée de votre arrêt maladie !
+Huh uh… Sauf que même si votre arrêt maladie dure 100 jours, vous aurez quand-même perdu la carence ! Et encore une fois, c'est en principe le médecin qui est le seul habilité à prévoir la durée de votre arrêt maladie !
 
 Petite précision : la Sécu applique un délai de carence, indépendemment de votre Convention Collective. En effet, certaines conventions stipulent un délai de carence d'un seul jour (petits veinards !) : dans ce cas, ça veut dire que c'est votre entreprise qui prend à sa charge (charge financière, je veux dire) la carence de la Sécu. Votre entreprise ne sera jamais indemnisée pour ces 2 jours supplémentaires.
 
 ---
 
-Et en vrac, toutes les autres petites choses qui nous énervent, nous les RH : les arrêts maladie anti-datés par le médecin 10 jours après le jour de maladie (je n'exagère pas !), les "migraines" et "gastros" du lundi matin "mais demain ça ira mieux" (moi j'appelle ça une gueule de bois...), l'arrêt maladie du jour dont on avait justement besoin pour un rendez-vous privé quelques jours plus tôt et qui a été refusé par la direction (marche aussi avec les congés payés refusés), etc.
+Et en vrac, toutes les autres petites choses qui nous énervent, nous les RH : les arrêts maladie anti-datés par le médecin 10 jours après le jour de maladie (je n'exagère pas !), les "migraines" et "gastros" du lundi matin "mais demain ça ira mieux" (moi j'appelle ça une gueule de bois…), l'arrêt maladie du jour dont on avait justement besoin pour un rendez-vous privé quelques jours plus tôt et qui a été refusé par la direction (marche aussi avec les congés payés refusés), etc.
 
 Heureusement que ces cas sont rares et ne représentent pas la majorité de arrêts.
 

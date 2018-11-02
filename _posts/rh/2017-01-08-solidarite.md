@@ -1,6 +1,6 @@
 ---
-title : "\"Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux...\""
-introduction: "\"Peut-être le sort a-t-il voulu qu'aujourd'hui soit le 5 juin. Vous allez une fois de plus devoir défendre notre solidarité. Non pas de la tyrannie, de l'oppression, de la persécution... Mais de la canicule. Vous travaillerez une jour de plus pour notre droit de vivre. D'exister.\""
+title : "\"Et toi, plus moi, plus lui, plus elle, plus tous ceux qui sont vieux…\""
+introduction: "\"Peut-être le sort a-t-il voulu qu'aujourd'hui soit le 5 juin. Vous allez une fois de plus devoir défendre notre solidarité. Non pas de la tyrannie, de l'oppression, de la persécution… Mais de la canicule. Vous travaillerez une jour de plus pour notre droit de vivre. D'exister.\""
 post-color: 5
 tags:
   - temps de travail
@@ -12,17 +12,17 @@ Cette fois-ci, je remercie [@jwajsberg](https://twitter.com/jwajsberg) de m'avoi
 
 <i lang="en">Princesse RH proudly presents</i> : la journée de solidarité !! Vous savez, celle dont tout le monde parle sans trop savoir de quoi il s'agit. D'où ça vient ? Comment ça marche ? Et d'abord la solidarité avec qui ?! On se calme, on se calme !! On va parler de tout ça :D
 
-> Instant "je fais ma prof relou de troisième" : pour ceux qui ne l'auraient pas fait, je vous conseille vivement de lire mon précédent article sur [la durée du travail](https://libelilou.github.io/2016/12/30/horaires.html). C'est pas pour faire ma propre pub mais c'est parce que j'aborderai dans cet article des notions de durée du travail que j'explique justement dans l'article précédent... vous suivez ?
+> Instant "je fais ma prof relou de troisième" : pour ceux qui ne l'auraient pas fait, je vous conseille vivement de lire mon précédent article sur [la durée du travail](https://libelilou.github.io/2016/12/30/horaires.html). C'est pas pour faire ma propre pub mais c'est parce que j'aborderai dans cet article des notions de durée du travail que j'explique justement dans l'article précédent… vous suivez ?
 
-# Il était une fois...
+# Il était une fois…
 
-En fait, la journée de solidarité ne remonte pas à si loin que ça. On se souvient tous (enfin peut-être pas les petits jeunes) de cet été 2003... Mais si, celui de la méga canicule qu'on n'avait pas vraiment prévue ! Enfin, pour être honnête, on se souvient surtout des (morbides) conséquences sur les pauvres petits vieux qui vivaient seuls chez eux...
+En fait, la journée de solidarité ne remonte pas à si loin que ça. On se souvient tous (enfin peut-être pas les petits jeunes) de cet été 2003… Mais si, celui de la méga canicule qu'on n'avait pas vraiment prévue ! Enfin, pour être honnête, on se souvient surtout des (morbides) conséquences sur les pauvres petits vieux qui vivaient seuls chez eux…
 
-Bref, suite à cet été caniculaire, le gouvernement de Mr Raffarin s'est donc creusé les méninges pour trouver une solution afin que la prochaine fois, la France soit préparée ! Et en général, en France, quand le gouvernement trouve une solution... c'est souvent d'aller récupérer un peu plus de thunes auprès des entreprises (on va pas aller directement la prendre dans la poche de ceux qui votent, quand même) !
+Bref, suite à cet été caniculaire, le gouvernement de Mr Raffarin s'est donc creusé les méninges pour trouver une solution afin que la prochaine fois, la France soit préparée ! Et en général, en France, quand le gouvernement trouve une solution… c'est souvent d'aller récupérer un peu plus de thunes auprès des entreprises (on va pas aller directement la prendre dans la poche de ceux qui votent, quand même) !
 
-Sauf que les entreprises (enfin, les patrons, les administrateurs et les actionnaires), comment dire ? Ils sont pas absolument fans des augmentations de cotisations sociales ! Mais bon, en même temps, pour le coup, ils pouvaient pas non plus gueuler trop ouvertement... Vous les voyez aller gueuler sous les fenêtres de l'Elysée : <q>Les vieux, les vieux, on s'en fout !!</q>. Même si on anticipait déjà le problème de la retraite des baby-boomers, ç'aurait fait franchement mauvais genre ! 
+Sauf que les entreprises (enfin, les patrons, les administrateurs et les actionnaires), comment dire ? Ils sont pas absolument fans des augmentations de cotisations sociales ! Mais bon, en même temps, pour le coup, ils pouvaient pas non plus gueuler trop ouvertement… Vous les voyez aller gueuler sous les fenêtres de l'Elysée : <q>Les vieux, les vieux, on s'en fout !!</q>. Même si on anticipait déjà le problème de la retraite des baby-boomers, ç'aurait fait franchement mauvais genre ! 
 
-Si on peut pas refuser une mesure, on peut au moins négocier une contrepartie acceptable... Et si vous êtes responsable d'une entreprise et qu'on augmente vos charges, la seule contrepartie acceptable, c'est d'augmenter aussi les produits (parce que dans le cas présent, réduire leurs impôts auraient été un peu contre-productif, un peu comme [<q><i>déshydrater</i> Pierre pour <i>hydrater</i> Paul</q>](https://fr.wiktionary.org/wiki/d%C3%A9shabiller_Pierre_pour_habiller_Paul). Et comment on génère plus de chiffre quand on est une entreprise ? Par exemple, en faisant bosser gratos les employés une journée de plus ! Parce qu'après tout, pourquoi les salariés seraient pas eux aussi solidaires ? Et pour les mêmes raisons que leurs employeurs, les risques de les voir descendre dans la rue étaient assez limités.
+Si on peut pas refuser une mesure, on peut au moins négocier une contrepartie acceptable… Et si vous êtes responsable d'une entreprise et qu'on augmente vos charges, la seule contrepartie acceptable, c'est d'augmenter aussi les produits (parce que dans le cas présent, réduire leurs impôts auraient été un peu contre-productif, un peu comme [<q><i>déshydrater</i> Pierre pour <i>hydrater</i> Paul</q>](https://fr.wiktionary.org/wiki/d%C3%A9shabiller_Pierre_pour_habiller_Paul). Et comment on génère plus de chiffre quand on est une entreprise ? Par exemple, en faisant bosser gratos les employés une journée de plus ! Parce qu'après tout, pourquoi les salariés seraient pas eux aussi solidaires ? Et pour les mêmes raisons que leurs employeurs, les risques de les voir descendre dans la rue étaient assez limités.
 
 Au final, le gouvernement a donc proposé (ou imposé plutôt) une double solution (Loi du 30 juin 2004) :
 
@@ -37,7 +37,7 @@ Petite précision : en réalité, les revenus générés par cette nouvelle coti
 
 #  La CSA (à ne pas confondre avec **le** CSA !)
 
-La **Contribution Solidarité Autonomie** est une cotisation patronale (qui ne concerne donc que l'employeur) de 0,30&#8239;% de votre salaire brut. Elle est collectée par l'URSSAF (Union de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales - bon qui, depuis, collecte aussi les cotisations reversées au Pôle Emploi et de plein d'autres cotisations mais après on finit avec un sigle aussi long que... bref) puis reversée à la CNSA.
+La **Contribution Solidarité Autonomie** est une cotisation patronale (qui ne concerne donc que l'employeur) de 0,30&#8239;% de votre salaire brut. Elle est collectée par l'URSSAF (Union de Recouvrement des Cotisations de Sécurité Sociale et d'Allocations Familiales - bon qui, depuis, collecte aussi les cotisations reversées au Pôle Emploi et de plein d'autres cotisations mais après on finit avec un sigle aussi long que… bref) puis reversée à la CNSA.
 
 N'allez pas vous coller un strabisme à loucher sur votre bulletin de paie, cette cotisation peut être additionnée à la cotisation "maladie" (si vous avez une cotisation patronale de 13.14&#8239;% en maladie sur votre bulletin de paie de décembre, c'est en fait 12.84&#8239;% de maladie + 0.30&#8239;% de CSA).  
 
@@ -53,10 +53,10 @@ Pierre coûte donc soudain à son employeur : 2&#8239;000 € &times; 0.30&#8239
 Alors, soit je suis très mauvaise en calcul, soit les syndicats employeurs qui ont négocié cette "journée de solidarité" se sont bien fait plaisir :
 
 - charge supplémentaire pour l'entreprise = CSA = 72&#8239;€ par an ;
-- gain supplémentaire pour l'entreprise  = faire travailler Pierre une journée de plus, ce qui lui rapporte au moins... 131.80&#8239;€ ;
+- gain supplémentaire pour l'entreprise  = faire travailler Pierre une journée de plus, ce qui lui rapporte au moins… 131.80&#8239;€ ;
 - résultat des courses = la modique somme de 60&#8239;€ de gain pour l'entreprise (et on ne parle que d'un seul salarié, là).
 
-Alors, bien entendu, ce ne sont que des calculs "à la louche" et un peu simplistes (il faudrait en effet prendre en compte, si on voulait être tout à fait honnêtes, les charges fixes de l'entreprise car faire travailler ses salariés une journée de plus revient à "mettre en service" l'entreprise une journée de plus : eau, électricité, chauffage, téléphone, etc.) mais bon... quand-même...
+Alors, bien entendu, ce ne sont que des calculs "à la louche" et un peu simplistes (il faudrait en effet prendre en compte, si on voulait être tout à fait honnêtes, les charges fixes de l'entreprise car faire travailler ses salariés une journée de plus revient à "mettre en service" l'entreprise une journée de plus : eau, électricité, chauffage, téléphone, etc.) mais bon… quand-même…
 
 # La journée de solidarité
 
@@ -66,7 +66,7 @@ Je pense qu'afin d'éviter un bordel général en France, la loi de 2004 prévoy
 
 <span lang="en">**Fun fact n°1**</span> : Cette journée peut ne pas être la même pour tous les salariés d'une même entreprise (pour les entreprises en service continu par exemple : santé, transports publics, etc.), en fonction de leur organisation de travail.
 
-<span lang="en">**Fun fact n°2**</span> : Cette journée peut même n'être pas une journée ! Whaaat ? Oui, car la loi prévoit certains cas exceptionnels dans lesquels la journée de solidarité peut être "fractionnée" et donc effectuée en plusieurs fois. C'est le cas, par exemple, des [<span lang="en">"workaholics"</span>](https://fr.wikipedia.org/wiki/Bourreau_de_travail) de l'article précédent qui bossent 282 jours / an (ouais parce qu'à ce niveau-là, on aurait pu considérer qu'ils font largement leur journée de solidarité... [oui mais non](https://youtu.be/fVb8dBQ7jKg), on leur laisse plutôt l'opportunité de fractionner la journée de solidarité sur plusieurs jours pendant lesquels ils travailleront une heure de plus que prévu !). Attention, il s'agit de cas bien spécifiques. <i lang="en">True (illegal) story</i> : le patron qui explique que plutôt que de faire revenir ses salariés sur un jour férié, il leur a demandé de bosser 5 minutes de plus tous les jours !!
+<span lang="en">**Fun fact n°2**</span> : Cette journée peut même n'être pas une journée ! Whaaat ? Oui, car la loi prévoit certains cas exceptionnels dans lesquels la journée de solidarité peut être "fractionnée" et donc effectuée en plusieurs fois. C'est le cas, par exemple, des [<span lang="en">"workaholics"</span>](https://fr.wikipedia.org/wiki/Bourreau_de_travail) de l'article précédent qui bossent 282 jours / an (ouais parce qu'à ce niveau-là, on aurait pu considérer qu'ils font largement leur journée de solidarité… [oui mais non](https://youtu.be/fVb8dBQ7jKg), on leur laisse plutôt l'opportunité de fractionner la journée de solidarité sur plusieurs jours pendant lesquels ils travailleront une heure de plus que prévu !). Attention, il s'agit de cas bien spécifiques. <i lang="en">True (illegal) story</i> : le patron qui explique que plutôt que de faire revenir ses salariés sur un jour férié, il leur a demandé de bosser 5 minutes de plus tous les jours !!
 
 <span lang="en">**Fun fact n°3**</span> : à défaut d'accord collectif ou si celui-ci fixe la journée de solidarité sur un jour férié, il faudra acter une autre modalité pour les mineurs (les petits jeunes, pas ceux de Germinal) car la loi interdit - sauf cas très particuliers - le travail des mineurs les jours fériés.
 
@@ -90,7 +90,7 @@ Alors, là, attention à ne pas se mélanger les pinceaux dans les calculs !
 
 En effet, comme je l'évoquais précédemment, la loi fixe un maximum de 218 jours annuels pour les salariés en forfait en jours. Ce forfait peut être fixé à un nombre de jour supérieur par un accord collectif mais les jours supplémentaires seront dans ce cas majorés (dans le salaire, s'entend).
 
-On pourrait alors penser que les salariés en forfait en jours peuvent ainsi effectuer leur journée de solidarité sur un samedi ou un jour férié ou "perdre" un JRTT... **Sauf que** ce plafond de 218 jours **inclut déjà la journée de solidarité**. En effet, avant 2004, le plafond légal des salariés en forfait en jours était de 217 jours. Lorsque les modalités de la journée de solidarité ont été votées, le plafond légal a été immédiatement réajusté à 218 jours pour prendre en compte cette journée de travail supplémentaire.
+On pourrait alors penser que les salariés en forfait en jours peuvent ainsi effectuer leur journée de solidarité sur un samedi ou un jour férié ou "perdre" un JRTT… **Sauf que** ce plafond de 218 jours **inclut déjà la journée de solidarité**. En effet, avant 2004, le plafond légal des salariés en forfait en jours était de 217 jours. Lorsque les modalités de la journée de solidarité ont été votées, le plafond légal a été immédiatement réajusté à 218 jours pour prendre en compte cette journée de travail supplémentaire.
 
 En revanche, ce qui va pouvoir varier, c'est le nombre de JRTT. Je m'explique :
 
@@ -134,7 +134,7 @@ Si vous changez d'employeur en cours d'année et que vous avez déjà effectué 
 
 Attention : 
 - votre employeur ne peut pas vous imposer de poser une journée de congés ce jour-là ([arrêt de la Cour de Cassation n°08-40047](https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000020826423&fastReqId=983947156&fastPos=1))
-- en revanche, si l'employeur accepte, vous pouvez poser un jour de congés ce jour-là, qui vous sera donc décompté normalement comme un jour de congés classique. Je m'explique : si vous posez des congés du 10 au 23 juillet 2017, on devrait vous décompter seulement 11 jours de congés payés... sauf si votre employeur fixe la journée de solidarité au 14 juillet 2017, auquel cas, on vous décomptera 12 jours de congés payés puisque le 14 juillet n'était pas considéré comme un jour férié chômé mais comme une journée travaillée.
+- en revanche, si l'employeur accepte, vous pouvez poser un jour de congés ce jour-là, qui vous sera donc décompté normalement comme un jour de congés classique. Je m'explique : si vous posez des congés du 10 au 23 juillet 2017, on devrait vous décompter seulement 11 jours de congés payés… sauf si votre employeur fixe la journée de solidarité au 14 juillet 2017, auquel cas, on vous décomptera 12 jours de congés payés puisque le 14 juillet n'était pas considéré comme un jour férié chômé mais comme une journée travaillée.
 
 ### JRTT
 
@@ -152,7 +152,7 @@ La première règle à retenir quand on parle des stagiaires est celle-ci : les 
 
 Les stagiaires n'ont donc pas à travailler le dimanche, ni les jours fériés. La journée de solidarité reste donc pour les stagiaires un jour férié comme les autres. 
 
-Sauf... (oui parce que vous commencez à être habitué maintenant, il y a toujours des exceptions en droit du travail), sauf donc si la convention de stage prévoit expressément la présence du stagiaire cette journée là.
+Sauf… (oui parce que vous commencez à être habitué maintenant, il y a toujours des exceptions en droit du travail), sauf donc si la convention de stage prévoit expressément la présence du stagiaire cette journée là.
 
 
 Voilà, vous pouvez enfin reprendre le cours de votre vie :D ! Merci à vous, qui êtes de plus en plus nombreux à me lire, j'espère qu'ensemble, on pourra un jour changer le monde !!!

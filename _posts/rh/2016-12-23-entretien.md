@@ -16,7 +16,7 @@ Tout d'abord, merci à [@Uxlco](https://twitter.com/Uxlco0) de m'avoir proposé 
 
 Premièrement, une idée très simple à retenir : "L'entretien d'embauche est un jeu". Et avant de jouer à un jeu, quel qu'il soit, on en étudie les règles.
 
-Deuxièmement, un entretien, ça se prépare. Entrainez-vous avec votre famille, vos amis, le concierge, la fleuriste en bas de chez vous... C'est un peu comme pour de l'impro au théâtre, on ne peut pas répéter les dialogues à l'avance, mais on peut quand-même s'y préparer.
+Deuxièmement, un entretien, ça se prépare. Entrainez-vous avec votre famille, vos amis, le concierge, la fleuriste en bas de chez vous… C'est un peu comme pour de l'impro au théâtre, on ne peut pas répéter les dialogues à l'avance, mais on peut quand-même s'y préparer.
 
 [Trimo](https://youtu.be/5OhvWT9UK64?t=1m27s) : **ne mentez pas**, ni sur vos connaissances, ni sur vos compétences, ni dans les expériences que vous avez eues. Vous n'avez aucune idée de qui sera en face de vous, de ses connaissances, de ses relations, etc. Donc évitez de vous griller. Quoi qu'on en dise, le milieu dans lequel vous travaillez est probablement un "petit" milieu ou beaucoup de décideurs se connaissent et discutent.
 
@@ -24,7 +24,7 @@ Deuxièmement, un entretien, ça se prépare. Entrainez-vous avec votre famille,
 
 Et ça marche dans les deux sens. Certes, en général, c'est surtout le recruteur qui "domine" dans l'entretien, d'abord parce que c'est lui qui vous pose les questions, ensuite parce que, souvent, le recruteur a plus de candidats à voir que vous n'avez d'entretiens à passer. Il y a toujours cette idée - en grande partie due aux communications incessantes des medias sur le taux de chômage - que le candidat a bien plus besoin du recruteur que l'inverse. Et pourtant, si le recruteur a publié une annonce d'embauche, ce n'est pas pour passer le temps !
 
-Vous allez, en passant l'entretien, essayer de  connaître un peu plus le recruteur, pour savoir si vous apprécieriez de travailler là... Ne l'oubliez pas.  N'allez pas à l'entretien en pensant que vous êtes le seul à être jugé. Allez-y aussi en juge : si les réponses que vous donnez permettent au recruteur de mieux vous cerner, **ses** questions vous permettent de mieux le/la cerner.
+Vous allez, en passant l'entretien, essayer de  connaître un peu plus le recruteur, pour savoir si vous apprécieriez de travailler là… Ne l'oubliez pas.  N'allez pas à l'entretien en pensant que vous êtes le seul à être jugé. Allez-y aussi en juge : si les réponses que vous donnez permettent au recruteur de mieux vous cerner, **ses** questions vous permettent de mieux le/la cerner.
 
 En ne perdant jamais de vue que chacun de vous essaiera de se montrer sous son meilleur jour.
 L'annonce ne stipulait probablement pas : "travail chiant et répétitif, paie misérable, ambiance pourrie, café dégueulasse".
@@ -41,14 +41,14 @@ C'est-à-dire que vous aurez noté à l'avance la date, l'heure, le lieu (si vou
 
 True stories :
 - 8 heures, premier appel : "ouais, je m'appelle Bidule, j'ai rendez-vous mais j'sais plus à quelle heure" => c'est balot, la personne qui vous répond n'est pas forcément au courant de cet entretien, et elle a autre chose à faire de sa matinée que d'appeler la moitié de l'équipe admin pour savoir qui a un entretien avec Bidule
-- 10h10, appel : "ouais, bonjour, j'avais RDV avec Machin à 10 heures mais en fait, bah, euh, j'suis perdu... vous êtes où ? moi je suis telle rue, je vais où la maintenant ?" => dommage, vous êtes tombé sur la personne qui pourrait se perdre dans sa propre baraque...
-- 10h30, arrivée à l'acceuil : "ouais bonjour euh, j'ai rendez-vous avec euh... bah... euh... je sais plus trop en fait"
+- 10h10, appel : "ouais, bonjour, j'avais RDV avec Machin à 10 heures mais en fait, bah, euh, j'suis perdu… vous êtes où ? moi je suis telle rue, je vais où la maintenant ?" => dommage, vous êtes tombé sur la personne qui pourrait se perdre dans sa propre baraque…
+- 10h30, arrivée à l'acceuil : "ouais bonjour euh, j'ai rendez-vous avec euh… bah… euh… je sais plus trop en fait"
 
 Bref, soyez malin, ne ruinez pas complètement vos chances avant même d'avoir commencé votre entretien.
 
 ## Soyez présentable
 
-Oui, ça a l'air stupide de le rappeler... Et pourtant ! Alors, bien sûr, tout dépend de l'emploi pour lequel vous passez le-dit entretien mais il y a un juste milieu entre la queue de pie et le yogging dégueulasse du dimanche de glande sur canapé ! Eh ouais, "venez comme vous êtes" ça marche que chez McDo :D
+Oui, ça a l'air stupide de le rappeler… Et pourtant ! Alors, bien sûr, tout dépend de l'emploi pour lequel vous passez le-dit entretien mais il y a un juste milieu entre la queue de pie et le yogging dégueulasse du dimanche de glande sur canapé ! Eh ouais, "venez comme vous êtes" ça marche que chez McDo :D
 
 Donc : soignez votre apparence. Et pas seulement les fringues : les ongles propres, c'est mieux. Les cheveux propres, aussi. Si vous êtes enrhumés, prévoyez de passer à la pharmacie **avant** l'entretien (vous avez jamais eu envie de dégommer le collègue qui renifle à côté de vous pendant une heure ?). Ne fumez pas une cigarette juste avant, vous ne savez pas qui vous aurez en face. Si vous avez un chewing-gum, crachez-le avant, on n'est pas au salon de l'agriculture. Bref, des trucs de base quoi :)
 
@@ -58,27 +58,27 @@ Essayez de repérer vos tics de langage et faites votre maximum pour les contrô
 
 ## Soyez "vrai"
 
-Evitez d'inventer ! Déjà, c'est stupide parce que vous savez jamais si la personne en face sera effectivement [passionnée de kayak](https://youtu.be/MQjvpPpAjgo?t=1m16s) et là vous vous serez grillé tout seul ! Ensuite parce qu'imaginez que vous êtes embauché et que le sujet revienne plus tard... j'espère que vous êtes assis sur une branche en adamantium !
+Evitez d'inventer ! Déjà, c'est stupide parce que vous savez jamais si la personne en face sera effectivement [passionnée de kayak](https://youtu.be/MQjvpPpAjgo?t=1m16s) et là vous vous serez grillé tout seul ! Ensuite parce qu'imaginez que vous êtes embauché et que le sujet revienne plus tard… j'espère que vous êtes assis sur une branche en adamantium !
 
-... mais y'a des limites ! Je respecte le "oui, de 2004 à 2007, j'ai fait le choix d'élever mes enfants" mais beaucoup moins le "pffff, bah... j'avoue j'ai glandé sur mon canapé jusqu'à ce que papa et maman me foutent dehors".
+… mais y'a des limites ! Je respecte le "oui, de 2004 à 2007, j'ai fait le choix d'élever mes enfants" mais beaucoup moins le "pffff, bah… j'avoue j'ai glandé sur mon canapé jusqu'à ce que papa et maman me foutent dehors".
 
 ## Soyez comme le [PQ Doudou](https://youtu.be/WIxS9-xhGfM?t=7m58s)
 
-Qu'est-ce que j'entends par la ? Vous n'êtes pas là pour vous faire humilier (à moins d'un entretien sous forme de jeu SM mais j'ai encore jamais vu !!!). Si vous considérez que les questions qu'on vous pose sont indécentes ou intrusives, vous avez le droit de ne pas y répondre... Du moment que vous le faites poliment, de manière calme et posée. Alors, certes, il se peut que vous marquiez des mauvais points (encore que l'employeur vous pose aussi peut-être ces questions pour voir votre réaction) mais si c'est le cas, vous auriez vraiment envie de bosser pour ce genre de patron de toute façon ?
+Qu'est-ce que j'entends par la ? Vous n'êtes pas là pour vous faire humilier (à moins d'un entretien sous forme de jeu SM mais j'ai encore jamais vu !!!). Si vous considérez que les questions qu'on vous pose sont indécentes ou intrusives, vous avez le droit de ne pas y répondre… Du moment que vous le faites poliment, de manière calme et posée. Alors, certes, il se peut que vous marquiez des mauvais points (encore que l'employeur vous pose aussi peut-être ces questions pour voir votre réaction) mais si c'est le cas, vous auriez vraiment envie de bosser pour ce genre de patron de toute façon ?
 
 # Les questions récurrentes
 
 ## Présentez-vous
 
 En général, celle-là, elle jette bien un froid dès le début de l'entretien quand on y est pas préparé ! Et on se rend vite compte des candidats qui arrivent à un entretien d'embauche comme à un concert de [Maitre Grims](https://youtu.be/AfiINIrFMRM) :
-"bah euh, je m'appelle Bidule et euh... j'ai tel diplôme et euh... ben voila quoi".
+"bah euh, je m'appelle Bidule et euh… j'ai tel diplôme et euh… ben voila quoi".
 
 D'où mon conseil du début : préparez-vous ! Répétez devant votre miroir. Selon le poste que vous visez, cette question peut avoir un ou plusieurs objectifs :
 
  - tout simplement, vous laisser l'occasion de vous présenter en quelques phrases plutôt que d'avoir l'impression d'être direct dans un jeu de question-réponse et donc commencer à vous connaître un peu à travers votre propre regard
  - tester votre capacité à vous exprimer clairement / votre langage (et ses tics) / votre gestuelle lorsque vous parlez
  - voir si vous arrivez en touriste ou un minimum préparé
- - commencer à voir si le reste de l'entretien va être une immense blague ou non (y'a le candidat "ben j'suis personne de très intéressant" et y'a le candidat "t'inquiète, poulette, j'vais t'montrer c'est qui le patron"... et entre les deux, j'espère, il y a vous !)
+ - commencer à voir si le reste de l'entretien va être une immense blague ou non (y'a le candidat "ben j'suis personne de très intéressant" et y'a le candidat "t'inquiète, poulette, j'vais t'montrer c'est qui le patron"… et entre les deux, j'espère, il y a vous !)
 
  Bref, quelques éléments de réponse pour cette question :
 
@@ -100,13 +100,13 @@ Tout ce que vous avez appris ou fait a enrichi la personne que vous êtes d'une 
 
 De la même manière que vous avez peut-être un parcours scolaire bizarre, vous pouvez avoir des expériences professionnelles sans rapport entre elles. Et alors ? N'oubliez pas que si vous êtes à l'étape de l'entretien d'embauche, c'est que le recruteur le sait (il a a priori lu votre CV) et qu'il vous a quand-même sélectionné (et croyez-moi, il a autre chose à faire de ses journées que recevoir TOUS les postulants, donc oui, vous avez bien été sélectionné parmi plusieurs).
 
-Donc, idem que pour la question précédente : préparez des arguments. D'ailleurs, il peut y avoir plein de raisons : déménagement, coup dur de la vie, volonté de découvrir un autre milieu, etc. Bref, vous le savez mieux que moi puisque vous l'avez vécu ! Et rappelez-vous qu'il n'y a pas de "mauvaise" expérience. Vous avez peut-être eu des expériences professionnelles désagréables mais elles vous en aurez quand-même retiré quelque chose de positif... même si ce n'est que savoir ce que vous ne voulez pas.
+Donc, idem que pour la question précédente : préparez des arguments. D'ailleurs, il peut y avoir plein de raisons : déménagement, coup dur de la vie, volonté de découvrir un autre milieu, etc. Bref, vous le savez mieux que moi puisque vous l'avez vécu ! Et rappelez-vous qu'il n'y a pas de "mauvaise" expérience. Vous avez peut-être eu des expériences professionnelles désagréables mais elles vous en aurez quand-même retiré quelque chose de positif… même si ce n'est que savoir ce que vous ne voulez pas.
 
 ## Le "trou" dans le CV
 
 Celle-là, elle est classique aussi, alors préparez-vous également à répondre si c'est votre cas. Attention néanmoins à quelques petites phrases qui peuvent faire tiquer le recruteur :
-- ce sera difficile de faire comprendre à l'employeur que vous avez choisi d'élever vos enfants jusqu'à leur 20ème année... surtout quand ils sont 8 heures par jour en cours...
-- vous avez le droit de vous être "cherché" pendant un temps... mais bon à un moment, c'est bien aussi de trouver si vous voyez ce que je veux dire, surtout que vous pouviez aussi peut-être trouver un job "alimentaire" en attendant
+- ce sera difficile de faire comprendre à l'employeur que vous avez choisi d'élever vos enfants jusqu'à leur 20ème année… surtout quand ils sont 8 heures par jour en cours…
+- vous avez le droit de vous être "cherché" pendant un temps… mais bon à un moment, c'est bien aussi de trouver si vous voyez ce que je veux dire, surtout que vous pouviez aussi peut-être trouver un job "alimentaire" en attendant
 
 
 ## Pourquoi avoir postulé chez nous ?
@@ -117,24 +117,24 @@ Petit secret humain : le recruteur aime croire que le candidat postule parce que
 - c'est à côté de chez moi / ma copine / ma mère
 - parce que ça avait l'air "tranquille"
 - parce que vous avez postulé aux 350 offres conseillées par le Pôle emploi
-- parce que vous êtes en fin de droits... Ne me faites pas un procès d'intention, bien entendu, c'est votre droit d'avoir profité d'une période de chômage pour vous "ressourcer" ou réfléchir à votre parcours ou simplement prendre du temps pour vous / vos projets perso... il n'empêche que ça reste quand-même mal perçu par le recruteur.
+- parce que vous êtes en fin de droits… Ne me faites pas un procès d'intention, bien entendu, c'est votre droit d'avoir profité d'une période de chômage pour vous "ressourcer" ou réfléchir à votre parcours ou simplement prendre du temps pour vous / vos projets perso… il n'empêche que ça reste quand-même mal perçu par le recruteur.
 
-Donc, même si vous avez effectivement postulé parce que c'est près de chez vous ou parce que... bah ça ou autre chose... essayez de trouver quelque chose qui vous attire dans le poste ou dans les valeurs de l'entreprise. En effet, le recruteur ne sera pas choqué si vous insistez plus sur l'entreprise que sur le poste. Ne nous mentons pas, des profils comme le vôtre, il y en a plusieurs. Vous avez rarement des compétences / connaissances qui ne vous destinent qu'à un seul poste dans tout le monde entier. Je pourrais être RAF dans plein d'autres boîtes, plein d'autres domaines, ou dans une boîte concurrente (honnêtement, mon job ne serait pas fondamentalement différent). Mais j'ai choisi l'association dans laquelle je travaille pour les valeurs qu'elle défend.
+Donc, même si vous avez effectivement postulé parce que c'est près de chez vous ou parce que… bah ça ou autre chose… essayez de trouver quelque chose qui vous attire dans le poste ou dans les valeurs de l'entreprise. En effet, le recruteur ne sera pas choqué si vous insistez plus sur l'entreprise que sur le poste. Ne nous mentons pas, des profils comme le vôtre, il y en a plusieurs. Vous avez rarement des compétences / connaissances qui ne vous destinent qu'à un seul poste dans tout le monde entier. Je pourrais être RAF dans plein d'autres boîtes, plein d'autres domaines, ou dans une boîte concurrente (honnêtement, mon job ne serait pas fondamentalement différent). Mais j'ai choisi l'association dans laquelle je travaille pour les valeurs qu'elle défend.
 
 ## Citez-moi trois qualités et défauts
 
 Eh oui, la question à dix briques !!! Pour info, la réponse "ah mon plus gros défaut, c'est que je suis perfectionniste" donne juste au recruteur envie de vous demander si vous le prendriez pas un gentiment pour une truffe.
 
 Alors, on arrête l'enfumage mais on va pas trop loin non plus dans l'honnêteté :
-- on évite les "faux défauts" du type perfectionniste, ou trop dynamique ou de trop bonne humeur tout le temps pour mes collègues...
-- on évite à l'inverse les défauts qui grillent complètement votre chance de décrocher le job : tire au flanc, colérique, psycho-rigide, apathique, asocial...
+- on évite les "faux défauts" du type perfectionniste, ou trop dynamique ou de trop bonne humeur tout le temps pour mes collègues…
+- on évite à l'inverse les défauts qui grillent complètement votre chance de décrocher le job : tire au flanc, colérique, psycho-rigide, apathique, asocial…
 
 C'est une question à laquelle j'ai été souvent confrontée dans mon parcours à la fois scolaire et professionnel, et j'avoue que c'était toujours celle qui me gonflait le plus. Alors j'ai fini par trouver une parade, qui pour le moment a toujours plu à mon interlocuteur et parce que je vous aime bien, je vous la livre !
 
-> Je ne raisonne pas en termes de défauts et de qualités, je trouve cela trop simpliste et... dichotomique pour décrire une personne. Je raisonne plutôt en termes de traits de caractère, chacun d'eux apportant du bon comme du moins bon.
+> Je ne raisonne pas en termes de défauts et de qualités, je trouve cela trop simpliste et… dichotomique pour décrire une personne. Je raisonne plutôt en termes de traits de caractère, chacun d'eux apportant du bon comme du moins bon.
 Par exemple, je suis tatillonne, ce qui malheureusement, me fait parfois perdre du temps pour un gain insignifiant. Je suis une personne ordonnée et organisée mais en contrepartie, j'ai beaucoup de mal à travailler sous la pression ou lorsqu'un événement bouleverse mon programme. Et comme j'ai du mal à cacher mes émotions, mes moments de joie comme mon stress s'avèrent souvent visibles et communicatifs pour mes collègues.  
 
-La question : "pourquoi vous ?" et "qu'est-ce que vous auriez à nous apporter ?" entre un peu dans la même catégorie. C'est le moment "commercial de chez Mamouth", faut se vendre... mais sans en faire trop non plus !!!
+La question : "pourquoi vous ?" et "qu'est-ce que vous auriez à nous apporter ?" entre un peu dans la même catégorie. C'est le moment "commercial de chez Mamouth", faut se vendre… mais sans en faire trop non plus !!!
 
 ## Et, vous vous voyez où dans 5 ans ?
 
@@ -155,14 +155,14 @@ Plusieurs solutions pour répondre à cette question magique :
 - les réponses [CGT](http://dai.ly/x2i5ct?start=19) du type : "Vous savez que votre question est discriminatoire selon l'[Art. L 1221-6 du Code du Travail](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006900845&cidTexte=LEGITEXT000006072050) ?". Certes, vous avez raison, mais dans 99.99% des cas, le recruteur sait très bien qu'il n'a pas à la poser, et ça va peut-être être un scoop mais bon, en dehors de ses opinions personnelles, il/elle ne cherche peut-être pas forcément à recruter un syndicaliste si vous voyez ce que je veux dire. Laissez tomber.
 
 Bref, je vous conseille plutôt deux autres options :
-- la première consiste... à ne pas répondre tout simplement ! Vous regardez la personne bien en face dans les yeux (si vous êtes de ceux qui n'y arrivez pas, astuce bonus : regardez les sourcils, ça ne se voit pas d'en face) et faites un petit sourire. Pas un sourire débile ou un grand sourire qui dit "en fait je suis déjà enceinte mais j'attends la fin de la période d'essai pour te l'annoncer !" ni un sourire "dans ma tête je suis en train de te trucider à coup de cure-dents". Juste un petit sourire poli.
+- la première consiste… à ne pas répondre tout simplement ! Vous regardez la personne bien en face dans les yeux (si vous êtes de ceux qui n'y arrivez pas, astuce bonus : regardez les sourcils, ça ne se voit pas d'en face) et faites un petit sourire. Pas un sourire débile ou un grand sourire qui dit "en fait je suis déjà enceinte mais j'attends la fin de la période d'essai pour te l'annoncer !" ni un sourire "dans ma tête je suis en train de te trucider à coup de cure-dents". Juste un petit sourire poli.
 - la deuxième consiste à jouer au plus con : "c'est à dire ?", "je ne comprend pas votre question", "qu'entendez-vous par là ?"
 
 Le recruteur aura le choix entre deux réactions :
-- être décontenancé... et passer à autre chose plutôt que de s'enfoncer ;
+- être décontenancé… et passer à autre chose plutôt que de s'enfoncer ;
 - insister genre "même pas peur" ("vous savez, avoir des enfants. Moi j'ai besoin de savoir si je peux vraiment compter sur vous ou si vous allez partir en congé maternité dans 6 mois !"), auquel cas : fuyez ! Imaginez le respect que cette personne aura pour vous / votre travail au quotidien !
 
-Dans la même catégorie, y'a le "vous êtes marié ?"... Et moi je te demande si ta grand-mère elle est SM ??? ("Non, je préfère vivre dans le péché" :D ou "oui, en spéraration de biens, c'est pour ça que je compte bien négocier mon salaire avec vous, comme ça, si cette raclure me quitte, il aura peanuts !!!!!"). Franchement, votre statut matrimonial n'intéresse que vous et, sauf emploi très très particlier (même là, j'arrive pas à penser à un exemple mais je suppose qu'il y en a), n'a rien à voir avec votre recrutement ! Mais alors **pourquoi** elle est quasiment systématiquement posée ???
+Dans la même catégorie, y'a le "vous êtes marié ?"… Et moi je te demande si ta grand-mère elle est SM ??? ("Non, je préfère vivre dans le péché" :D ou "oui, en spéraration de biens, c'est pour ça que je compte bien négocier mon salaire avec vous, comme ça, si cette raclure me quitte, il aura peanuts !!!!!"). Franchement, votre statut matrimonial n'intéresse que vous et, sauf emploi très très particlier (même là, j'arrive pas à penser à un exemple mais je suppose qu'il y en a), n'a rien à voir avec votre recrutement ! Mais alors **pourquoi** elle est quasiment systématiquement posée ???
 
 Eh bien, parce que dans l'esprit du recruteur, elle correspond encore à certains schémas de pensée plus ou moins ancestraux :
 - jeune femme mariée = bébé en route ou à venir prochainement = congé maternité
@@ -172,7 +172,7 @@ Bon et dans la même catégorie : tout ce qui touche à la religion, aux origine
 
 ### Le salaire précédent
 
-Autre question qui revient souvent : "quel était votre salaire précédent ?"... Alors, déjà, de quoi je me mêle ? Non mais ne répondez pas ça, par contre, ça c'est juste dans votre tête !!!
+Autre question qui revient souvent : "quel était votre salaire précédent ?"… Alors, déjà, de quoi je me mêle ? Non mais ne répondez pas ça, par contre, ça c'est juste dans votre tête !!!
 
 Et - ça ne m'est jamais arrivé jusqu'à présent, mais je sais que certaines personnes l'ont vécu - on peut vous demander carrément parfois votre dernier bulletin de salaire. Sachez que **vous n'avez pas à obtempérer**.
 
@@ -201,8 +201,8 @@ La fameuse dernière question. Profitez-en, puisqu'on vous en donne l'occasion, 
 Fouillez le site internet, renseignez-vous sur la boîte un maximum, il y aura toujours forcément une info que vous ne trouverez pas. Un détail en plus. Ou alors sur les projets à venir de la boîte. Bref, pas un truc qui apparaissait en première page du site, ah oui, et pas un truc qui ruine direct toute votre crédibilité ("un EHPAD ? mais genre les gens, leur maison c'est ici ? genre ils dorment ici ??? genre ils rentrent jamais chez eux quoi ???"). Bref, cherchez un peu ;)
 
 
-> En conclusion, je voulais insister sur un point important : **ne mettez pas dans votre CV des choses dont vous ne voulez pas parler** !! Oui, ça semble logique et pourtant... Le recruteur va s'appuyer sur votre CV tout au long de l'entretien pour essayer de vous connaître (vos expériences précédentes, vos études, vos hobbies) alors n'y mettez pas les sujets que vous ne souhaitez pas aborder !
+> En conclusion, je voulais insister sur un point important : **ne mettez pas dans votre CV des choses dont vous ne voulez pas parler** !! Oui, ça semble logique et pourtant… Le recruteur va s'appuyer sur votre CV tout au long de l'entretien pour essayer de vous connaître (vos expériences précédentes, vos études, vos hobbies) alors n'y mettez pas les sujets que vous ne souhaitez pas aborder !
 
-La petite anecdote de la fin (elle ne m'est pas arrivée personnellement, on me l'a rapportée) : entretien d'embauche dans une boite informatique. Le recruteur interroge le postulant sur une expérience précédente particulièrement peu détaillée dans son CV. Réponse : "non mais je peux pas en parler, c'était un projet secret". Bon, le recruteur passe à l'expérience suivante. Réponse : "non mais je peux pas en parler non plus, c'était un projet hyper secret"... Bon, certes le recruteur ne peut douter que la personne prend à la lettre l'obligation de loyauté mais ça fait un peu foutage de gueule. Il aurait pu parler du travail concret (technologie, etc) sans parler du projet en soi. Bref, évitez de prendre le recruteur pour un imbécile !
+La petite anecdote de la fin (elle ne m'est pas arrivée personnellement, on me l'a rapportée) : entretien d'embauche dans une boite informatique. Le recruteur interroge le postulant sur une expérience précédente particulièrement peu détaillée dans son CV. Réponse : "non mais je peux pas en parler, c'était un projet secret". Bon, le recruteur passe à l'expérience suivante. Réponse : "non mais je peux pas en parler non plus, c'était un projet hyper secret"… Bon, certes le recruteur ne peut douter que la personne prend à la lettre l'obligation de loyauté mais ça fait un peu foutage de gueule. Il aurait pu parler du travail concret (technologie, etc) sans parler du projet en soi. Bref, évitez de prendre le recruteur pour un imbécile !
 
 Merci d'avoir lu jusque là, et bon courage pour vos entretiens à venir ;)

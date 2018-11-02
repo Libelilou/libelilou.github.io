@@ -1,5 +1,5 @@
 ---
-title : "\"Allô patron, bobo...\""
+title : "\"Allô patron, bobo…\""
 introduction: "Voici ici une liste (non exhaustive) des raisons qui NE JUSTIFIENT PAS un arrêt maladie !"
 post-color: 6
 tags:
@@ -16,14 +16,14 @@ Je vais donc reprendre la définition du [Journal des femmes](http://sante-medec
 
 On parle donc bien ici de votre **état de santé** constaté par un **médecin**.
 
-La liste non exhaustive suivante regroupe les raisons qui **ne justifient** malheureusement **pas** un arrêt de travail pour maladie. Ces exemples, accumulés au cours de mon expérience de RH ou de témoignages de collègues, sont, comme pour ceux de mon article sur la candidature, ni inventés, ni déformés, ni exagérés... Et je tiens à préciser que j'incrimine autant le salarié déviant que le médecin complaisant (oui car je n'ose croire que ces médecins-là étaient incompétents et si facile à berner).
+La liste non exhaustive suivante regroupe les raisons qui **ne justifient** malheureusement **pas** un arrêt de travail pour maladie. Ces exemples, accumulés au cours de mon expérience de RH ou de témoignages de collègues, sont, comme pour ceux de mon article sur la candidature, ni inventés, ni déformés, ni exagérés… Et je tiens à préciser que j'incrimine autant le salarié déviant que le médecin complaisant (oui car je n'ose croire que ces médecins-là étaient incompétents et si facile à berner).
 
 ## The list
 
 ### 1. Les raisons "de santé"
 
 - vous avez la migraine / la nausée PARCE QUE vous avez fait la fête la veille au soir (NB : l'excuse du gigot de la belle-mère mal digéré du dimanche ne tient pas non plus la route)
-- vous êtes enceinte de deux mois et vous n'avez plus la motivation de venir bosser (en général, les médecins n'aiment pas trop prendre de risques avec les femmes enceintes, ce qui se solde en général par un arrêt maladie jusqu'au congé maternité)...
+- vous êtes enceinte de deux mois et vous n'avez plus la motivation de venir bosser (en général, les médecins n'aiment pas trop prendre de risques avec les femmes enceintes, ce qui se solde en général par un arrêt maladie jusqu'au congé maternité)…
 
 ### 2. Les raisons d'organisation personnelle
 
@@ -38,7 +38,7 @@ La liste non exhaustive suivante regroupe les raisons qui **ne justifient** malh
 - vous ne pouvez plus encadrer vos collègues
 - votre employeur vous a refusé vos jours de congés
 - vous avez trouvé un nouveau boulot / une autre formation et vous ne voulez pas effectuer votre préavis pour vous organiser à prendre ce nouveau poste
-- votre employeur vous donne un ordre : "non mais sérieux, d'où il me donne des ordres, il se prend pour qui ?" (ben euh, pour ton employeur en fait, c'est ton supérieur hiérarchique...)
+- votre employeur vous donne un ordre : "non mais sérieux, d'où il me donne des ordres, il se prend pour qui ?" (ben euh, pour ton employeur en fait, c'est ton supérieur hiérarchique…)
 
 
 [^enfant]: si vous arrivez à coacher votre mouflet pour qu'il ait l'air suffisamment convaincant, vous pouvez aussi remplacer l'arrêt de travail pour maladie par une journée "enfant malade" (l'avantage en plus c'est que vous ne perdez pas la carence !).
