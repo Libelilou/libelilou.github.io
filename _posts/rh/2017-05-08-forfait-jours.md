@@ -1,21 +1,23 @@
 ---
-title : "Le forfait jour"
+title : "Le forfait jours"
 introduction: "Savez-vous vraiment ce qui se cache derrière cette convention un peu particulière ? Démêlons le vrai de l'alternative fact :D"
 post-color: 2
+redirect_from:
+  - /2017/05/08/forfait-jour.html
 tags:
   - temps de travail
   - rémunération
 ---
 
-J'ai déjà abordé la question du forfait jour dans un [article précédent sur les durées de travail](https://libelilou.github.io/2016/12/30/horaires.html) (fort bien écrit, du reste) mais j'ai cru comprendre que ce sujet intéressait **un grand nombre** de mes **très nombreux** lecteurs, donc je vous propose d'approfondir un peu ce sujet ensemble (enfin, quand je dis "ensemble" c'est façon de parler parce que c'est quand-même moi qui fais tout le boulot… mais ça me fait plaisir :P).
+J'ai déjà abordé la question du forfait jours dans un [article précédent sur les durées de travail](https://libelilou.github.io/2016/12/30/horaires.html) (fort bien écrit, du reste) mais j'ai cru comprendre que ce sujet intéressait **un grand nombre** de mes **très nombreux** lecteurs, donc je vous propose d'approfondir un peu ce sujet ensemble (enfin, quand je dis "ensemble" c'est façon de parler parce que c'est quand-même moi qui fais tout le boulot… mais ça me fait plaisir :P).
 
 Vous n'êtes d'ailleurs pas les seuls à vous poser des questions puisque la Cour de Cassation a rendu plusieurs arrêts ces derniers mois, peut-être dans une volonté de recadrer le recours aux conventions de forfait en jours. La loi Travail[^ref] a permis de sécuriser un peu les règles régissant ces contrats.
 
 [^ref]: [Loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032983213&categorieLien=id)
 
-## Et euh… c'est quoi déjà le forfait jour ?
+## Et euh… c'est quoi déjà le forfait jours ?
 
-Bon alors, je répète pour ceux qui roupillent au fond de la classe, collés au radiateur : le nom complet c'est <q>convention de forfait en jours</q>, communément abrégé en "forfait jour". 
+Bon alors, je répète pour ceux qui roupillent au fond de la classe, collés au radiateur : le nom complet c'est <q>convention de forfait en jours</q>, communément abrégé en "forfait jours". 
 
 Pour faire très simple, c'est un type de durée du travail. Je ne le répèterai jamais assez : **lisez** votre contrat de travail avant de le signer ! Il regroupe tout un tas d'informations utiles comme (liste pas du tout exhaustive) : 
 
@@ -36,11 +38,11 @@ Qui sait ? les évolutions futures du droit du travail autoriseront (ou imposero
 
 ## Et moi, j'y ai droit ? 
 
-Démolissions direct l'<i lang="en">alternative fact</i> le plus répandu sur le forfait jour : 
+Démolissions direct l'<i lang="en">alternative fact</i> le plus répandu sur le forfait jours : 
 
-> Le forfait jour est réservé aux cadres
+> Le forfait jours est réservé aux cadres
 
-Eh non, le forfait jour n'est pas réservé aux cadres. En réalité le Code du Travail stipule que les conventions en forfait jour sont réservées : 
+Eh non, le forfait jours n'est pas réservé aux cadres. En réalité le Code du Travail stipule que les conventions en forfait jours sont réservées : 
 
 - aux "cadres autonomes dans l'organisation de leur emploi du temps et dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif" ;
 - aux "salariés dont la durée du travail ne peut être prédéterminée et qui disposent d'une réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des responsabilités".
@@ -51,9 +53,9 @@ Bref, vous l'aurez compris : le vrai prérequis d'un tel contrat est l'autonomie
 
 Par exemple, si vous êtes consultant : vos projets ne sont pas linéaires et votre patron préfèrera que vous bossiez 10&#8239;h d'affilée sur une présentation du lendemain plutôt que vous voir faire acte de présence pendant deux jours et ne pas pouvoir boucler vos dossiers sur les jours suivants parce que vous respectez vos horaires de travail et que la débauche, c'est la débauche. 
 
-Mais, alors si vous avez bien suivi, nous pouvons aussi enterrer définitivement une deuxième idée reçue sur le forfait jour : 
+Mais, alors si vous avez bien suivi, nous pouvons aussi enterrer définitivement une deuxième idée reçue sur le forfait jours : 
 
-> L'employeur peut fixer des plages horaires minimum de présence à un salarié en forfait jour.
+> L'employeur peut fixer des plages horaires minimum de présence à un salarié en forfait jours.
 
 Eh ben non !!! 
 
@@ -63,13 +65,13 @@ Si votre poste justifie une convention de forfait en jours, c'est que vous ne po
 
 Oui parce que bon, travailler plus que les autres, c'est bien joli, mais si c'est pour épuiser votre salarié au bout de 3 mois, c'est pas super rentable (je le rappelle, comme ça, là, mais les entreprises ne sont pas philantropes !). 
 
-Le principe, c'est que le salarié est autonome dans ses tâches et n'est pas soumis à l'horaire collectif. Si ce salarié est une grosse brute de travail et qu'il arrive à boucler toutes ses missions en 20&#8239;h de travail par semaine, il peut tout-à-fait travailler en moyenne 4&#8239;h par jour… Bon sauf que ça non plus, c'est pas très rentable pour l'entreprise, donc en général, ne vous y trompez pas, si on vous propose un forfait jour c'est que vous allez bosser en moyenne bien plus de 35&#8239;h par semaine !
+Le principe, c'est que le salarié est autonome dans ses tâches et n'est pas soumis à l'horaire collectif. Si ce salarié est une grosse brute de travail et qu'il arrive à boucler toutes ses missions en 20&#8239;h de travail par semaine, il peut tout-à-fait travailler en moyenne 4&#8239;h par jour… Bon sauf que ça non plus, c'est pas très rentable pour l'entreprise, donc en général, ne vous y trompez pas, si on vous propose un forfait jours c'est que vous allez bosser en moyenne bien plus de 35&#8239;h par semaine !
 
 [Heureusement, il y a la loi](https://youtu.be/txxpbd440Ag?t=21s) pour protéger un peu les salariés, notamment celle du 08 août 2016 qui a renforcé le cadre juridique de ces conventions afin de garantir la sécurité et la santé du salarié. 
 
 ### [Négociation collective](https://youtu.be/JAvhnHzJZL4?t=52s)
 
-Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **que** si elle est prévue dans un accord collectif (accord de branche, convention collective) **et** qu'un certain nombre de conditions y sont stipulées. En effet, notamment depuis la nouvelle Loi travail, l'employeur doit garantir à ses salariés au forfait jour :
+Déjà, il faut savoir que vous ne pouvez conclure une convention de ce type **que** si elle est prévue dans un accord collectif (accord de branche, convention collective) **et** qu'un certain nombre de conditions y sont stipulées. En effet, notamment depuis la nouvelle Loi travail, l'employeur doit garantir à ses salariés au forfait jours :
 
 - une charge de travail **raisonnable**… mouais bon, après, tout dépend ce qu'on entend par raisonnable, c'est comme [les goûts et les couleurs](http://www.jaconsultingroup.com/images/zezttz7.JPG) mais en cas de litige, les Prud'Hommes trancheront ;
 - une répartition du travail du salarié dans le temps également **raisonnable** (concrètement, si les missions qui vous sont confiées font que vous devez bosser 50&#8239;h par semaine pendant trois mois puis 20&#8239;h par semaine pendant les trois suivants, votre convention sera très probablement nulle) ;
@@ -90,4 +92,4 @@ Voilà, j'espère vous avoir permis d'y voir un peu plus clair au sujet des conv
 
 ## Et l'argent ?
 
-Vous l'aurez compris, le forfait jour est type de contrat adapté à des conditions de travail qui sortent de l'ordinaire. À ce titre, il est souvent rémunéré en conséquence. De nombreuses conventions précises d'ailleurs des majorations obligatoires pour les entreprises qui souhaiteraient y avoir recours. Lisez la vôtre et négociez avec votre employeur.
+Vous l'aurez compris, le forfait jours est type de contrat adapté à des conditions de travail qui sortent de l'ordinaire. À ce titre, il est souvent rémunéré en conséquence. De nombreuses conventions précises d'ailleurs des majorations obligatoires pour les entreprises qui souhaiteraient y avoir recours. Lisez la vôtre et négociez avec votre employeur.
