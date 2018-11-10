@@ -59,7 +59,7 @@ Eventuellement : fleur d'oranger ou pâte à tartiner, confiture, sucre glace (c
 
 
 
-3/ Déposez les biscuits sur une plaque recouverte de papier sulfurisé. Laissez cuire environ 10 minutes (bien sûr ça dépend de l'épaisseur des biscuits) à 180°C (th 6 donc !). A mi-cuisson, pour que ce soit plus joli, vous pouvez badigeonner au pinceau le dessus avec un jaune d'oeuf.
+3/ Déposez les biscuits sur une plaque recouverte de papier sulfurisé. Laissez cuire environ 10 minutes (bien sûr ça dépend de l'épaisseur des biscuits) à 180°C (th 6 donc !). À mi-cuisson, pour que ce soit plus joli, vous pouvez badigeonner au pinceau le dessus avec un jaune d'oeuf.
 
 
 

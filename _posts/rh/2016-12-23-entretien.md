@@ -156,7 +156,7 @@ Plusieurs solutions pour répondre à cette question magique :
 
 Bref, je vous conseille plutôt deux autres options :
 - la première consiste… à ne pas répondre tout simplement ! Vous regardez la personne bien en face dans les yeux (si vous êtes de ceux qui n'y arrivez pas, astuce bonus : regardez les sourcils, ça ne se voit pas d'en face) et faites un petit sourire. Pas un sourire débile ou un grand sourire qui dit "en fait je suis déjà enceinte mais j'attends la fin de la période d'essai pour te l'annoncer !" ni un sourire "dans ma tête je suis en train de te trucider à coup de cure-dents". Juste un petit sourire poli.
-- la deuxième consiste à jouer au plus con : "c'est à dire ?", "je ne comprend pas votre question", "qu'entendez-vous par là ?"
+- la deuxième consiste à jouer au plus con : "c'est-à-dire ?", "je ne comprend pas votre question", "qu'entendez-vous par là ?"
 
 Le recruteur aura le choix entre deux réactions :
 - être décontenancé… et passer à autre chose plutôt que de s'enfoncer ;

@@ -25,7 +25,7 @@ Donc, sans plus tarder : la recette !
 
 2/ Incorporez-les à la poudre et au sucre. Mélangez... et c'est prêt ! Enfin la pâte est prête !
 
-3/ A l'aide d'une poche à douille, faites vos petits macarons (ils n'ont pas besoin d'être trop espacés, ils ne changeront pas de taille à la cuisson).
+3/ À l'aide d'une poche à douille, faites vos petits macarons (ils n'ont pas besoin d'être trop espacés, ils ne changeront pas de taille à la cuisson).
 
 4/ Enfournez (à four chaud) à 180°C et laissez une dizaine de minutes (il faut qu'ils soient un tout petit peu roussis, comme ça, ça craque un peu si on les mange encore chauds !).
 
