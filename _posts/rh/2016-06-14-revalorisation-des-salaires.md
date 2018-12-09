@@ -18,7 +18,7 @@ La convention prévoit tous (enfin en principe) les différents métiers qui peu
 
 ## Qu'est-ce que le point ?
 
-C'est une valeur décidée entre les syndicats et qui en principe, est renégociée régulièrement… ce fut le cas, jusqu'en 2010. Au 1er décembre 2010, le point a été renégocié pour la dernière fois à 4.403 €. A ce jour, il n'a toujours pas été ré-évalué.
+C'est une valeur décidée entre les syndicats et qui en principe, est renégociée régulièrement… ce fut le cas, jusqu'en 2010. Au 1er décembre 2010, le point a été renégocié pour la dernière fois à 4.403 €. À ce jour, il n'a toujours pas été ré-évalué.
 
 ## En pratique
 
