@@ -25,7 +25,7 @@ Nous verrons tout d'abord [les textes relatifs au télétravail](#les-textes-rel
 
 Le télétravail a été défini et modifié par plusieurs textes, je vous fais donc un résumé rapide de la chronologie !
 
-Le concept de télétravail existe depuis de nombreuses années. D'après ce [site](teletravailler.fr) la notion de télétravail remonterait aux années 1950 aux États-Unis notamment grâce aux travaux de Norbert Wiener sur la [cybernétique](https://youtu.be/uJDcUO0le8w?t=30).
+Le concept de télétravail existe depuis de nombreuses années. D'après ce [site](http://www.teletravailler.fr/) la notion de télétravail remonterait aux années 1950 aux États-Unis notamment grâce aux travaux de Norbert Wiener sur la [cybernétique](https://youtu.be/uJDcUO0le8w?t=30).
 
 ### L'accord-cadre européen du 16 juillet 2002
 
