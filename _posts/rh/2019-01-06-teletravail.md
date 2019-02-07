@@ -66,7 +66,7 @@ L'accord cadre européen sur le télétravail montre, dans son introduction, que
 - tirer le meilleur parti de la société de l'information ;
 - allier la flexibilité et la sécurité ;
 - améliorer la qualité des emplois (<i lang="en">whatever that means</i>) ;
-- améliorer les chances des personnes handicapées sur le marché de l'emploi (mais l'accord ne mentionne nulle part des conditions particulières pour les personnes handicapées, hein, ne vous emballez pas, il faudra attente [la loi de septembre 2018](#télétravail-et-travailleuses-handicapées)).
+- améliorer les chances des personnes handicapées sur le marché de l'emploi (mais l'accord ne mentionne nulle part des conditions particulières pour les personnes handicapées, hein, ne vous emballez pas, il faudra attendre [la loi de septembre 2018](#télétravail-et-travailleuses-handicapées)).
 
 Il est également précisé que l'accord n'a pas pour but de dégrader le niveau général de protection sociale des travailleuses, et que chaque pays devra ensuite adapter le texte afin de prendre en compte les besoins spécifiques qui pourraient exister. Ce qui est logique, dans la mesure où cet accord fixe une sorte de cadre commun, qui doit ensuite être concrètement mis en place dans chaque pays membre. 
 
@@ -92,7 +92,7 @@ Cette définition reste la même dans l'accord national interprofessionnel de 20
 
 ***
 
-Dans la loi de 2012, il est précisé que la définition du télétravail ne doit pas "porter préjudice de l'application, s'il y a lieu, des dispositions du présent code protégeant les travailleurs à domicile" (d'où le fait que si vous êtes à la fois télétravailleuse et travailleur à domicile, vous dépendez des deux sections du Code du Travail). 
+Dans la loi de 2012, il est précisé que la définition du télétravail ne doit pas "porter préjudice de l'application, s'il y a lieu, des dispositions du présent code protégeant les travailleurs à domicile" (d'où le fait que si vous êtes à la fois télétravailleuse et travailleuse à domicile, vous dépendez des deux sections du Code du Travail). 
 
 En dehors de cette précision, la définition reste la même.
 
