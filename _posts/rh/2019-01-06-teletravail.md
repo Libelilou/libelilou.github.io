@@ -5,6 +5,8 @@ published: true
 post-color: 5
 tags:
   - temps de travail
+redirect_from:
+  - /2018/12/18/teletravail.html
 ---
 
 **Note** : oui, je sais normalement on commence pas par une note mais avant d'aborder le sujet, je voulais donner une précision sur l'écriture de l'article. En principe, j'écris soit en inclusif (quand l'article est court) soit au masculin pour aller plus vite. Cette fois-ci j'ai décidé que **tout sera écrit au féminin** –&nbsp;c'est ma petite révolution pour aujourd'hui&nbsp;– parce que j'en ai marre de recevoir des courriers à "Monsieur le Directeur", marre que les gens se posent même pas la question de la possibilité qu'un établissement puisse être dirigé par une femme !
