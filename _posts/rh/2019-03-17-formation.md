@@ -135,6 +135,17 @@ Contrairement aux heures de <abbr title="Droit Individuel à la Formation">DIF</
 
 La dernière réforme de la formation date de la [loi 2018-771 du 5 septembre 2018](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=7AC7096DFC604C331D4AE4B2BA156556.tplgfr44s_1?cidTexte=JORFTEXT000037367660&idArticle=LEGIARTI000037368676&dateTexte=20190315&categorieLien=id#LEGIARTI000037368676). 
 
+Désormais, les droits à la formation ne seront plus calculés en heures mais valorisées en euros. Ainsi un salarié ou un indépendant à temps plein bénéficiera d'un crédit de 500 € par an, plafonné à 5 000 €. Les crédits seront proratisés pour les salariés à temps partiel. Pour les salariés non qualifiés (tels que décrits dans la partie précédente) l'alimentation est alors de 800 € par an pour un salarié à temps plein avec un plafond à 8 000 €. Le fonctionnement reste le même que dans la partie précédente au niveau de l'utilisation de ce crédit (formations éligibles notamment) et de la portabilité des droits en cas de perte d'emploi ou changement d'employeur. 
+
+Un abondement supplémentaire est toujours possible : 
+
+- par accord collectif ;
+- (pour les entreprises de 50 salariés et plus) de 3 000 € complémentaires pour un salarié (il n'est pas précisé la durée du travail du salarié) : si vous n'avez pas bénéficié d'entretien professionnel (qui doit avoir lieu tous les 2 ans) et que vous n'avez pas obtenu 2 des critères suivants : une certification, une formation ou une progression salariale ou professionnelle depuis au moins 6 ans ;
+- par le salarié, si les droits sont insuffisants pour suivre la formation ;
+- si un salarié est licencié suite au refus d'une modification de son contrat de travail résultant de l'application d'un accord d'entreprise, il bénéficie d'un abondement minimum de 3 000 €. 
+
+Bon mais alors, que deviennent les anciennes heures acquises, avant 2019 ?
+
 Au 1er janvier, toutes vos heures de DIF et CPF acquises ont été converties en euros, à raison de 15 € par heure. Pour ceux qui avaient encore toutes leurs heures de DIF (120 heures) et leurs heures de CPF (96 heures), vous avez donc un compte total de 3 240 €. 
 
 La part du crédit concernant les heures de DIF, soit 120 heures ou 1 800 € maximum, **sera définitivement perdue au 31 décembre 2020**. Il est donc temps, si vous avez un projet professionnel, d'en profiter !
@@ -142,6 +153,8 @@ La part du crédit concernant les heures de DIF, soit 120 heures ou 1 800 € ma
 Mais... pas pour n'importe quoi ! L'utilisation des heures de DIF répond aux mêmes contraintes qu'évoquées dans la partie précédente pour les heures de CPF. Vous pouvez trouver la liste complète des formations éligibles [ici](http://intercariforef.org/formations/recherche-formations.html) ou directement sur le site du <abbr title="Compte Personnel d'Activité">CPA</abbr>, [ici](https://www.moncompteactivite.gouv.fr/cpa-public/gestionnaires-cpf/documents-telecharger/listes-de-certifications-eligibles). 
 
 Je regrette qu'il y ait finalement assez peu de formations possibles en formations courtes, non diplômantes mais permettant de se perfectionner dans son métier. Deuxième regret : il est fort probable, pour en avoir parlé en aparté avec notre organisme gestionnaire, qu'une grande partie des heures soient perdues. En effet, les organismes gestionnaires n'ont concrètement pas les fonds nécessaires pour financer des actions de formation équivalentes au total des soldes DIF (sans entrer dans les détails, il n'y a pas eu un "fonds commun" stocké quelque part, année après année, correspondant au total des heures de DIF cumulées par les salariés). Les organismes vont donc devoir refuser un grand nombre de formations, et ces heures seront tout simplement perdues dans un peu moins de deux ans. 
+
+Dernière remarque : si la formation souhaitée se déroule, même en partie, sur votre temps de travail, vous devrez obtenir une autorisation de la part de votre employeur 60 jours avant le début de la formation si celle-ci dure moins de 6 mois, 120 jours avant au-delà.  
 
 Alors, j'en arrive maintenant à la raison pour laquelle j'avais décidé d'écrire l'article à la base : comment on fait pour déposer une demande de formation utilisant les heures de DIF ?
 
