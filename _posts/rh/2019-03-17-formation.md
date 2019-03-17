@@ -5,6 +5,8 @@ published: true
 post-color: 3
 tags:
   - formation
+redirect_from:
+  - /2019/03/14/formation.html
 ---
 
 Alors, je viens de me rendre compte que j'avais déjà rédigé un [article relatif à la formation](https://libelilou.github.io/2017/02/08/formation.html) en 2017 mais j'y regroupais un peu tout (obligation de formation de l'employeur, financement, clauses de dédit formation, etc.). Je vais reprendre ici certaines parties de l'ancien article pour avoir un article plus complet.
