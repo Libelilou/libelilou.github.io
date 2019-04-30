@@ -46,7 +46,7 @@ Les "fonctions support" désignent les postes nécessaires au fonctionnement de 
 
 On les appelle également "fonctions transverses" car elles concernent généralement toutes les activités de l'entreprise : le service RH gère par exemple la paie de toutes les personnes de l'entreprise, quel que soit leur poste.
 
-### La carrière
+## La carrière
 
 Comme les RH ne sont pas spécifiquement formés aux fonctionnements des branches, et que leurs postes ne leur imposent pas de comprendre complétement les différents métiers de l'entreprise, on leur reproche parfois de sembler loin de la réalité du terrain.
 
