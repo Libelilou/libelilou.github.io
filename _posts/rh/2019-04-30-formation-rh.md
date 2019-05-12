@@ -1,7 +1,6 @@
 ---
 title: "RH : de Padawan à Jedi !"
 introduction: "Quelles sont les formations pour devenir RH ? Pour quelles carrières ?"
-published: true
 post-color: 1
 ---
 
