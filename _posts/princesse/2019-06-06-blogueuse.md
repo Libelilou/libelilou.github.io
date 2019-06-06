@@ -1,7 +1,6 @@
 ---
 title: "Blogueuse"
 introduction: "Un petit retour sur mon blog"
-published: false
 post-color: 5
 ---
 
