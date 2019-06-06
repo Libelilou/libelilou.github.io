@@ -1,7 +1,6 @@
 ---
 title: "La formation professionnelle continue"
 introduction: "Parlons peu, parlons sigles : DIF, CPF, CEC, CPP, OPCO, OPCA, et toute la clique"
-published: true
 post-color: 3
 tags:
   - formation

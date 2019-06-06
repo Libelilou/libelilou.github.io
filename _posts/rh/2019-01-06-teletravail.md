@@ -1,7 +1,6 @@
 ---
 title: "Il était une fois... le télétravail !"
 introduction: "Le télétravail : qui, quoi, quand ? comment ? et quelques autres petites choses :)"
-published: true
 post-color: 5
 tags:
   - temps de travail
