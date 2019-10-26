@@ -5,13 +5,15 @@ published: false
 post-color: 1
 ---
 
+Update : J'avais prévu de publier cet article en mai, et puis... bref, le voici, avec quelques mois de retard ! 
+
 En l'honneur de ce mois de mai, parsemé de jours fériés, je vous propose un petit billet sur ce sujet (oui, ça rime, je suis un peu poet-poet). 
 
 ## L'origine des jours fériés
 
 Etymologiquement, le mot "férié" aurait dans sa racine latine à la fois la notion de chômer (ne pas travailler) mais également de fête ou célébration.
 
-Au fur et à mesure des événements qui ont marqué l'Histoire de France, le calendrier s'est étoffé de jours fériés. Certains sont liés à l'Histoire, d'autres issus de la religion chrétienne. Certains célèbrent des moments festifs marquants, d'autres commémorent des événenements un peu plus tristes. Ils peuvent être fixes (dans le sens où on en bénéficie tous les ans) ou ponctuels (pour rester dans l'actualité, les Japonais bénéficient en ce moment de 10 jours fériés exceptionnels en l'honneur de leur nouvel Empereur). 
+Au fur et à mesure des événements qui ont marqué l'Histoire de France, le calendrier s'est étoffé de jours fériés. Certains sont liés à l'Histoire, d'autres issus de la religion chrétienne. Certains célèbrent des moments festifs marquants, d'autres commémorent des événenements un peu plus tristes. Ils peuvent être fixes (dans le sens où on en bénéficie tous les ans) ou ponctuels (pour rester dans l'actualité, les Japonais ont bénéficié de 10 jours fériés exceptionnels en l'honneur de leur nouvel Empereur). 
 
 Légalement, la France compte 11 jours fériés, fixés dans le Code du Travail (1er janvier, lundi de Pâques, 1er mai, 8 mai, jeudi de l'Ascension, lundi de Pentecôte, 14 juillet, l'Assomption, 1er novembre, 11 novembre et 25 décembre). Mais certains départements du Nord Est (Moselle, Haut-Rhin, Bas-Rhin) ou d'Outre-Mer (Martinique, Guadeloupe, Guyanne) et la collectivité de Saint-Barthélémy ont des jours fériés particuliers, liés à leur histoire. Pour ces jours fériés "locaux", la réglementation des jours fériés au sens juridique du terme n'est pas appliquée, sauf s'il existe des usages ou des dispositions conventionnelles plus avantageuses.
 
@@ -23,19 +25,19 @@ Il existe enfin quelques jours fériés rattachés à des branches professionnel
 
 ### Un peu d'histoire
 
-> NB : je m'excuse par avance si je dis des bêtises, je suis pas historienne et je fais mes recherches sur Wikipedia et j'essaie de recouper avec d'autres sites mais je ne prends pas le temps d'aller à la bibliothèque pour avoir des sources plus "fiables". 
+> NB : je m'excuse par avance si je dis des bêtises, je suis pas historienne et je fais mes recherches sur Wikipedia et j'essaie de recouper avec d'autres sites mais je n'ai pas toujours la possibilité de confirmer par plusieurs sources. Je parle uniquement de la partie "historique", parce que pour la partie "droit du travail", là je suis sûre de ce que je raconte ! 
 
 Donc, d'après ce que j'ai pu comprendre de mes recherches pour cet article, les ancêtres des jours fériés étaient des jours de fêtes religieuses qui devaient être chômés. Elles étaient apparemment nombreuses dans l'Ancien Régime (jusqu'à une cinquantaine selon les régions quand-même !), mais les hautes instances catholiques en auraient supprimé plusieurs pour des raisons économiques ("au boulot, tas de fainéants !"). Il existait également quelques fêtes sans contexte religieux, instaurées par des confréries professionnelles par exemple. 
 
 Je ne vais pas vous refaire toute l'histoire mais apparemment, au fur des changements de société, des récupérations politiques diverses, les jours fériés et leur façon d'être fêtés (manifestations, événements religieux ou culturels) ont évolué. 
 
-Il semblerait que le principe de légalité attaché aux jours fériés tels qu'on les connaît aujourd'hui, aient été progressivement instaurés en France au cours du 19ème siècle. Pour des raisons économiques, des textes réglementaires ou légaux permettent ainsi de contrôler et limiter le nombre de jours fériés. Certains sont même calés sur des jours fériés déjà existant ou sur des dimanche. 
+Il semblerait que le principe de légalité attaché aux jours fériés tels qu'on les connaît aujourd'hui, ait été progressivement instauré en France au cours du 19ème siècle. Pour des raisons économiques, des textes réglementaires ou légaux permettent ainsi de contrôler et limiter le nombre de jours fériés. Certains sont même calés sur des jours fériés déjà existant ou sur des dimanche. 
 
 ### Les jours fériés en France
 
 Voyons maintenant les différents jours fériés en France, par ordre chronologique. Je précise entre parenthèses les jours qui ne sont fériés que dans certaines parties de la France.
 
-> NB : je vais beaucoup parler de religion chrétienne pour expliquer l'orgine des jours fériés et du fait qu'il soit férié en France. Je ne prends pas partie pour une religion ou une autre, je sais qu'il existe des explications différentes des mêmes fêtes dans d'autres religions (je pense par exemple au lien entre Pâques et Pessa'h) mais le fait est qu'en France, les jours fériés religieux sont rattachés à la religion chrétienne.
+> NB : je vais beaucoup parler de religion chrétienne pour expliquer l'orgine des jours fériés et du fait qu'ils soient fériés en France. Je ne prends pas partie pour une religion ou une autre, je sais qu'il existe des explications différentes des mêmes fêtes dans d'autres religions (je pense par exemple au lien entre Pâques et Pessa'h) mais le fait est qu'en France, les jours fériés religieux sont rattachés à la religion chrétienne.
 
 **Nouvel an - 1er janvier**
 
@@ -80,27 +82,27 @@ En Martinique, dans un très beau discours (ici), Aimé Césaire rappelle le rô
 
 Je vais me permettre de contredire notre Président, mais le 1er mai n'a jamais été la fête de "ceux qui aiment le travail" (déjà, ça aurait été sympa de mettre un peu d'inclusif). Les origines de la fête du 1er mai sont d'ailleurs plutôt sanglantes et ce jour permet de commémorer, entre autres, plusieurs massacres. Je vais m'y appesentir un peu plus, parce que c'est le seul jour férié lié au monde du travail, domaine qui m'intéresse particulièrement, et parce qu'il me semble important de garder en mémoire l'origine de ce férié. 
 
-De ce que j'ai pu trouver de mes recherches, tout commence à Chicago en 1886. Le 1er mai, les ouvriers de l'usine McCormick se rassemble pour revendiquer de nouveaux droits, notamment la journée de 8 heures. Cette revendication n'est pas nouvelle, il semblerait qu'elle trouve ses origines en Grande-Bretagne en 1817 et vous avez probablement déjà vu le slogan de Robert Owen : "Eight hours' labour, Eight hours' recrecreation, Eight hours' sleep" (en français : "8 heures de travail, 8 heures de loirs, 8 heures de repos"). 
+De ce que j'ai pu trouver de mes recherches, tout commence à Chicago en 1886. Le 1er mai, les ouvriers de l'usine McCormick se rassemblent pour revendiquer de nouveaux droits, notamment la journée de 8 heures. Cette revendication n'est pas nouvelle, il semblerait qu'elle trouve ses origines en Grande-Bretagne en 1817 et vous avez probablement déjà vu le slogan de Robert Owen : "Eight hours' labour, Eight hours' recrecreation, Eight hours' sleep" (en français : "8 heures de travail, 8 heures de loirs, 8 heures de repos"). 
 
-Revenons donc à nos ouvriers de Chicago : alors que la manifestation semble sur sa fin, la police débarque et charge les ouvriers ! Il y aura un mort et plusieurs blessés. Un militant anarchiste, August Spies, publie alors un communiqué dans le journal Chicagoer Arbeiter Zeitung (littéralement le journal des travailleurs de Chicago en allemand, journal des émigrés anarchistes allemands de Chicago) appelant à une manifestation pacifiste contre la violence policière pour le 4 mai suivant. Un autre appel dans le journal The Alarm conseillait aux manifestants de venir armés, mais dans un seul but d'autodéfense en cas de violences policières.
+Revenons donc à nos ouvriers de Chicago : alors que la manifestation semble sur sa fin, la police débarque et charge les ouvriers ! Il y aura un mort et plusieurs blessés. Un militant anarchiste, August Spies, publie alors un communiqué dans le journal Chicagoer Arbeiter Zeitung (littéralement le journal des travailleurs de Chicago en allemand, journal des émigrés anarchistes allemands de Chicago) appelant à une manifestation pacifiste contre la violence policière pour le 4 mai suivant. Un autre appel dans le journal The Alarm conseillait aux manifestants de venir armés, dans un but d'autodéfense en cas de violences policières.
 
 La manifestation se passe dans le calme, mais vers 22h, alors qu'il ne reste qu'une centaine de manifestants dans Haymarket Square, 180 policiers chargent les manifestants. Quelqu'un jette alors une bombe au milieu des policiers, tuant un agent. Les policiers répliquent. Les meneurs sont arrêtés, dont August Spies, et accusés de meurtre. Je vous passe le procès, les pendaisons et le reste. 
 
-Les derniers mots d'August Spies seront : (en français : "Le jour viendra où notre silence sera plus puissant que les voix que vous étranglez aujourd'hui"). 
+Les derniers mots d'August Spies seront (en français) : "Le jour viendra où notre silence sera plus puissant que les voix que vous étranglez aujourd'hui". 
 
 Toujours est-il que le combat pour la journée de 8 heures devient un point phare des revendications ouvrières et se répand dans le reste du monde. 
 
 Le 1er mai devient alors un symbole des combats pour les droits des travailleurs. En France, c'est la IIème internationale, en juillet 1889, qui décide de faire de chaque 1er mai un journée de manifestation pour revendiquer la journée de 8 heures, en commémoration du massacre d'Haymarket Square. Il leur faudra être patient, puisque cette revendication ne sera satisfaite, pour la plupart des pays européens, qu'à l'entre-deux-guerres. 
 
-La première "fête du travail" (terme de Jules Guesde) est donc célébrée le 1er mai 1890. L'année suivante, à Fourmies, dans le Nord de la France, les manifestations du 1er mai tournent au drame lorsque les forces de l'ordre tirent sur la foule, tuant 9 personnes. Suite à ce nouveau drame, les militants épingleront une églantine rouge sur leur tenue (mais les sources divergent sur ce que cette églantine représente). 
+La première "fête du travail" (terme de Jules Guesde) est donc célébrée le 1er mai 1890. L'année suivante, à Fourmies, dans le Nord de la France, les manifestations du 1er mai tournent au drame lorsque les forces de l'ordre tirent sur la foule, tuant 9 personnes. Suite à ce nouveau drame, les militants épingleront une églantine rouge sur leur tenue symbolisant le sang des manifestants tués l'année précédente (mais les sources divergent sur ce que cette églantine représente). 
 
-Cette fête fut récupérée par le maréchal Pétain, qui l'instaure légalement comme "la fête du Travail et de la Concorde sociale" (parce que "fête des travailleurs" ça faisait un peu trop prolo à son goût)... 1er mai qui correspond à la Saint Philippe ! Ce jour deviendra férié, chômé et payé, transformant ainsi symboliquement une journée de grève (de manifestations, de revendications, de blocage des entreprises) par une journée de repos officielle... L'églantine est remplacée par le muguet (le rouge ça faisait un peu trop communiste à son goût).
+Cette fête fut récupérée par le maréchal Pétain, qui l'instaure légalement comme "la fête du Travail et de la Concorde sociale" (parce que "fête des travailleurs" ça faisait un peu trop prolo à son goût)... 1er mai qui correspond d'ailleurs à la Saint Philippe ! Ce jour deviendra férié, chômé et payé, transformant ainsi symboliquement une journée de grève (de manifestations, de revendications, de blocage des entreprises) par une journée de repos officielle... L'églantine est remplacée par le muguet (le rouge ça faisait un peu trop communiste à son goût).
 
 Cette fête disparaît à la Libération, mais pas pour longtemps puisque le 1er mai re-devient un jour chômé et payé en avril 1947, inscrite dans le Code du Travail. L'année suivante, elle sera officiellement nommée "fête du travail". 
 
 > Petit teasing pour l'article suivant : le 1er mai bénéficie d'un statut de jour férié pas comme les autres !
 
-Le 1er mai a également été repris par le Front National pour honorer Jeanne d'Arc et donc par extension le patriotisme. En 1920, la République avait instauré la "fête de Jeanne d'Arc, fête du patriotisme" le 8 mai, date à laquelle la fameuse pucelle bouta l'envahisseur anglais hors d'Orléans en 1429. Sauf que 25 ans plus tard, au sortir de la Seconde Guerre Mondiale, le 8 mai commémore aussi la victoire des Alliés... Le Front ?National, créé en 1979, a commencé par se joindre aux défilés du 8 mai mais en 1988, Jean-Marie LE PEN décide de déplacer l'hommage à Jeanne d'Arc au 1er mai. Il se pourrait que ce soit lié au fait que le second tour de l'élection présidentielle ait lieu le 8 mai, et qu'il espérait bien en être. Une autre théorie serait d'avoir voulu lier travail et patriotisme pour représenter le programme du groupe politique. En 1995, le 1er mai donnera lieu à un nouveau drame : Brahim Bouarram y perdra la vie, poussé dans la Seine par un skinhead participant au défilé du Front National.
+Le 1er mai a également été repris par le Front National pour honorer Jeanne d'Arc et donc par extension le patriotisme. En 1920, la République avait instauré la "fête de Jeanne d'Arc, fête du patriotisme" le 8 mai, date à laquelle la fameuse pucelle bouta l'envahisseur anglais hors d'Orléans en 1429. Sauf que 25 ans plus tard, au sortir de la Seconde Guerre Mondiale, le 8 mai commémore aussi la victoire des Alliés... Le Front National, créé en 1979, a commencé par se joindre aux défilés du 8 mai mais en 1988, Jean-Marie LE PEN décide de déplacer l'hommage à Jeanne d'Arc au 1er mai. Il se pourrait que ce soit lié au fait que le second tour de l'élection présidentielle ait eu lieu le 8 mai, et qu'il espérait bien en être. Une autre théorie serait d'avoir voulu lier travail et patriotisme pour représenter le programme du groupe politique (manquait plus que la Famille... Maréchal, nous voilà vidéo !). En 1995, le 1er mai donnera lieu à un nouveau drame : Brahim Bouarram y perdra la vie, poussé dans la Seine par un skinhead participant au défilé du Front National.
 
 **Libération - 8 mai**
 
@@ -130,9 +132,9 @@ Il s'agit là encore d'une fête chrétienne, en honneur de la montée au ciel d
 
 **Toussaint - 1er novembre**
 
-On dit souvent que le 1er novembre est la "fête des morts", notamment parce que c'est généralement ce jour-là qu'on se rend aux cimetières pour fleurir les tombes des proches. En réalité, le 1er novembre, comme son nom l'indique, est la fête de "tous les saints", c'est donc une journée plutôt positive et joyeuse, où l'on honore tous les saints. 
+On dit souvent que le 1er novembre est la "fête des morts", notamment parce que c'est généralement ce jour-là qu'on se rend aux cimetières pour fleurir les tombes des proches. En réalité, le 1er novembre, comme son nom l'indique, est la fête de "tous les saints", c'est donc une journée où l'on honore tous les saints. 
 
-Sauf que le 2 novembre, le vrai jour de la fête des morts, n'est pas un jour férié, et peut tomber sur une journée de travail, c'est pourquoi on a pris l'habitude de la fêter la veille. 
+Sauf que le 2 novembre, le vrai jour de la fête des morts, n'est pas un jour férié, et peut tomber sur une journée de travail, c'est pourquoi on a pris l'habitude de la "fêter" la veille. 
 
 Le 1er novembre serait férié depuis le Concordat signé en 1801 entre le Pape et l'Etat français. 
 
@@ -142,7 +144,7 @@ Ce jour férié commémore la capitulation allemande en 1918, marquant la fin de
 
 **Noël - 25 décembre**
 
-Encore un férié issu de la religion chrétienne, célébrant la naissance de Jésus Christ, même si elle a pris une tournure très commerciale depuis la fin du 20ème siècle (société de consommation oblige). Comme plusieurs fêtes chrétiennes, il est probable qu'il s'agisse en réalité de la date d'une fête païenne que l'Eglise aurait récupérée.
+Encore un férié issu de la religion chrétienne, célébrant la naissance de Jésus Christ, même si elle a pris une tournure très commerciale depuis la fin du 20ème siècle (société de consommation oblige). Comme plusieurs fêtes chrétiennes, il est probable qu'il s'agisse en réalité de la date d'une fête païenne que l'Eglise aurait récupérée, puisque selon différentes sources, Jésus Christ ne serait pas du tout né en décembre !
 
 **Saint-Etienne - 26 décembre (Alsace, Moselle, Haut-Rhin, Bas-Rhin)**
 
@@ -156,9 +158,9 @@ Alors maintenant qu'on a vu un peu l'histoire derrière les jours fériés, voyo
 
 Le Code du Travail stipule 11 fêtes légales ayant le statut juridique de jours fériés : 1er janvier, lundi de Pâques, 1er mai, 8 mai, jeudi de l'Ascension, lundi de Pentecôte, 14 juillet, l'Assomption, 1er novembre, 11 novembre et 25 décembre (article L3133-1). 
 
-Les articles suivants indiquent que si ces jours sont chômés, les heures non travaillées ne peuvent pas donner lieur : 
+Les articles suivants indiquent que si ces jours sont chômés, les heures non travaillées ne peuvent pas donner lieu : 
  - ni à récupération
- - ni à perte de salaire pour les salarié.e.s ayant au moins 3 mois d'ancienneté et ayant accompli au moins 200 heures de travail effectif dans les deux mois précédent le jour férié, et sous réserve d'avoir été présent le dernier jour de travail précédent le jour férié et être présent le premier jour travaillé suivant le jour férié
+ - ni à perte de salaire pour les salarié.e.s ayant au moins 3 mois d'ancienneté et ayant accompli au moins 200 heures de travail effectif dans les deux mois précédent le jour férié, et sous réserve d'avoir été présent le dernier jour de travail précédent le jour férié et être présent le premier jour travaillé suivant le jour férié (comme toujours en droit du travail français, pourquoi faire simple quand on peut faire compliqué ? Et pourquoi mettre tout le monde sur le même pied d'égalité quand c'est tellement rigolo de faire des cas particuliers dans tous les sens ?)
 
 Bon, en clair : votre employeur ne peut pas vous demander de "rattraper" plus tard et doit normalement vous les payer normalement, sauf dérogations. Il se peut que les accords collectifs prévoient des conditions plus avantageuses pour les salariés qui donnent lieu à paiement des heures fériées, quelle que soit l'ancienneté par exemple. 
 
@@ -184,7 +186,7 @@ En principe (sauf accord collectif contraire) il n'est pas récupérable puisque
 Les jours de congés peuvent être décomptés en jours ouvrés (5 jours par semaine soit 25 jours par an) ou en jours ouvrables (6 jours par semaine soit 30 jours). Comme nous sommes dans l'exemple d'une entreprise classique, disons que la semaine de travail est du lundi au vendredi, le samedi est le jour de repos et le dimanche le jour de repos hebdomadaire. 
 
 Disons que l'entreprise décompte les congés en jours ouvrables. Si le jour férié tombe pendant les congés, il ne doit pas être décompté comme un jour de congé : 
- - s'il tombe du lundi au samedi : votre semaine sera décomptée pour 5 jours
+ - s'il tombe du lundi au samedi : votre semaine de congés sera décomptée pour 5 jours
  - s'il tombe le dimanche : votre semaine sera décomptée pour 6 jours (et le jour de repos coïncide avec le jour férié donc sauf accord collectif contraire, vous aurez eu, à la fin de l'année, un jour de repos de moins que s'il était tombé un autre jour)
 
 #### Le jour férié tombe pendant un arrêt de travail (maladie, accident du travail)
