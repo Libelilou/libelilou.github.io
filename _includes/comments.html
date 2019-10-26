@@ -1,26 +1,29 @@
-<section class="comments">
-    <h3>Commentaires</h3>
-    <div id="disqus_thread"></div>
-</section>
 <script type="text/javascript">
-    var disqus_loaded = false;
+  var disqus_loaded = false;
 
-    function load_disqus()
-    {
-        disqus_loaded = true;
-        var disqus_shortname = '{{site.disqus_username}}';
-        var disqus_title = '{{page.title.replace("'", "\\'")}}';
-        var disqus_url = '{{page.url}}';
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        var ldr = document.getElementById('disqus_loader');
-    };
-    window.onscroll = function(e) {
-        if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
-            //hit bottom of page
-            if (disqus_loaded==false)
-                load_disqus()
-        }
-    };
+  function load_disqus()
+  {
+    if (!disqus_loaded)  {
+      disqus_loaded = true;
+      var disqus_shortname = '{{ site.disqus_username }}';
+      var disqus_title = '{{ page.title.replace("'", "\\'") }}';
+      var disqus_url = '{{ page.url }}';
+      var dsq = document.createElement('script'); 
+      dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      document.getElementById('disqus_thread').innerText = '';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }
+  };
 </script>
+<section class="comments">
+  <h3>Commentaires</h3>
+  <div id="disqus_thread">
+    <p>
+      Pour des raisons de simplicité, les commentaires de ce blog reposent sur Disqus, un système tiers procédant au suivi des utilisateurs·ices via un suivi des appels et des cookies de traçage.<br>Si vous souhaitez poursuivre :
+    </p>
+    <button type="button" onclick="load_disqus()">
+      Charger les commentaires Disqus
+    </button>
+  </div>
+</section>
