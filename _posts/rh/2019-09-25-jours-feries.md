@@ -1,13 +1,13 @@
 ---
 title: "Les jours fériés en France"
 introduction: "Les réponses à toutes les questions que vous ne vous posiez pas sur les jours fériés !"
-published: false
+published: true
 post-color: 1
 ---
 
 <em lang="en">Update</em> : j'avais prévu de publier cet article en mai, et puis... bref, le voici, avec quelques mois de retard ! 
 
-En l'honneur de ce mois de mai, parsemé de jours fériés, je vous propose un petit billet sur ce sujet (oui, ça rime, je suis un peu poet-poet). 
+En l'honneur de ce mois de mai, parsemé de jours fériés, je vous propose un petit billet sur ce sujet (oui, ça rime, je suis un peu poète !). 
 
 ## L'origine des jours fériés
 
@@ -29,7 +29,7 @@ Il existe enfin quelques jours fériés rattachés à des branches professionnel
 
 Donc, d'après ce que j'ai pu comprendre de mes recherches pour cet article, les ancêtres des jours fériés étaient des jours de fêtes religieuses chômés. Elles étaient apparemment nombreuses dans l'Ancien Régime (jusqu'à une cinquantaine selon les régions, quand-même !), mais les hautes instances catholiques en auraient supprimé plusieurs pour des raisons économiques ("au boulot, tas de fainéants !"). Il existait également quelques fêtes sans contexte religieux, instaurées par des confréries professionnelles, par exemple. 
 
-Je ne vais pas vous refaire toute l'histoire mais apparemment, au fur des changements de société, des récupérations politiques diverses, les jours fériés et leur façon d'être fêtés (manifestations, événements religieux ou culturels) ont évolué.
+Je ne vais pas vous refaire toute l'histoire mais apparemment, au fur et à mesure des changements de société, des récupérations politiques diverses, les jours fériés et leur façon d'être fêtés (manifestations, événements religieux ou culturels) ont évolué.
 
 Il semblerait que le principe de légalité attaché aux jours fériés tels qu'on les connaît aujourd'hui, ait été progressivement instauré en France au cours du 19e siècle. Pour des raisons économiques, des textes réglementaires ou légaux permettent ainsi de contrôler et limiter le nombre de jours fériés. Certains sont même calés sur des jours fériés déjà existant ou sur des dimanche. 
 
@@ -49,11 +49,9 @@ Un peu partout en France, nous fêtons Mardi gras sans que ce jour soit pour aut
 
 Mardi gras n'a pas de date fixe, il tombe entre fin février et début mars puisqu'il est fixé 47 jours avant Pâques... Pâques étant fixé au premier dimanche après la première pleine lune qui suit l'équinoxe de printemps (aux alentours du 21 mars en général) - mais attention, on ne parle pas de la lune "observée" mais de la lune "ecclésiastique".
 
-On l'appelle comme ça puisqu'il est le dernier jour avant la période de Carême de 40 jours, pendant laquelle les Chrétiens sont invités à "manger maigre", donc en gros, on fait les réserves de gras ! Et je n'y ai jamais assisté mais il paraît que les festivités de cette fête aux Antilles sont assez spectaculaires !
+On l'appelle comme ça puisqu'il est le dernier jour avant la période de Carême de 40 jours, pendant laquelle les Chrétiens sont invités à "manger maigre", donc en gros, on fait les réserves de gras ! Et je n'y ai jamais assisté mais il paraît que les festivités de cette fête aux Antilles sont assez spectaculaires (je vous mets une vidéo pour le plaisir [ici](https://www.youtube.com/watch?v=cL-AcroI2DM)) !
 
-//mettre un lien vers une vidéo peut-être ?//
-
-La plupart des dictons autour de Mardi gras concernent comme souvent la météo (mettre un lien météo alain GP ?) du type "Mardi gras pluvieux, fait le cellier huileux" (Périgord)... mais je vous fais cadeau du suivant qui n'a pour le coup rien à voir avec la météo : "À Mardi gras, qui n'a pas de viande tue son coq. Qui n'a pas de coq tue sa femme"... je vous laisse apprécier le malaise.
+La plupart des dictons autour de Mardi gras concernent comme souvent la météo du type "Mardi gras pluvieux, fait le cellier huileux" (Périgord)... mais je vous fais cadeau du suivant qui n'a pour le coup rien à voir avec la météo : "À Mardi gras, qui n'a pas de viande tue son coq. Qui n'a pas de coq tue sa femme"... je vous laisse apprécier le malaise.
 
 Le Mercredi des cendres est donc le lendemain de Mardi gras, jour de pénitence qui marque le début du Carême... et, bien que je n'en ai pas la preuve officielle, je me demande s'il n'est pas férié aux Antilles pour que les gens se remettent du Carnaval de la veille plus que pour observer pénitence... disons le temps que le sang contienne de nouveau plus de sang que de rhum :D !
 
@@ -61,22 +59,21 @@ Le Mercredi des cendres est donc le lendemain de Mardi gras, jour de pénitence 
 
 Comme le carême dure 40 jours, la mi-carême tombe 20 jours après le début du carême, une occasion de se relâcher la pression avant de reprendre pour 20 jours de carême de plus !
 
-
 **Vendredi Saint (Moselle, Haut-Rhin, Bas-Rhin et Antilles)**
 
-Ce férié n'a encore une fois pas de date fixe, puis qu'il tombe le vendredi précédent le dimanche de Pâques. Pour les Chrétiens, il marque le jour de la crucifixion et de la mort de Jésus. 
+Ce férié n'a encore une fois pas de date fixe, puis qu'il tombe le vendredi précédent le dimanche de Pâques. Pour les Chrétiens, il marque le jour de la crucifixion et de la mort de Jésus. L'Eglise demande aux Chrétiens de faire un sacrifice ce jour-là, moi on m'avait toujours dit "on ne mange pas de viande le Vendredi Saint" mais il semblerait qu'on puisse remplacer ce "sacrifice" par autre chose (ne pas fumer pour un fumeur par exemple).
 
 **Lundi de Pâques**
 
 Il suit donc le dimanche de Pâques, qui commémore la résurrection de Jesus. Mais il se pourrait que l'origine de ce jour férié soit en réalité plus "économique" que cultuelle : ce jour étant déjà férié dans plusieurs pays européens, les bourses de ces pays étaient fermées ce jour-là, ce qui empêchait les négociations boursières, et de toute façon, il était apparemment d'usage de fermer les magasins ce jour-là. 
 
-Moi j'ai une autre théorie personelle : il est férié pour laisser aux gens le temps de récupérer du dimanche de Pâques. Rappelez-vous dans la chronologie, on a Mardi gras (excès de gras !) suivi par 40 jours de jeûne (ou d'alimentation frustre) puis le dimanche de Pâques (vidéo du moigneau dans Asterix)... C'est un peu violent pour le corps et il faut bien une journée pour se remettre et laisser le temps aux enfants de faire une crise de foie digne de ce nom !
+Moi j'ai une autre théorie personelle : il est férié pour laisser aux gens le temps de récupérer du dimanche de Pâques. Rappelez-vous dans la chronologie, on a Mardi gras (excès de gras !) suivi par 40 jours de jeûne (ou d'alimentation frustre) puis le [dimanche de Pâques](https://www.youtube.com/watch?v=7fzhFM5GF4I)... C'est un peu violent pour le corps et il faut bien une journée pour se remettre et laisser le temps aux enfants de faire une crise de foie digne de ce nom !
 
 **Abolition de l'esclavage**
 
 L'abolition de l'esclavage est commémorée à des dates différentes selon les territoires : 27 avril à Mayotte, 22 mai en Martinique, 27 mai en Guadeloupe, 10 juin en Guyanne, 9 octobre à Saint-Barthélémy, et 20 décembre à la Réunion.
 
-En Martinique, dans un très beau discours (ici), Aimé Césaire rappelle le rôle de la lutte des esclaves dans l'abolition de l'esclavage lors de l'inauguration de la Place du 22 mai en 1971, prenant le contre-pied des discours habituels privilégiant le rôle des Blancs. En Martinique, le 22 mai devriendra également un jour de manifestation pour le combat syndical. 
+En Martinique, dans un très beau [discours](https://pyepimanla.blogspot.com/2011/05/discours-daime-cesaire-lors-de.html), Aimé Césaire rappelle le rôle de la lutte des esclaves dans l'abolition de l'esclavage lors de l'inauguration de la Place du 22 mai en 1971, prenant le contre-pied des discours habituels privilégiant le rôle des Blancs. En Martinique, le 22 mai devriendra également un jour de manifestation pour le combat syndical. 
 
 **Fête du travail - 1er mai**
 
@@ -84,11 +81,11 @@ Je vais me permettre de contredire notre Président, mais le 1er mai n'a jamais 
 
 De ce que j'ai pu trouver de mes recherches, tout commence à Chicago en 1886. Le 1er mai, les ouvriers de l'usine McCormick se rassemblent pour revendiquer de nouveaux droits, notamment la journée de 8 heures. Cette revendication n'est pas nouvelle, il semblerait qu'elle trouve ses origines en Grande-Bretagne en 1817 et vous avez probablement déjà vu le slogan de Robert Owen : "Eight hours' labour, Eight hours' recrecreation, Eight hours' sleep" (en français : "8 heures de travail, 8 heures de loisirs, 8 heures de repos"). 
 
-Revenons donc à nos ouvriers de Chicago : alors que la manifestation semble sur sa fin, la police débarque et charge les ouvriers ! Il y aura un mort et plusieurs blessés. Un militant anarchiste, August Spies, publie alors un communiqué dans le journal Chicagoer Arbeiter Zeitung (littéralement le journal des travailleurs de Chicago en allemand, journal des émigrés anarchistes allemands de Chicago) appelant à une manifestation pacifiste contre la violence policière pour le 4 mai suivant. Un autre appel dans le journal The Alarm conseillait aux manifestants de venir armés, dans un but d'autodéfense en cas de violences policières.
+Revenons donc à nos ouvriers de Chicago : alors que la manifestation semble sur sa fin, la police débarque et charge les ouvriers ! Il y aura un mort et plusieurs blessés. Un militant anarchiste, August Spies, publie alors un communiqué dans le journal Chicagoer Arbeiter Zeitung (le journal des travailleurs de Chicago en allemand, journal des émigrés anarchistes allemands de Chicago) appelant à une manifestation pacifiste contre la violence policière pour le 4 mai suivant. Un autre appel dans le journal The Alarm conseillait aux manifestants de venir armés, dans un but d'autodéfense en cas de violences policières.
 
 La manifestation se passe dans le calme, mais vers 22h, alors qu'il ne reste qu'une centaine de manifestants dans Haymarket Square, 180 policiers chargent les manifestants. Quelqu'un jette alors une bombe au milieu des policiers, tuant un agent. Les policiers répliquent. Les meneurs sont arrêtés, dont August Spies, et accusés de meurtre. Je vous passe le procès, les pendaisons et le reste. 
 
-Les derniers mots d'August Spies seront (en français) : "Le jour viendra où notre silence sera plus puissant que les voix que vous étranglez aujourd'hui". 
+Les derniers mots d'August Spies auraient été (en français) : "Le jour viendra où notre silence sera plus puissant que les voix que vous étranglez aujourd'hui". 
 
 Toujours est-il que le combat pour la journée de 8 heures devient un point phare des revendications ouvrières et se répand dans le reste du monde. 
 
@@ -100,9 +97,7 @@ Cette fête fut récupérée par le maréchal Pétain, qui l'instaure légalemen
 
 Cette fête disparaît à la Libération, mais pas pour longtemps puisque le 1er mai re-devient un jour chômé et payé en avril 1947, inscrite dans le Code du Travail. L'année suivante, elle sera officiellement nommée "fête du travail". 
 
-> Petit teasing pour l'article suivant : le 1er mai bénéficie d'un statut de jour férié pas comme les autres !
-
-Le 1er mai a également été repris par le Front National pour honorer Jeanne d'Arc et donc par extension le patriotisme. En 1920, la République avait instauré la "fête de Jeanne d'Arc, fête du patriotisme" le 8 mai, date à laquelle la fameuse pucelle bouta l'envahisseur anglais hors d'Orléans en 1429. Sauf que 25 ans plus tard, au sortir de la Seconde Guerre Mondiale, le 8 mai commémore aussi la victoire des Alliés... Le Front National, créé en 1979, a commencé par se joindre aux défilés du 8 mai mais en 1988, Jean-Marie LE PEN décide de déplacer l'hommage à Jeanne d'Arc au 1er mai. Il se pourrait que ce soit lié au fait que le second tour de l'élection présidentielle ait eu lieu le 8 mai, et qu'il espérait bien en être. Une autre théorie serait d'avoir voulu lier travail et patriotisme pour représenter le programme du groupe politique (manquait plus que la Famille... Maréchal, nous voilà vidéo !). En 1995, le 1er mai donnera lieu à un nouveau drame : Brahim Bouarram y perdra la vie, poussé dans la Seine par un skinhead participant au défilé du Front National.
+Le 1er mai a également été repris par le Front National pour honorer Jeanne d'Arc et donc par extension le patriotisme. En 1920, la République avait instauré la "fête de Jeanne d'Arc, fête du patriotisme" le 8 mai, date à laquelle la fameuse pucelle bouta l'envahisseur anglais hors d'Orléans en 1429. Sauf que 25 ans plus tard, au sortir de la Seconde Guerre Mondiale, le 8 mai commémore aussi la victoire des Alliés... Le Front National, créé en 1979, a commencé par se joindre aux défilés du 8 mai mais en 1988, Jean-Marie LE PEN décide de déplacer l'hommage à Jeanne d'Arc au 1er mai. Il se pourrait que ce soit lié au fait que le second tour de l'élection présidentielle ait eu lieu le 8 mai, et qu'il espérait bien en être. Une autre théorie serait d'avoir voulu lier travail et patriotisme pour représenter le programme du groupe politique (manquait plus que [la Famille](https://youtu.be/qcHpow4k4v8?t=105)...). En 1995, le 1er mai prendra de nouveau une tournure tragique lorsqu'un skinhead participant au défilé du Front National tue Brahim Bouarram en le poussant dans la Seine.
 
 **Libération - 8 mai**
 
@@ -116,17 +111,19 @@ Là encore, pas vraiment de date fixe puisqu'il est célébré 40 jours après l
 
 **Le lundi de Pentecôte**
 
-De nouveau, pas de date fixe puisqu'il a lieu 51 jours après le dimanche de Pâques, soit 11 jours après le jeudi de l'Ascension, donc il tombe entre le 11 mai et le 14 juin (vous suivez ?). La Pentecôte célèbre cette fois-ci la descente de l'Esprit Saint parmi les apôtres. Elle est en fait fêtée pendant deux jours : le dimanche de Pentecôte (non reconnu comme férié puisqu'il tombe un dimanche - même si cela peut avoir des impacts sur le travail mais on en parlera plus tard) et le lundi de Pentecôte. 
+De nouveau, pas de date fixe puisqu'il a lieu 51 jours après le dimanche de Pâques, soit 11 jours après le jeudi de l'Ascension, donc il tombe entre le 11 mai et le 14 juin (vous suivez ?). La Pentecôte célèbre cette fois-ci la descente de l'Esprit Saint parmi les apôtres. Elle est en fait fêtée pendant deux jours : le dimanche de Pentecôte (non reconnu comme férié puisqu'il tombe un dimanche - même si de ce fait, on occulte totalement les personnes qui travaillent le dimanche - comme à Pâques) et le lundi de Pentecôte. 
 
 Là encore, il se pourrait que les raisons de rendre ce jour férié soient les mêmes que pour le lundi de Pâques.
 
-Son statut de jour férié remonte à 1886, et le gouvernement Raffarin décidera en 2004 de donner à ce jour un autre statut particulier : la journée de solidarité envers les personnes âgées (article). Il redeviendra férié chômé en 2008... mais vraiment pour plus de détails, lisez cet article spécifique à la journée de solidarité, si ce n'est pas déjà fait ;)
+Son statut de jour férié remonte à 1886, et le gouvernement Raffarin décidera en 2004 de donner à ce jour un autre statut particulier : la [journée de solidarité envers les personnes âgées](https://libelilou.github.io/2017/01/08/solidarite.html). Il redeviendra férié chômé en 2008... mais vraiment pour plus de détails, lisez cet article spécifique à la journée de solidarité, si ce n'est pas déjà fait ;)
 
 **Fête nationale - 14 juillet**
 
 Je fais un rappel en accéléré : 14 juillet 1989, prise de la Bastille, fin de la monarchie absolue, le pouvoir au peuple, toussa toussa. Ce jour sera institué comme fête nationale dès l'année suivante.
 
-https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_fran%C3%A7aise
+D'autres sources semblent indiquer qu'en réalité le 14 juillet n'est pas la fête nationale du fait de la prise de la Bastille ou pas uniquement, mais aussi en commémoration du 14 juillet 1790, la Fête de la Fédération, nettement moins sanglante. 
+
+Quoi qu'il en soit, c'est le député Benjamin Raspail (comme le boulevard et la station de métro :D) qui dépose en 1880 une proposition de loi pour déclarer le 14 juillet comme jour de fête nationale... sauf pour la commune de Viriat (dans l'Ain), où un arrêté municipal la même année [décale cette fête au premier dimanche d'août](https://www.leprogres.fr/pour-sortir/loisirs/Concert-musique/Autres-styles-musicaux/Rhone-alpes/Ain/Viriat/2019/08/04/Viriat-fete-son-14-juillet), pour ne pas perturber les fenaisons (c'est-à-dire la coupe, le fanage et la récolte des fourrages). 
 
 **Assomption - 15 août**
 
@@ -164,20 +161,21 @@ Les articles suivants indiquent que si ces jours sont chômés, les heures non t
  - ni à récupération ;
  - ni à perte de salaire pour les salarié.e.s ayant au moins 3 mois d'ancienneté et ayant accompli au moins 200 heures de travail effectif dans les deux mois précédent le jour férié, et sous réserve d'avoir été présent le dernier jour de travail précédent le jour férié et être présent le premier jour travaillé suivant le jour férié (comme toujours en droit du travail français, pourquoi faire simple quand on peut faire compliqué ? Et pourquoi mettre tout le monde sur le même pied d'égalité quand c'est tellement rigolo de faire des cas particuliers dans tous les sens ?).
 
-Bon, en clair : votre employeur ne peut pas vous demander de "rattraper" plus tard et doit normalement vous les payer normalement, sauf dérogations. Il se peut que les accords collectifs prévoient des conditions plus avantageuses pour les salariés qui donnent lieu à paiement des heures fériées, quelle que soit l'ancienneté par exemple. 
+Bon, en clair : votre employeur ne peut pas vous demander de "rattraper" les heures non travaillées ce jour-là plus tard et doit vous les payer normalement, sauf dérogations. Il se peut que les accords collectifs prévoient des conditions plus avantageuses pour les salariés qui donnent lieu à paiement des heures fériées, quelle que soit l'ancienneté par exemple. 
 
 Et j'ai précisé "si ces jours fériés sont chômés" car ils ne le sont pas forcément. En cas de travail pendant les jours fériés, l'entreprise doit donc s'acquitter du paiement du salaire et, selon les accords collectifs, des indemnités de sujétion diverses (par exemple une majoration du salaire horaire pour travail en jour férié ou une prime horaire, etc.). Certaines conventions prévoient également la récupération des jours fériés (c'est le cas dans la CCN 51 par exemple) : si vous travaillez un jour férié, vous obtenez un jour de repos supplémentaire (un récupérateur de jour férié) permettant ainsi de garantir à tous les salariés de bénéficier du même nombre de jours "fériés" dans l'année (même s'ils ne sont pas pris le jour-même du jour férié).
 
-Légalement, seul le 1er mai est férié et chômé (article L3133-4 et suivants). Il ne doit pas donner lieu à réduction de salaire. Pour les salariés payés à l'heure, à la journée ou au rendement, l'employeur doit s'acquitter d'une indemnité égale au salaire qui aurait été versé si le salarié avait travaillé normalement. S'il tombe sur un jour non travaillé, il est traité comme les autres jours fériés. S'il doit être travaillé (établissements et services qui du fait de leur activité ne peuvent pas interrompre leur activité comme la santé ou les transports), l'employeur s'acquitte d'une indemnité égale au montant du salaire de ce jour (en clair, cette journée est "payée double"). Et là, il n'y a, a priori, pas de dérogation possible : même si l'accord prévoit la possibilité de récupérer les jours fériés, le 1er mai n'est pas concerné et doit être payé double.
+Légalement, seul le 1er mai est férié et chômé ([article L3133-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033020884&cidTexte=LEGITEXT000006072050&dateTexte=20160810)). Il ne doit pas donner lieu à réduction de salaire. Pour les salariés payés à l'heure, à la journée ou au rendement, l'employeur doit s'acquitter d'une indemnité égale au salaire qui aurait été versé si le salarié avait travaillé normalement. S'il tombe sur un jour non travaillé, il est traité comme les autres jours fériés. S'il doit être travaillé (établissements et services qui du fait de leur activité ne peuvent pas interrompre leur activité comme la santé ou les transports), l'employeur s'acquitte d'une indemnité égale au montant du salaire de ce jour (en clair, cette journée est "payée double"). Et là, il n'y a, a priori, pas de dérogation possible : même si l'accord prévoit la possibilité de récupérer les jours fériés, le 1er mai n'est pas concerné et doit être payé double.
 
-Pour la journée de solidarité, je vous renvoie à l'article concerné. 
-Attention, les départements d'Alsace-Moselle ont des conditions particulières (mais j'avoue c'est un peu long, donc je vous renvoie directement à la partie concernée sur le Code du Travail !)
+Pour la journée de solidarité, je vous renvoie de nouveau à [l'article concerné](https://libelilou.github.io/2017/01/08/solidarite.html). 
+
+Attention, les départements d'Alsace-Moselle ont des conditions particulières (mais j'avoue c'est un peu long, donc je vous renvoie directement à la [partie concernée](https://www.legifrance.gouv.fr/affichCode.do;jsessionid=9C6DCA6D65302F0CCC4F88598DA304C2.tplgfr38s_1?idSectionTA=LEGISCTA000006178008&cidTexte=LEGITEXT000006072050&dateTexte=20160810) dans le Code du Travail !)
 
 ### Les cas particuliers
 
 Partons d'une entreprise classique, où les jours fériés sont tous chômés. 
 
-> Petite précision : je vais distinguer "jour de repos" et "jour de repos hebdomadaire". Historiquement, les semaines de travail s'étalaient sur 6 jours et les salariés ne bénéficiaient que d'un seul jour de repos par semaine (traditionnellement le dimanche). La plupart des salariés travaillent maintenant sur 5 jours, mais, en RH du moins, le jour de repos hebdomadaire continue de bénéficier d'un statut particulier. Généralement, le jour de repos est le samedi, le jour de repos hebdomadaire est le dimanche. Mais, selon l'activité, pour les établissements ouvrant 365 jours par an, les salariés sont amenés à travailler le week-end, leurs deux jours de repos sont alors décalés dans la semaine.
+> Petite précision : je vais distinguer "jour de repos" et "jour de repos hebdomadaire". Historiquement, les semaines de travail s'étalaient sur 6 jours et les salariés ne bénéficiaient que d'un seul jour de repos par semaine (traditionnellement le dimanche). La plupart des salariés travaillent maintenant sur 5 jours, mais, en RH du moins, le jour de repos hebdomadaire continue de bénéficier d'un statut particulier. Généralement, le jour de repos est le samedi, le jour de repos hebdomadaire est le dimanche. Mais, selon l'activité, pour les établissements ouvrant 365 jours par an, les salariés sont amenés à travailler le week-end, leurs deux jours de repos sont alors décalés dans la semaine et le jour de repos hebdomadaire est le jour de repos le plus proche du dimanche.
 
 #### Le jour férié tombe sur un jour de repos hebdomadaire
 
@@ -195,6 +193,10 @@ Disons que l'entreprise décompte les congés en jours ouvrables. Si le jour fé
 #### Le jour férié tombe pendant un arrêt de travail (maladie, accident du travail)
 
 Rien de particulier, il compte comme les autres jours d'arrêt de travail. Sauf accord collectif contraire, ce jour ne donne pas lieu à récupération. La Sécu le traite comme un jour "normal" en termes d'indemnités journalières. 
+
+Voilà, je pense que j'ai fait le tour, si vous avez des questions particulières, ma porte (i.e. les commentaires ou Twitter pour celleux qui m'y suivent) est toujours ouverte :)
+
+Bon repos à tou.te.s ;)
 
 
 
