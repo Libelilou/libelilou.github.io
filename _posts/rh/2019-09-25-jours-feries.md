@@ -1,8 +1,7 @@
 ---
 title: "Les jours fériés en France"
 introduction: "Les réponses à toutes les questions que vous ne vous posiez pas sur les jours fériés !"
-published: true
-post-color: 1
+post-color: 4
 ---
 
 <em lang="en">Update</em> : j'avais prévu de publier cet article en mai, et puis... bref, le voici, avec quelques mois de retard ! 

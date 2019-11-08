@@ -1,8 +1,7 @@
 ---
 title: "Pause déjeuner"
 introduction: "Parlons un peu d'un moment important de sa vie professionnelle : la pause dej :D"
-published: false
-post-color: 2
+post-color: 3
 tags:
   - temps de travail
 ---
@@ -27,7 +26,7 @@ Quels sont les risques ? Une injonction de la DIRECCTE (DIrection Régionale des
 
 Mais, vous, en tant que employé, pouvez demander à votre employeur une salle de restauration dédiée (via le CSE, le Comité Social et Economique par exemple, comité qui remplace les Délégués du Personnel).
 
-- si vous êtes au moins 25 employé.e.s à le demander, l'employeur devra alors consulter le CSE et demander l'autorisation de la DIRECCTE et l'avis du médecin du travail et mettre à votre disposition une salle de restauration comprenant : tables, chaises, robinet eau chaude-eau froide, réfrigirateur et… quelque chose permettant de faire réchauffer des plats (four, micro-ondes, plaques chauffantes). Attention, ce n'est pas nécessairement une cuisine, ça peut être un réfectoire, éventuellement partagé avec d'autres entreprises. Le tout est qu'il y ait suffisamment de places assises (pas forcément pour tous les employé.e.s mais en quantité raisonnable pour ne pas avoir à étaler les pauses repas sur 4 heures pour que tout le monde puisse manger assis !)
+- si vous êtes au moins 25 employé.e.s à le demander, l'employeur devra alors consulter le CSE et demander l'autorisation de la DIRECCTE et l'avis du médecin du travail et mettre à votre disposition une salle de restauration comprenant : tables, chaises, robinet eau chaude-eau froide, réfrigérateur et… quelque chose permettant de faire réchauffer des plats (four, micro-ondes, plaques chauffantes). Attention, ce n'est pas nécessairement une cuisine, ça peut être un réfectoire, éventuellement partagé avec d'autres entreprises. Le tout est qu'il y ait suffisamment de places assises (pas forcément pour tous les employé.e.s mais en quantité raisonnable pour ne pas avoir à étaler les pauses repas sur 4 heures pour que tout le monde puisse manger assis !)
 - si vous êtes moins de 25 à faire la demande, l'employeur est alors tenu d'aménager un espace repas, c'est-à-dire simplement un espace réservé à la prise des repas (tables et chaises) en respectant les règles d'hygiène et de sécurité (mais point d'obligation de frigo, micro-ondes, etc.). Et, si la DIRECCTE l'autorise et que le médecin du travail n'y voit aucun inconvénient, cet espace peut être installé dans des locaux affectés au travail hormis les lieux de stockage, d'utilisation et de préparation de substances toxiques ou dangereuses… autrement dit, [pas là quoi](https://www.youtube.com/watch?v=aEBOZBq1j3s) ! 
 
 Et bien entendu, ce local, quel qu'il soit, doit être ouvert et accessible à tou.te.s les employé.e.s, sauf sous-traitant.e.s (donc notamment aux normes d'accessibilité aux handicapé.e.s). Et l'employeur doit veiller à ce que ce local et ses équipements soit nettoyés après chaque repas (mais ça peut être demandé aux employé.e.s, le tout c'est qu'il y ait une consigne et qu'il veille à ce qu'elle soit respectée). 
@@ -48,19 +47,19 @@ Bref, donc on calcule le montant de l'avantage en nature (on va voir comment jus
 
 Pourquoi ce traitement particulier ? Parce que l'URSSAF considère en fait que ces avantages constituent un complément de salaire de la part de l'employeur, et il doit donc être déclaré et soumis à cotisations en tant que tel.
 
-// Faire une barre de séparation
+***
 
 Exemple : Bidule a un salaire brut de 2&#8239;000 € et il a 40 € d'avantage en nature repas dans le mois. Donc on rajoute 40 € au salaire brut. On calcule les cotisations sociales sur 2&#8239;040 € de salaire. Et dans le net, on retire 40 €. Au final, j'entends souvent "oui ben du coup, on y perd"... tout dépend votre point de vue sur les cotisations sociales. En salaire net, en effet, vous percevez concrètement moins si vous avez des avantages en nature que si vous n'en aviez pas, mais d'un autre côté, d'une part le repas ne vous coûte "que" les cotisations sociales sur un coût déjà très faible, d'autre part, les cotisations sociales sont du salaire socialisé, c'est le fondement de la mutualisation des risques (maladie, chômage...).
 
 Bon, si le gouvernement continue à nous déglinguer notre système social, ça devrait plus durer longtemps ces histoires de mutualisation et solidarité des risques... et ça nous coûtera à tous encore plus cher parce qu'il faudra constituer une réserve personnelle pour les risques de la vie courante, donc beaucoup plus coûteux qu'avec la mutualisation, forcément.
 
-// Fin de la barre de séparation
+***
 
 Deux cas distincts : 
 
 #### L'employeur fournit gratuitement les repas
 
-Par exemple dans des entreprises où les salariés peuvent bénéficier de repas qui sont préparés sur place, dans la cuisine de l'établissement : les restaurants, hôtels, hôpitaux, maisons de retraite, crèche - ce sont des exemples, ce n'est pas parce qu'on travaille dans ce genre d'établissement que les repas sont forcéments fournis gratuitement par l'employeur. 
+Par exemple dans des entreprises où les salariés peuvent bénéficier de repas qui sont préparés sur place, dans la cuisine de l'établissement : les restaurants, hôtels, hôpitaux, maisons de retraite, crèche - ce sont des exemples, ce n'est pas parce qu'on travaille dans ce genre d'établissement que les repas sont forcément fournis gratuitement par l'employeur. 
 
 Comment ça marche ? Dans ce cas, l'employeur doit déclarer pour chaque employé.e qui en bénéficie un avantage en nature, évalué forfaitairement (pas par vous mais par l'Etat). En 2019 par exemple, le montant de l'avantage en nature sera de 4.85 € par repas (ou 9.70 € si les horaires font que les deux repas sont pris sur place). 
 Attention, il s'agit d'un forfait plancher, une convention collective ou un accord d'entreprise peut prévoir un montant supérieur. 
@@ -76,31 +75,31 @@ Là on est dans le cas où l'employé.e débourse concrètement une somme, faibl
 Soit vous prenez vos repas directement dans l'entreprise (par exemple dans mon ancien EHPAD, on pouvait acheter ses repas directement auprès de la cuisine) : on reste sur la même évaluation qu'au-dessus, à savoir en 2019, 4.85 € par repas (ou 9.70 € pour 2 repas). Si le montant que vous payez est inférieur à ce forfait, la différence doit être déclarée en avantage en nature (principe vu ci-dessus). Si par exemple, l'employeur vous facture le repas à 2 €, votre bulletin de salaire fera apparaître un avantage en nature de 2.85 € par repas. 
 
 Soit vous prenez vos repas à la cantine ou restaurant d'entreprise (géré ou subventionné par l'entreprise ou le comité d'entreprise). Si le montant que vous payez est inférieur au forfait, deux cas possibles : 
-- soit le montant payé est inférieur à 50% du forfait (donc pour 2019, 2.425 €): la différence est alors soumise à cotisations (via le système des avantages en nature)
-- soit le montant payé est supérieur à 50% du forfait : dans ce cas, on considère que l'avantage en nature est "négligeable" et il ne sera pas réintégré au salaire brut (donc non soumis à cotisations). 
+- soit le montant payé est inférieur à 50 % du forfait (donc pour 2019, 2.425 €): la différence est alors soumise à cotisations (via le système des avantages en nature)
+- soit le montant payé est supérieur à 50 % du forfait : dans ce cas, on considère que l'avantage en nature est "négligeable" et il ne sera pas réintégré au salaire brut (donc non soumis à cotisations). 
 
 Vous retrouverez toutes les informations à ce sujet [sur le site de l'URSSAF](https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/les-avantages-en-nature/lavantage-en-nature-nourriture.html). 
 
 ### Tickets Restaurant (TR)
 
-> Pour votre culture, le ticket restaurant aurait été créé par l'industriel Jacques Borel en 1963, et c'est d'ailleurs lui qui aurait ouvert la première enseigne de restauration rapide (parce que les femmes arrivant sur le marché du travail massivement et auraient moins le temps de faire la cuisine !) et les premiers restoroutes en 1968 et qui aurait fortement contribué à la baisse de la TVA à 5.5% pour la restauration en France en 2009. L'article [Wikipedia qui lui est consacré](https://fr.wikipedia.org/wiki/Jacques_Borel_(industriel)) est en tous cas intéressant !
+> Pour votre culture, le ticket restaurant aurait été créé par l'industriel Jacques Borel en 1963, et c'est d'ailleurs lui qui aurait ouvert la première enseigne de restauration rapide (parce que les femmes arrivant sur le marché du travail massivement et auraient moins le temps de faire la cuisine !) et les premiers restoroutes en 1968 et qui aurait fortement contribué à la baisse de la TVA à 5.5 % pour la restauration en France en 2009. L'article [Wikipedia qui lui est consacré](https://fr.wikipedia.org/wiki/Jacques_Borel_(industriel)) est en tous cas intéressant !
 
 Un autre moyen de participer aux frais de repas des employé.e.s : les tickets restaurant, que le Code du Travail appelle "titre-restaurant" ([art. L3261-1 et suivants](https://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000006189677&cidTexte=LEGITEXT000006072050)). 
 
-Leur financement est assuré soit uniquement par l'employeur soit par l'employeur et par le employé. Du point de vue de l'URSSAF, le montant des TR n'est exonéré de cotisations sociales que si le financement de l'employeur représente 50 à 60 % du montant total sans dépasser 5.06 € par ticket (valeur au 1er javnier 2008). Le Code général des impôts (que vous avez tou.te.s j'en suis sûre sur votre table de chevet) prévoit également une exonération fiscale des titres restaurant si la part de l'employeur est inférieure à 5.43 € (valeur actuelle).
+Leur financement est assuré soit uniquement par l'employeur soit par l'employeur et par le employé. Du point de vue de l'URSSAF, le montant des TR n'est exonéré de cotisations sociales que si le financement de l'employeur représente 50 à 60 % du montant total sans dépasser 5.06 € par ticket (valeur au 1er janvier 2008). Le Code général des impôts (que vous avez tou.te.s j'en suis sûre sur votre table de chevet) prévoit également une exonération fiscale des titres restaurant si la part de l'employeur est inférieure à 5.43 € (valeur actuelle).
 
-Si ces limites sont respectées, ils apparaissent donc uniquement dans le salaire net pour le montant de la participation du employé (par exemple, si vous avez des TR de 8 € financés à 50% par l'employeur, ils seront décomptés du salaire net pour 4 €).
+Si ces limites sont respectées, ils apparaissent donc uniquement dans le salaire net pour le montant de la participation du employé (par exemple, si vous avez des TR de 8 € financés à 50 % par l'employeur, ils seront décomptés du salaire net pour 4 €).
 
 Pourquoi ces paliers d'ailleurs ? Parce qu'on considère que le financement de l'employeur représente dans ce cas un "complément de salaire" et que tout salaire est normalement soumis à cotisations sociales et fiscales.
 
-Et, pour toi public, je suis allée faire un tour sur le site de la Commission Nationale des Titres Restaurant et je vous résume les principales restrictions d'uilisation : 
+Et, pour toi public, je suis allée faire un tour sur le site de la Commission Nationale des Titres Restaurant et je vous résume les principales restrictions d'utilisation : 
 - seule la personne dont le nom figure sur le titre est autorisée à les utiliser (en vrai, on ne m'a jamais demandé ma carte d'identité !)
-- utilisation exclusive pour des "repas ou préparations alimentaires assurant au salarié une alimentation variée"... (*)
+- utilisation exclusive pour des "repas ou préparations alimentaires assurant au salarié une alimentation variée"[^note]...
 - la consommation du repas ou l'achat de préparations alimentaires doit être "effectué au cours d'une journée de travail, généralement pendant la pause accordée [...] pour sa restauration"
 - ces titres ne sont utilisables que les jours travaillés de la semaine hors dimanche et jours fériés SAUF pour les personnes travaillant les dimanche et jour férié SI l'employeur le fait inscrire sur le titre
-- l'utilisation des titres-restaurant est limitée à 19€ par jour et dans une zone géographique limitée (département du lieu de travail et départements limitrophes - ce qui laisse quand-même de la marge !) et là encore, si l'employeur le fait inscrire sur les titres, cette zone peut être étendue pour les employé.e.s en déplacement professionnel.
+- l'utilisation des titres-restaurant est limitée à 19 € par jour et dans une zone géographique limitée (département du lieu de travail et départements limitrophes - ce qui laisse quand-même de la marge !) et là encore, si l'employeur le fait inscrire sur les titres, cette zone peut être étendue pour les employé.e.s en déplacement professionnel.
 
-(*) : le truc veut littéralement rien dire ! Qui contrôle ? Comment ? ça veut dire quoi équilibré ? Si je mange une poutine par jour, ouais c'est pas très équilibré, mais comment le restaurateur peut le savoir ? Alors quoi, on a plus le droit de manger de poutine dans ce pays ??? :D Bref, la phrase qui sert à rien ! - d'ailleurs, en vrai, le Code du travail (article L 3262-1) précise simplement qu'ils doivent être utilisés pour régler "le repas consommé au restaurant ou acheté auprès [d'un restaurateur, hôtelier restaurateur ou détaillant en fruits et légumes], qui peut être composé de fruits et légumes, qu'ils soient ou non directement consommable" (oui c'est un peu long mais je peux pas résumer)
+[^note]: Le truc ne veut littéralement rien dire ! Qui contrôle ? Comment ? Ça veut dire quoi équilibré ? Si je mange une poutine par jour, ouais c'est pas très équilibré, mais comment le restaurateur peut le savoir ? Alors quoi, on a plus le droit de manger de poutine dans ce pays ??? :D Bref, la phrase qui sert à rien ! - d'ailleurs, en vrai, le Code du travail (article L 3262-1) précise simplement qu'ils doivent être utilisés pour régler "le repas consommé au restaurant ou acheté auprès [d'un restaurateur, hôtelier restaurateur ou détaillant en fruits et légumes], qui peut être composé de fruits et légumes, qu'ils soient ou non directement consommable" (oui c'est un peu long mais je peux pas résumer)
 
 Ces titres ne sont délivrés par l'employeur que pour les journées effectives de travail, comprenant la pause repas. Vous n'aurez donc pas de TR en cas d'absence, quelle qu'elle soit (maladie, congé, RTT, férié, etc.). Et si votre journée de travail est en coupure (par exemple 8h-11h30 puis 15h-19h) ou en horaires décalés (23h-7h par exemple), vous n'aurez pas de TR pour ces journées. Bon après... reste à argumenter quels sont les horaires de pause repas... moi, si je travaillais de nuit, je ferais quand-même un repas au milieu... ou comme le dit mon mari en relisant cet article "ouais 3 ou 4 même" :)
 
@@ -121,7 +120,7 @@ Un avantage à cette nouvelle carte semble être qu'apparemment, en cas de perte
 Les inconvénients exprimés dans certains titres de presse que j'ai pu trouver sur le net, sont en réalité les conséquences de l'application stricte de la loi. Je m'explique : la loi interdisait déjà un certain nombre de pratiques liées aux titres-restaurants (voir partie précédente) mais qui, dans les faits, étaient tout de même pratiquées. Ces pratiques ne seraient vraiment plus possible avec la carte. 
 
 Parmi les plus courantes : 
-- inviter quelqu'un au restaurant (le plafond de 19€ existe depuis longtemps mais dans les faits, beaucoup de restaurateurs acceptaient qu'on paie avec 3 ou 4 titres-restaurant pour inviter quelqu'un)
+- inviter quelqu'un au restaurant (le plafond de 19 € existe depuis longtemps mais dans les faits, beaucoup de restaurateurs acceptaient qu'on paie avec 3 ou 4 titres-restaurant pour inviter quelqu'un)
 - l'utilisation de la carte le dimanche ou les jours fériés (la loi limitait déjà l'utilisation des titres-restaurant le dimanche et jours fériés uniquement si une mention spéciale y était apposée par l'employeur... mais dans les faits, encore une fois, les restaurateurs étaient assez complaisants sur ce point)
 - le règlement d'une partie des courses (hors plats cuisinés, produits laitiers, fruits et légumes) là où encore une fois, une partie des enseignes était finalement assez peu regardante là-dessus
 - impossibilité de les céder (à ses enfants, conjoint.e.s, ou mendiants)
@@ -168,13 +167,13 @@ Attention : ça vaut aussi si l'employeur met gratuitement à votre disposition 
 
 Bon, ça c'était la partie "définitions". Qu'est-ce que ça change concrètement par rapport aux petits déplacements ? 
 
-**Les déplacements en métropole** : l'employeur a la possiblité de verser des indemnités forfaitaires, mais il doit comparer le montant de l'indemnité forfaitaire aux limites d'exonération des dépenses de repas et de logement/petit-déjeuner (pour différencier les cas où tout est payant et les cas où le logement serait gratuit mais pas les repas par exemple). Il peut également s'amuser à faire un mix en remboursant au réel les frais de logement et petit-déjeuner et au forfait les frais de repas (attention, va falloir garder les bonnes factures !).
+**Les déplacements en métropole** : l'employeur a la possibilité de verser des indemnités forfaitaires, mais il doit comparer le montant de l'indemnité forfaitaire aux limites d'exonération des dépenses de repas et de logement/petit-déjeuner (pour différencier les cas où tout est payant et les cas où le logement serait gratuit mais pas les repas par exemple). Il peut également s'amuser à faire un mix en remboursant au réel les frais de logement et petit-déjeuner et au forfait les frais de repas (attention, va falloir garder les bonnes factures !).
 
 ![Tableau du barème de l'URSSAF](/assets/img/frais_grand_deplacement.png)
 
 Vous pouvez retrouver ce barème en cliquant [ici](https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/les-frais-professionnels/lindemnite-de-grand-deplacement.html) puis en cliquant sur "Retrouvez le barème".
 
-Le barème de l'URSSAF tient alors compte de la différence de coût de logement entre Paris, les départements des Hauts-de-Seine, Seine-Saint-Denis et Val de Marne d'une part, et la province d'autre part... ouais parce que c'est vrai qu'en dehors de ces départements, la France n'est qu'un vaste domaine agricole où les logements ne coûtent rien ! Bref, on va pas polémiquer encore une fois sur le fait que 90% de la France soit "la Province".
+Le barème de l'URSSAF tient alors compte de la différence de coût de logement entre Paris, les départements des Hauts-de-Seine, Seine-Saint-Denis et Val de Marne d'une part, et la province d'autre part... ouais parce que c'est vrai qu'en dehors de ces départements, la France n'est qu'un vaste domaine agricole où les logements ne coûtent rien ! Bref, on va pas polémiquer encore une fois sur le fait que 90 % de la France soit "la Province".
 
 
 **Les déplacements en Outre-mer et à l’étranger** : dans ce cas, les remboursements aux frais réels sont totalement exonérés sans limite de montant (sur présentation des factures par contre). Si l'employeur opte pour une indemnisation forfaitaire, la partie exonérée sera celle inférieure ou égale au montant des indemnités de mission allouées aux personnels civils et militaires de l'Etat envoyés en mission temporaire en Outre-mer et à l'étranger.
@@ -190,19 +189,19 @@ Attention, bien entendu, ce maximum est réduit si l'employé.e est logé ou nou
 
 Pour l’étranger :
 Ces montants varient en fonction des pays (vous pouvez les consulter [sur le site du Ministère de l'Economie](https://www.economie.gouv.fr/dgfip/mission_taux_chancellerie/frais)) mais il faut savoir que l'indemnité indiquée doit être réduite de : 
-- 65% lorsque l'employé.e est logé.e gratuitement, c’est-à-dire lorsque l’employeur fournit le logement ou prend en charge directement les frais d’hébergement en réglant l’hôtelier ;
-- 17.5% lorsque l'employé.e est nourri.e à l'un de repas et 35% pour les deux repas
+- 65 % lorsque l'employé.e est logé.e gratuitement, c’est-à-dire lorsque l’employeur fournit le logement ou prend en charge directement les frais d’hébergement en réglant l’hôtelier ;
+- 17.5 % lorsque l'employé.e est nourri.e à l'un de repas et 35 % pour les deux repas
 
-Et les mêmes abattements de 15% et 30% s'appliquent là-encore, respectivement à partir de 4 mois et entre 2 ans et 4 ans. 
+Et les mêmes abattements de 15 % et 30 % s'appliquent là-encore, respectivement à partir de 4 mois et entre 2 ans et 4 ans. 
 
-Et là encore, si l'employeur veut s'amuser, il peut décider de combiner les méthodes en indemnisant d'une part les frais d'hébergement au réel, d'autre part les frais de repas au forfait (attention, cependant, à ce que ce forfait n'excède pas 40% du montant de l'indemnité totale de mission à l'étranger pour le pays concerné).
+Et là encore, si l'employeur veut s'amuser, il peut décider de combiner les méthodes en indemnisant d'une part les frais d'hébergement au réel, d'autre part les frais de repas au forfait (attention, cependant, à ce que ce forfait n'excède pas 40 % du montant de l'indemnité totale de mission à l'étranger pour le pays concerné).
 
 ## On prend l'apéro ? (Camping)
 
-Et finissons cet article par une préoccupatin bien de chez nous : l'alcool au travail !!! Eh oui, on est en France donc le sujet de l'alcool est suffisamment important pour être inscrit dans le Code du Travail !
+Et finissons cet article par une préoccupation bien de chez nous : l'alcool au travail !!! Eh oui, on est en France donc le sujet de l'alcool est suffisamment important pour être inscrit dans le Code du Travail !
 
 Que dit le Code du Travail exactement ? Dans l'article R4228-20 il est stipulé qu'en matière d'alcool sur le lieu de travail "aucune boisson alcoolisée autre que le vin, la bière, le cidre et le poiré n'est autorisée". On nous avait bien dit que "le vin n'est pas un alcool comme les autres" !
 
-L'employeur peut néanmoins, par le biais du règlement intérieur ou d'une note de service, interdire carrément la consommation de tout alcool, quel qu'il soit, sur le lieu de travail (ou la limiter) mais cette mesure doit être "proporionnée au but recherché". L'employeur doit donc pouvoir justifier que la consommation d'alcool sur le lieu de travail "est susceptible de porter atteinte à la sécurité et à la santé physique et mentale des travailleurs" (car l'employeur est tenu de protéger la santé et la sécurité des travailleurs et de prévenir tout risque d'accident).
+L'employeur peut néanmoins, par le biais du règlement intérieur ou d'une note de service, interdire carrément la consommation de tout alcool, quel qu'il soit, sur le lieu de travail (ou la limiter) mais cette mesure doit être "proportionnée au but recherché". L'employeur doit donc pouvoir justifier que la consommation d'alcool sur le lieu de travail "est susceptible de porter atteinte à la sécurité et à la santé physique et mentale des travailleurs" (car l'employeur est tenu de protéger la santé et la sécurité des travailleurs et de prévenir tout risque d'accident).
 
 Voilà, j'avais prévu à la base de faire un "petit article rapide" sur les repas au travail mais j'ai finalement opté pour un article exhaustif ! Merci de vous être accroché.e jusqu'au bout et à bientôt pour d'autres sujets passionnants !!!
