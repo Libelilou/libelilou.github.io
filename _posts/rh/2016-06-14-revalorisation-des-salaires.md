@@ -22,7 +22,7 @@ C'est une valeur décidée entre les syndicats et qui en principe, est renégoci
 
 ## En pratique
 
-Si je garde l'exemple de mon aide-soignant, son salaire brut de base est - depuis 2010 - de : 351 &times; 4.403 = 1 545.45 € et il bénéficie en plus d'une "prime fonctionnelle" de 11 points / mois donc 11 &times; 4.403 € = 48.43 € donc un salaire de 1 593.88 €
+Si je garde l'exemple de mon aide-soignant, son salaire brut de base est - depuis 2010 - de : 351 &times; 4.403 = 1 545.45 € et il bénéficie en plus d'une "prime fonctionnelle" de 11 points / mois donc 11 &times; 4.403 € = 48.43 € donc un salaire de 1 593.88 €.
 
 Donc, je le répète, ce point n'a pas été revalorisé depuis près de 6 ans ! Alors, certes il y a 1% d'ancienneté par an… Ouais… sauf que ça compense à peine l'augmentation des cotisations sociales annuelles et carrément pas l'inflation ! Et double effet kiss-kool : l'écart entre les métiers se réduit sérieusement. Pourquoi ? Parce que pour le moment, les salaires ne peuvent pas être inférieurs au SMIC. En 2016, le SMIC est de 1 466.62 € donc si on le ramène à la valeur du point : 1 466.62 € / 4.403 € = 333 points. Donc, si vous voyez où je veux en venir, tous les salariés dont le coefficient est inférieur à 333, ont un salaire de base inférieur au SMIC, donc leur salaire est automatiquement revalorisé à hauteur du SMIC.
 
