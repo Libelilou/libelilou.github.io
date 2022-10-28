@@ -9,9 +9,10 @@ username: Princesse RH
 user_description: 'Responsable des ressources humaines, comptable, cuisinière, maman… et princesse !'
 user_title: Princesse RH
 email:
-twitter_username: libellule
 github_username:  libelilou
 disqus_username: princesserh
+mastodon_username: "@libellule@pouet.chapril.org"
+mastodon_url: "https://pouet.chapril.org/@libellule"
 repository: "Libelilou/libelilou.github.io.git"
 timezone: Europe/Paris
 encoding: utf-8

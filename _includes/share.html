@@ -1,6 +1,6 @@
 <section class="share">
     <h3>Ça vous a plus ? Faites-le découvrir à d'autres !</h3>
-    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title | url_encode }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag | replace: ' ', '' | slugify}},{% endfor %}"
+    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title | url_encode }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.mastodon_username }}&hashtags={% for tag in page.tags %}{{tag | replace: ' ', '' | slugify}},{% endfor %}"
     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
         <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
     </a>
