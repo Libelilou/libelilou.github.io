@@ -4,6 +4,7 @@ introduction: "Décryptons les implications d'une mesure RH votée pour 2019 et 
 post-color: 6
 tags:
   - cotisations sociales
+  - paie
 ---
 
 J'avais prévu de faire cet article en janvier, dans un grand article présentant les nouvelles mesures RH 2019 mais en descendant mon fil Twitter ce soir, un tweet m'a fait bondir :
