@@ -8,7 +8,7 @@ tags:
 
 J'ai légèrement modifié les paroles de [Grégoire](https://youtu.be/kOru9ITtVIg) et du [Président Whitmore](https://youtu.be/QoLywiaM6PA) mais les fans auront reconnu ;)
 
-Cette fois-ci, je remercie [@jwajsberg](@julienw@pouet.chapril.org) de m'avoir proposé cette idée d'article. J'y avais déjà pensé mais j'avais laissé tomber car je n'étais pas sûre d'avoir suffisamment de choses à dire là-dessus mais il se trouve qu'en fait, y'a matière !!
+Cette fois-ci, je remercie [@jwajsberg](https://pouet.chapril.org/@julienw) de m'avoir proposé cette idée d'article. J'y avais déjà pensé mais j'avais laissé tomber car je n'étais pas sûre d'avoir suffisamment de choses à dire là-dessus mais il se trouve qu'en fait, y'a matière !!
 
 <i lang="en">Princesse RH proudly presents</i> : la journée de solidarité !! Vous savez, celle dont tout le monde parle sans trop savoir de quoi il s'agit. D'où ça vient ? Comment ça marche ? Et d'abord la solidarité avec qui ?! On se calme, on se calme !! On va parler de tout ça :D
 
