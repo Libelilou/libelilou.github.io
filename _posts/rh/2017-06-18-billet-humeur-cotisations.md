@@ -2,8 +2,6 @@
 title : "Billet d'humeur : les cotisations sociales"
 introduction: "Qu'implique vraiment la réforme des taux de cotisations sociales annoncées par notre Président ? Serons-nous si gagnant que ça ??"
 post-color: 7
-redirect_from:
-  - /2017/05/29/Sudweb.html
 tags:
   - rémunération
 ---

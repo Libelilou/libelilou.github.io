@@ -2,8 +2,6 @@
 title : "Le forfait jours"
 introduction: "Savez-vous vraiment ce qui se cache derrière cette convention un peu particulière ? Démêlons le vrai de l'alternative fact :D"
 post-color: 2
-redirect_from:
-  - /2017/05/08/forfait-jour.html
 tags:
   - temps de travail
   - rémunération
