@@ -29,21 +29,12 @@ layout: microtypo
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="{{ "/assets/revealjs/css/reveal.css" | prepend: site.baseurl }}"/>
-    <link rel="stylesheet" href="{{ "/assets/revealjs/css/theme/white.css" | prepend: site.baseurl }}" id="theme"/>
+    <link rel="stylesheet" href="{{ "/assets/revealjs/reveal.css" | prepend: site.baseurl }}"/>
+    <link rel="stylesheet" href="{{ "/assets/revealjs/theme/white.css" | prepend: site.baseurl }}" id="theme"/>
     <link rel="stylesheet" href="{{ "/assets/css/reveal.css" | prepend: site.baseurl }}"/>
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{ "/assets/revealjs/lib/css/zenburn.css" | prepend: site.baseurl }}"/>
-
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement( 'link' );
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi )?'{{ "/assets/revealjs/css/print/pdf.css" | prepend: site.baseurl }}':'{{ "/assets/revealjs/css/print/paper.css" | prepend: site.baseurl }}';
-      document.getElementsByTagName( 'head' )[0].appendChild( link );
-    </script>
+    <link rel="stylesheet" href="{{ "/assets/revealjs/plugin/highlight/zenburn.css" | prepend: site.baseurl }}"/>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
@@ -116,8 +107,7 @@ layout: microtypo
       </div>
     </div>
 
-    <script src="{{ "/assets/revealjs/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/assets/revealjs/js/reveal.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/revealjs/reveal.js" | prepend: site.baseurl }}"></script>
     {% include analytics.html %}
     <script>
       // Full list of configuration options available at:
